@@ -1,7 +1,0 @@
-wpsyundoc.smartcitysz.com:443
-cpan.smartcitysz.com:8888
-oa.smartcitysz.com:80
-oa.smartcitysz.com:443
-wpsyundoc.smartcitysz.com:80
-cpan.smartcitysz.com:161
-wpsyundoc.smartcitysz.com:8090
