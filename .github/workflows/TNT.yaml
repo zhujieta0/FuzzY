@@ -2,8 +2,8 @@ name: TNT
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
-    - cron: '56 12 * * *'
+    # - cron: '*/5 * * * *'
+    - cron: '0 10 * * *'
     - cron: '0 15 * * *'
     - cron: '0 20 * * *'
 
