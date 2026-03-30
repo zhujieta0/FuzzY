@@ -10,8 +10,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    # env:
-    #   TZ: Asia/Shanghai
+    env:
+      TZ: Asia/Shanghai
     steps:
       - name: Checkout Repo
         uses: actions/checkout@master
