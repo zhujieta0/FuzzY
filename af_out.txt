@@ -1,0 +1,8 @@
+
+Afrog/3.5.1 | Security Toolkit | Lightweight, Fast, and Direct to the Flaw.
+════════════════════════════════════════════════════════
+[✓] Core:  3.5.1              
+[✓] POC:   0.5.26             
+[✓] Cur:   0/pocs https://t.zsxq.com/lV66x 
+[✖] OOB:   ceyeio (Not configured) 
+════════════════════════════════════════════════════════
