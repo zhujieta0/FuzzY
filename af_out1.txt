@@ -6,9 +6,3 @@ Afrog/3.5.1 | Security Toolkit | Lightweight, Fast, and Direct to the Flaw.
 [✓] Cur:   0/pocs https://t.zsxq.com/lV66x 
 [✓] OOB:   Not required (no OOB PoCs) 
 ════════════════════════════════════════════════════════
-001 04-23 00:27:25 imap-detect INFO mail.szap.com:993 
-002 04-23 00:27:53 smtp-detect INFO mail.szap.com:25 
-003 04-23 00:27:53 smtp-detect INFO mailx.szap.com:25 
-004 04-23 00:27:54 smtp-detect INFO mx.szap.com:25 
-005 04-23 00:27:56 ssh-detect INFO www.szap.com:22 [ssh="SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.15"]
-006 04-23 00:28:06 telnet-detect INFO www.szap.com:22 
