@@ -1,0 +1,228 @@
+[dns-rebinding:IPv4] [dns] [unknown] m.szap.com ["127.0.0.1"]
+[wildcard-dns-detect] [dns] [info] 3Cz8dyKdmqAaoQDSPGIShJrmbsA-3Cz8dyKdmqAaoQDSPGIShJrmbsA.console.szgz1.smartcitysz.com ["58.251.56.154"]
+[dns-rebinding:IPv4] [dns] [unknown] www.szap.com ["127.0.0.1"]
+[dns-rebinding:IPv4] [dns] [unknown] pan.smartcitysz.com ["172.29.0.2"]
+[cookies-without-secure] [javascript] [info] mail.szap.com ["magicwinmail_default_theme","magicwinmail_agent_type","magicwinmail_default_language","magicwinmail_login_domain","magicwinmail_client_id"]
+[waf-detect:apachegeneric] [http] [info] https://oa.smartcitysz.com
+[waf-detect:nginxgeneric] [http] [info] https://oa.smartcitysz.com
+[waf-detect:apachegeneric] [http] [info] https://mail.szap.com
+[smtp-detect] [tcp] [info] mx.szap.com:25
+[smtp-detect] [tcp] [info] mail.szap.com:25
+[smtp-commands-enum:ehlo] [tcp] [info] mx.szap.com:25 ["AUTH LOGIN PLAIN","AUTH","8BITMIME","H"]
+[deprecated-tls:tls_1.1] [ssl] [info] wpsyundoc.smartcitysz.com:443 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] app.szzgh.org:443 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] cdn.szsiq.com:443 ["tls11"]
+[deprecated-tls:tls_1.0] [ssl] [info] wpsyundoc.smartcitysz.com:443 ["tls10"]
+[deprecated-tls:tls_1.0] [ssl] [info] app.szzgh.org:443 ["tls10"]
+[deprecated-tls:tls_1.0] [ssl] [info] cdn.szsiq.com:443 ["tls10"]
+[smtp-commands-enum:ehlo] [tcp] [info] mail.szap.com:25 ["H","AUTH LOGIN PLAIN","AUTH","8BITMIME"]
+[tls-version] [ssl] [info] cdn.szsiq.com:443 ["tls10"]
+[tls-version] [ssl] [info] wpsyundoc.smartcitysz.com:443 ["tls10"]
+[tls-version] [ssl] [info] app.szzgh.org:443 ["tls10"]
+[deprecated-tls:tls_1.1] [ssl] [info] www.szzgh.org:443 ["tls11"]
+[tls-version] [ssl] [info] cdn.szsiq.com:443 ["tls11"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cdn.szsiq.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] wpsyundoc.smartcitysz.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] app.szzgh.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tls-version] [ssl] [info] cdn.szsiq.com:443 ["tls12"]
+[tls-version] [ssl] [info] app.szzgh.org:443 ["tls11"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] wpsyundoc.smartcitysz.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cdn.szsiq.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[tls-version] [ssl] [info] wpsyundoc.smartcitysz.com:443 ["tls11"]
+[tls-version] [ssl] [info] app.szzgh.org:443 ["tls12"]
+[tls-version] [ssl] [info] wpsyundoc.smartcitysz.com:443 ["tls12"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.szzgh.org:443 ["tls10"]
+[tls-version] [ssl] [info] app.szzgh.org:443 ["tls13"]
+[tls-version] [ssl] [info] www.szsiq.com:443 ["tls12"]
+[tls-version] [ssl] [info] www.szzgh.org:443 ["tls10"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] app.szzgh.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tls-version] [ssl] [info] www.szzgh.org:443 ["tls11"]
+[tls-version] [ssl] [info] www.smartcitysz.com:443 ["tls12"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szzgh.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tls-version] [ssl] [info] mail.szap.com:443 ["tls12"]
+[tls-version] [ssl] [info] www.szzgh.org:443 ["tls12"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szzgh.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tls-version] [ssl] [info] mail.szap.com:443 ["tls13"]
+[tls-version] [ssl] [info] oa.smartcitysz.com:443 ["tls12"]
+[tls-version] [ssl] [info] www.smartcitysz.com:443 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:443 ["tls12"]
+[tls-version] [ssl] [info] oa.smartcitysz.com:443 ["tls13"]
+[tls-version] [ssl] [info] www.szzgh.org:443 ["tls13"]
+[tls-version] [ssl] [info] egbpub.szsiq.com:443 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:443 ["tls13"]
+[weak-cipher-suites:tls-1.2] [ssl] [low] mail.szap.com:443 ["[tls12 TLS_RSA_WITH_AES_256_GCM_SHA384]"]
+[shiro-detect] [http] [info] https://www.smartcitysz.com
+[spring-detect] [http] [info] https://www.smartcitysz.com/error
+[robots-txt] [http] [info] https://mail.szap.com/robots.txt
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://oa.smartcitysz.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://oa.smartcitysz.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://oa.smartcitysz.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://oa.smartcitysz.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://oa.smartcitysz.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://oa.smartcitysz.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://oa.smartcitysz.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://oa.smartcitysz.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://oa.smartcitysz.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://oa.smartcitysz.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://oa.smartcitysz.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://www.szsiq.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.szsiq.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.szsiq.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://www.szsiq.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://www.szsiq.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://www.szsiq.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.szsiq.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://www.szsiq.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.szsiq.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://www.szsiq.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://www.szsiq.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://cdn.szsiq.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://cdn.szsiq.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://cdn.szsiq.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://cdn.szsiq.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://cdn.szsiq.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://cdn.szsiq.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://cdn.szsiq.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://cdn.szsiq.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://cdn.szsiq.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://cdn.szsiq.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://cdn.szsiq.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://www.smartcitysz.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://www.smartcitysz.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://www.smartcitysz.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://www.smartcitysz.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.smartcitysz.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.smartcitysz.com
+[http-missing-security-headers:missing-content-type] [http] [info] https://www.smartcitysz.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://www.smartcitysz.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://www.smartcitysz.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://www.smartcitysz.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.smartcitysz.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.smartcitysz.com
+[mixed-passive-content:video] [http] [info] https://www.smartcitysz.com ["http://localhost:8085/video/2022/07/01/1656656318922.mp4"]
+[http-missing-security-headers:strict-transport-security] [http] [info] https://app.szzgh.org
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://app.szzgh.org
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://app.szzgh.org
+[http-missing-security-headers:content-security-policy] [http] [info] https://app.szzgh.org
+[http-missing-security-headers:permissions-policy] [http] [info] https://app.szzgh.org
+[http-missing-security-headers:x-frame-options] [http] [info] https://app.szzgh.org
+[http-missing-security-headers:x-content-type-options] [http] [info] https://app.szzgh.org
+[http-missing-security-headers:referrer-policy] [http] [info] https://app.szzgh.org
+[http-missing-security-headers:clear-site-data] [http] [info] https://app.szzgh.org
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://app.szzgh.org
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://app.szzgh.org
+[http-missing-security-headers:content-security-policy] [http] [info] https://egbpub.szsiq.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://egbpub.szsiq.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://egbpub.szsiq.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://egbpub.szsiq.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://egbpub.szsiq.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://egbpub.szsiq.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://egbpub.szsiq.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://egbpub.szsiq.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://egbpub.szsiq.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://egbpub.szsiq.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://egbpub.szsiq.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:x-frame-options] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:x-content-type-options] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:strict-transport-security] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:content-security-policy] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:permissions-policy] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:referrer-policy] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org
+[http-missing-security-headers:missing-content-type] [http] [info] https://lsapp.szzgh.org
+[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org
+[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org
+[http-missing-security-headers:clear-site-data] [http] [info] https://lsapp.szzgh.org
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org
+[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org
+[http-missing-security-headers:permissions-policy] [http] [info] https://mail.szap.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://mail.szap.com
+[http-missing-security-headers:missing-content-type] [http] [info] https://mail.szap.com
+[options-method] [http] [info] https://www.smartcitysz.com ["GET,HEAD,OPTIONS"]
+[s3-detect] [http] [info] https://cdn.szsiq.com/%c0
+[fingerprinthub-web-fingerprints:winmail-server] [http] [info] https://mail.szap.com
+[email-extractor] [http] [info] https://www.smartcitysz.com ["S.city@smartcitysz.com"]
+[weak-csp-detect:missing-script-src] [http] [info] https://mail.szap.com ["frame-ancestors 'self';"]
+[weak-csp-detect:missing-object-src] [http] [info] https://mail.szap.com ["frame-ancestors 'self';"]
+[xss-deprecated-header] [http] [info] https://mail.szap.com ["1; mode=block"]
+[apache-detect] [http] [info] https://mail.szap.com ["Apache"]
+[addeventlistener-detect] [http] [info] https://lsapp.szzgh.org
+[openresty-detect] [http] [info] https://lsapp.szzgh.org
+[robots-txt-endpoint:endpoints] [http] [info] https://mail.szap.com/robots.txt ["/ad","/ar"]
+[caa-fingerprint] [dns] [info] app.szzgh.org
+[caa-fingerprint] [dns] [info] nsnp.szap.com
+[caa-fingerprint] [dns] [info] console.szgz1.smartcitysz.com
+[caa-fingerprint] [dns] [info] www.szzgh.org
+[caa-fingerprint] [dns] [info] mail.szap.com
+[caa-fingerprint] [dns] [info] oa.smartcitysz.com
+[caa-fingerprint] [dns] [info] pan.smartcitysz.com
+[caa-fingerprint] [dns] [info] hznp.szap.com
+[caa-fingerprint] [dns] [info] www.smartcitysz.com
+[caa-fingerprint] [dns] [info] egbpub.szsiq.com
+[caa-fingerprint] [dns] [info] dbc61.szap.com
+[caa-fingerprint] [dns] [info] csnp.szap.com
+[caa-fingerprint] [dns] [info] jnnp.szap.com
+[caa-fingerprint] [dns] [info] dmnp.szap.com
+[caa-fingerprint] [dns] [info] jjnp.szap.com
+[caa-fingerprint] [dns] [info] www.szsiq.com
+[caa-fingerprint] [dns] [info] wpsyundoc.smartcitysz.com
+[caa-fingerprint] [dns] [info] bjnp.szap.com
+[caa-fingerprint] [dns] [info] oa.szap.com
+[caa-fingerprint] [dns] [info] lsapp.szzgh.org
+[caa-fingerprint] [dns] [info] cdn.szsiq.com
+[dns-saas-service-detection] [dns] [info] nsnp.szap.com ["hjxnp.szap.com"]
+[dns-saas-service-detection] [dns] [info] jnnp.szap.com ["hjxnp.szap.com"]
+[dns-saas-service-detection] [dns] [info] jjnp.szap.com ["hjxnp.szap.com"]
+[dns-saas-service-detection] [dns] [info] cdn.szsiq.com ["cdn.szsiq.com.cdn.dnsv1.com"]
+[dns-saas-service-detection] [dns] [info] hznp.szap.com ["hjxnp.szap.com"]
+[dns-saas-service-detection] [dns] [info] csnp.szap.com ["hjxnp.szap.com"]
+[dns-saas-service-detection] [dns] [info] dmnp.szap.com ["hjxnp.szap.com"]
+[dns-saas-service-detection] [dns] [info] bjnp.szap.com ["hjxnp.szap.com"]
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:6b1:100:3:0:1:0:3008"]
+[aaaa-fingerprint] [dns] [info] www.smartcitysz.com ["2409:8754:30b0:20::"]
+[aaaa-fingerprint] [dns] [info] oa.szap.com ["240e:6b1:ed0:2::16"]
+[aaaa-fingerprint] [dns] [info] mail.szap.com ["240e:6b1:ed0:2::12"]
+[aaaa-fingerprint] [dns] [info] egbpub.szsiq.com ["240e:6b1:100:3:0:1:0:3008"]
+[txt-fingerprint] [dns] [info] pan.smartcitysz.com [""172.29.0.2""]
+[ssl-issuer] [ssl] [info] app.szzgh.org:443 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] app.szzgh.org:443 ["szzgh.org","*.szzgh.org"]
+[wildcard-tls] [ssl] [info] app.szzgh.org:443 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[ssl-issuer] [ssl] [info] lsapp.szzgh.org:443 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:443 ["*.szzgh.org","szzgh.org"]
+[wildcard-tls] [ssl] [info] lsapp.szzgh.org:443 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[ssl-issuer] [ssl] [info] www.szzgh.org:443 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] www.szzgh.org:443 ["*.szzgh.org","szzgh.org"]
+[wildcard-tls] [ssl] [info] www.szzgh.org:443 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[ssl-issuer] [ssl] [info] www.smartcitysz.com:443 ["DigiCert Inc"]
+[ssl-dns-names] [ssl] [info] www.smartcitysz.com:443 ["smartcitysz.com","*.smartcitysz.com"]
+[wildcard-tls] [ssl] [info] www.smartcitysz.com:443 ["CN: *.smartcitysz.com","SAN: [*.smartcitysz.com smartcitysz.com]"]
+[ssl-issuer] [ssl] [info] wpsyundoc.smartcitysz.com:443 ["DigiCert Inc"]
+[ssl-dns-names] [ssl] [info] wpsyundoc.smartcitysz.com:443 ["*.smartcitysz.com","smartcitysz.com"]
+[wildcard-tls] [ssl] [info] wpsyundoc.smartcitysz.com:443 ["CN: *.smartcitysz.com","SAN: [*.smartcitysz.com smartcitysz.com]"]
+[ssl-issuer] [ssl] [info] mail.szap.com:443 ["DigiCert, Inc."]
+[ssl-dns-names] [ssl] [info] mail.szap.com:443 ["szap.com","*.szap.com"]
+[wildcard-tls] [ssl] [info] mail.szap.com:443 ["CN: *.szap.com","SAN: [*.szap.com szap.com]"]
+[ssl-issuer] [ssl] [info] cdn.szsiq.com:443 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
+[ssl-issuer] [ssl] [info] www.szsiq.com:443 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
+[ssl-dns-names] [ssl] [info] cdn.szsiq.com:443 ["*.szsiq.com","szsiq.com"]
+[untrusted-root-certificate] [ssl] [low] cdn.szsiq.com:443
+[wildcard-tls] [ssl] [info] cdn.szsiq.com:443 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
+[ssl-dns-names] [ssl] [info] www.szsiq.com:443 ["*.szsiq.com","szsiq.com"]
+[untrusted-root-certificate] [ssl] [low] www.szsiq.com:443
+[wildcard-tls] [ssl] [info] www.szsiq.com:443 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
+[ssl-issuer] [ssl] [info] egbpub.szsiq.com:443 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
+[ssl-dns-names] [ssl] [info] egbpub.szsiq.com:443 ["szsiq.com","*.szsiq.com"]
+[untrusted-root-certificate] [ssl] [low] egbpub.szsiq.com:443
+[wildcard-tls] [ssl] [info] egbpub.szsiq.com:443 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
+[ssl-issuer] [ssl] [info] oa.smartcitysz.com:443 ["DigiCert Inc"]
+[ssl-dns-names] [ssl] [info] oa.smartcitysz.com:443 ["*.smartcitysz.com","smartcitysz.com"]
+[wildcard-tls] [ssl] [info] oa.smartcitysz.com:443 ["CN: *.smartcitysz.com","SAN: [*.smartcitysz.com smartcitysz.com]"]
