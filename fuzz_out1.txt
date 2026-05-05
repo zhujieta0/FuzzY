@@ -1,154 +1,306 @@
-[wildcard-dns-detect] [dns] [info] 3DHGsDmqURMrjOZQmLF9PyYu4XJ-3DHGsDmqURMrjOZQmLF9PyYu4XJ.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3DHGsDmqURMrjOZQmLF9PyYu4XJ-3DHGsDmqURMrjOZQmLF9PyYu4XJ.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3DHGsDmqURMrjOZQmLF9PyYu4XJ-3DHGsDmqURMrjOZQmLF9PyYu4XJ.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3DHGsDmqURMrjOZQmLF9PyYu4XJ-3DHGsDmqURMrjOZQmLF9PyYu4XJ.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3DHGsDmqURMrjOZQmLF9PyYu4XJ-3DHGsDmqURMrjOZQmLF9PyYu4XJ.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3DHGsDmqURMrjOZQmLF9PyYu4XJ-3DHGsDmqURMrjOZQmLF9PyYu4XJ.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3DHGsDmqURMrjOZQmLF9PyYu4XJ-3DHGsDmqURMrjOZQmLF9PyYu4XJ.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3DHGsDmqURMrjOZQmLF9PyYu4XJ-3DHGsDmqURMrjOZQmLF9PyYu4XJ.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3DHGsDmqURMrjOZQmLF9PyYu4XJ-3DHGsDmqURMrjOZQmLF9PyYu4XJ.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3DHGsDmqURMrjOZQmLF9PyYu4XJ-3DHGsDmqURMrjOZQmLF9PyYu4XJ.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3DHGsDmqURMrjOZQmLF9PyYu4XJ-3DHGsDmqURMrjOZQmLF9PyYu4XJ.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3DHGsDmqURMrjOZQmLF9PyYu4XJ-3DHGsDmqURMrjOZQmLF9PyYu4XJ.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3DHGsDmqURMrjOZQmLF9PyYu4XJ-3DHGsDmqURMrjOZQmLF9PyYu4XJ.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3DHGsDmqURMrjOZQmLF9PyYu4XJ-3DHGsDmqURMrjOZQmLF9PyYu4XJ.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3DHGsDmqURMrjOZQmLF9PyYu4XJ-3DHGsDmqURMrjOZQmLF9PyYu4XJ.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3DHGsDmqURMrjOZQmLF9PyYu4XJ-3DHGsDmqURMrjOZQmLF9PyYu4XJ.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3DHGsDmqURMrjOZQmLF9PyYu4XJ-3DHGsDmqURMrjOZQmLF9PyYu4XJ.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3DHGsDmqURMrjOZQmLF9PyYu4XJ-3DHGsDmqURMrjOZQmLF9PyYu4XJ.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3DHGsDmqURMrjOZQmLF9PyYu4XJ-3DHGsDmqURMrjOZQmLF9PyYu4XJ.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3DHGsDmqURMrjOZQmLF9PyYu4XJ-3DHGsDmqURMrjOZQmLF9PyYu4XJ.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3DHGsDmqURMrjOZQmLF9PyYu4XJ-3DHGsDmqURMrjOZQmLF9PyYu4XJ.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3DHGsDmqURMrjOZQmLF9PyYu4XJ-3DHGsDmqURMrjOZQmLF9PyYu4XJ.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3DHGsDmqURMrjOZQmLF9PyYu4XJ-3DHGsDmqURMrjOZQmLF9PyYu4XJ.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3DHGsDmqURMrjOZQmLF9PyYu4XJ-3DHGsDmqURMrjOZQmLF9PyYu4XJ.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3DHGsDmqURMrjOZQmLF9PyYu4XJ-3DHGsDmqURMrjOZQmLF9PyYu4XJ.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3DHGsDmqURMrjOZQmLF9PyYu4XJ-3DHGsDmqURMrjOZQmLF9PyYu4XJ.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3DHGsDmqURMrjOZQmLF9PyYu4XJ-3DHGsDmqURMrjOZQmLF9PyYu4XJ.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3DHGsDmqURMrjOZQmLF9PyYu4XJ-3DHGsDmqURMrjOZQmLF9PyYu4XJ.mail.sztop.com ["18.192.252.23"]
-[dns-rebinding:IPv4] [dns] [unknown] www.szafi.com.cn ["127.0.0.1"]
-[dns-rebinding:IPv4] [dns] [unknown] en.szafi.com.cn ["127.0.0.1"]
-[waf-detect:nginxgeneric] [http] [info] https://www.sutpc.com:443
-[ssh-auth-methods] [javascript] [info] en.szafi.com.cn:22 ["["publickey","password"]"]
-[ssh-auth-methods] [javascript] [info] www.szafi.com.cn:22 ["["publickey","password"]"]
-[dameng-detect] [javascript] [info] bjfy.sutpc.com:7443
-[dameng-detect] [javascript] [info] ftl.sutpc.com:7443
-[ssh-password-auth] [javascript] [info] en.szafi.com.cn:22
-[ssh-password-auth] [javascript] [info] www.szafi.com.cn:22
-[ssh-server-enumeration] [javascript] [info] en.szafi.com.cn:22 ["SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.15"]
-[ssh-server-enumeration] [javascript] [info] www.szafi.com.cn:22 ["SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.15"]
-[ssh-sha1-hmac-algo] [javascript] [info] www.szafi.com.cn:22
-[ssh-sha1-hmac-algo] [javascript] [info] en.szafi.com.cn:22
-[snmpv3-detect] [javascript] [info] en.szafi.com.cn:22 ["Enterprise: unknown"]
-[snmpv3-detect] [javascript] [info] www.szafi.com.cn:22 ["Enterprise: unknown"]
-[openssh-detect] [tcp] [info] en.szafi.com.cn:22 ["SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.15"]
-[openssh-detect] [tcp] [info] www.szafi.com.cn:22 ["SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.15"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.sutpc.com:443 ["tls11"]
-[tls-version] [ssl] [info] www.sutpc.com:443 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.sutpc.com:443 ["tls10"]
-[tls-version] [ssl] [info] www.sutpc.com:443 ["tls11"]
-[tls-version] [ssl] [info] www.sutpc.com:443 ["tls12"]
+[dns-rebinding:IPv4] [dns] [unknown] m.szap.com ["127.0.0.1"]
+[dns-rebinding:IPv4] [dns] [unknown] www.szap.com ["127.0.0.1"]
+[cookies-without-secure] [javascript] [info] mail.szap.com:443 ["magicwinmail_default_theme","magicwinmail_agent_type","magicwinmail_default_language","magicwinmail_login_domain","magicwinmail_client_id"]
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:10000
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:1080
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:27000
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:2522
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:4003
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:4443
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:48080
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:5225
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:58080
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:1443
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:6001
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:5200
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:6007
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:7002
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:7443
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8001
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:2003
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8007
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8008
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:3880
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:6006
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8002
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:7004
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8086
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8099
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:6003
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8181
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:5222
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8200
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8300
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8443
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:9003
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:9091
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:9200
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:9999
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8701
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:9002
+[waf-detect:apachegeneric] [http] [info] https://mail.szap.com:443
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:85
+[waf-detect:apachegeneric] [http] [info] https://oa.smartcitysz.com:443
+[waf-detect:nginxgeneric] [http] [info] https://oa.smartcitysz.com:443
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:10003
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:10001
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:10002
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:10004
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:1000
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:1089
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:1090
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:1066
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:10009
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:10000
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:1067
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:1088
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:1092
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:1080
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:10012
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:1091
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:1087
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:1093
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:1094
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:1096
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:1098
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:1099
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:1102
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:1100
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:1112
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:1111
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:1113
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:15000
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:1443
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:1935
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:2003
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:2522
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:1114
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:3000
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:5000
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:5222
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:5001
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:8002
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:8007
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:8008
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:801
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:808
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:90
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:9002
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:9081
+[ssh-password-auth] [javascript] [info] m.szap.com:22
+[ssh-password-auth] [javascript] [info] www.szap.com:22
+[ssh-server-enumeration] [javascript] [info] m.szap.com:22 ["SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.15"]
+[ssh-server-enumeration] [javascript] [info] www.szap.com:22 ["SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.15"]
+[ssh-sha1-hmac-algo] [javascript] [info] m.szap.com:22
+[ssh-sha1-hmac-algo] [javascript] [info] www.szap.com:22
+[snmpv3-detect] [javascript] [info] m.szap.com:22 ["Enterprise: unknown"]
+[snmpv3-detect] [javascript] [info] www.szap.com:22 ["Enterprise: unknown"]
+[openssh-detect] [tcp] [info] m.szap.com:22 ["SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.15"]
+[openssh-detect] [tcp] [info] www.szap.com:22 ["SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.15"]
+[smtp-detect] [tcp] [info] mail.szap.com:25
+[smtp-detect] [tcp] [info] mailx.szap.com:25
+[smtp-detect] [tcp] [info] mail.szap.com:25
+[smtp-commands-enum:ehlo] [tcp] [info] mailx.szap.com:25 ["AUTH","8BITMIME","H","AUTH LOGIN PLAIN"]
+[smtp-commands-enum:ehlo] [tcp] [info] mail.szap.com:25 ["8BITMIME","H","AUTH LOGIN PLAIN","AUTH"]
+[deprecated-tls:tls_1.1] [ssl] [info] app.szzgh.org:443 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] cdn.szsiq.com:443 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] app.szzgh.org:9010 ["tls11"]
+[deprecated-tls:tls_1.0] [ssl] [info] cdn.szsiq.com:443 ["tls10"]
+[deprecated-tls:tls_1.0] [ssl] [info] app.szzgh.org:443 ["tls10"]
+[deprecated-tls:tls_1.0] [ssl] [info] app.szzgh.org:9010 ["tls10"]
+[tls-version] [ssl] [info] app.szzgh.org:9010 ["tls10"]
+[tls-version] [ssl] [info] app.szzgh.org:443 ["tls10"]
+[tls-version] [ssl] [info] cdn.szsiq.com:443 ["tls10"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] app.szzgh.org:9010 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cdn.szsiq.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[tls-version] [ssl] [info] app.szzgh.org:443 ["tls11"]
+[tls-version] [ssl] [info] app.szzgh.org:9010 ["tls11"]
+[tls-version] [ssl] [info] cdn.szsiq.com:443 ["tls11"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] app.szzgh.org:9010 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[smtp-commands-enum:ehlo] [tcp] [info] mail.szap.com:25 ["H","AUTH LOGIN PLAIN","AUTH","8BITMIME"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cdn.szsiq.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[tls-version] [ssl] [info] app.szzgh.org:9010 ["tls12"]
+[tls-version] [ssl] [info] app.szzgh.org:443 ["tls12"]
+[tls-version] [ssl] [info] cdn.szsiq.com:443 ["tls12"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] app.szzgh.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tls-version] [ssl] [info] app.szzgh.org:9010 ["tls13"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] app.szzgh.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tls-version] [ssl] [info] app.szzgh.org:443 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:1080 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:10000 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:10000 ["tls13"]
 [tls-version] [ssl] [info] egbpub.szsiq.com:443 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:1080 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:27000 ["tls12"]
+[deprecated-tls:tls_1.1] [ssl] [info] mail.szap.com:993 ["tls11"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:1443 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:27000 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:4003 ["tls12"]
+[deprecated-tls:tls_1.1] [ssl] [info] mail.szap.com:465 ["tls11"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:1443 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:2522 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:4003 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:2003 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:3880 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:2522 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:2003 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:3880 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:4443 ["tls12"]
+[deprecated-tls:tls_1.1] [ssl] [info] mail.szap.com:995 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] wpsyundoc.smartcitysz.com:8090 ["tls11"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:4443 ["tls13"]
+[deprecated-tls:tls_1.0] [ssl] [info] wpsyundoc.smartcitysz.com:8090 ["tls10"]
+[deprecated-tls:tls_1.1] [ssl] [info] www.szzgh.org:443 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] www.szzgh.org:9010 ["tls11"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:443 ["tls12"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.szzgh.org:443 ["tls10"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:443 ["tls13"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.szzgh.org:9010 ["tls10"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:5222 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:6003 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:5222 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:6007 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:58080 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:48080 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:48080 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:5200 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:5225 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:6003 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:7443 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:5200 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:5225 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:58080 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:7443 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:6006 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:7002 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:6006 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:6007 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:8002 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:7002 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:7004 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:8002 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:6001 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:7004 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:8008 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:8001 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:8008 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:8001 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:6001 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:8086 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:8086 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:8181 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:8007 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:8181 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:8007 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:8099 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:8099 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:8300 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:8200 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:8701 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:8300 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:8200 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:8701 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:8443 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:8443 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:85 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:9002 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:99 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:85 ["tls13"]
+[tls-version] [ssl] [info] mail.szap.com:995 ["tls11"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:99 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:9999 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:9003 ["tls12"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] wpsyundoc.smartcitysz.com:8090 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[tls-version] [ssl] [info] wpsyundoc.smartcitysz.com:8090 ["tls10"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:9999 ["tls13"]
+[tls-version] [ssl] [info] mail.szap.com:993 ["tls11"]
+[tls-version] [ssl] [info] mail.szap.com:995 ["tls12"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mail.szap.com:465 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:9003 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:9091 ["tls12"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mail.szap.com:993 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] wpsyundoc.smartcitysz.com:8090 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[tls-version] [ssl] [info] wpsyundoc.smartcitysz.com:8090 ["tls11"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:9002 ["tls13"]
+[tls-version] [ssl] [info] mail.szap.com:993 ["tls12"]
+[tls-version] [ssl] [info] mail.szap.com:995 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:9091 ["tls13"]
+[tls-version] [ssl] [info] www.szzgh.org:443 ["tls10"]
+[tls-version] [ssl] [info] wpsyundoc.smartcitysz.com:8090 ["tls12"]
+[tls-version] [ssl] [info] mail.szap.com:443 ["tls12"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szzgh.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tls-version] [ssl] [info] www.szzgh.org:9010 ["tls10"]
+[tls-version] [ssl] [info] mail.szap.com:465 ["tls11"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:9200 ["tls12"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szzgh.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tls-version] [ssl] [info] www.szzgh.org:9010 ["tls11"]
+[tls-version] [ssl] [info] mail.szap.com:465 ["tls12"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szzgh.org:9010 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tls-version] [ssl] [info] www.szzgh.org:443 ["tls11"]
+[tls-version] [ssl] [info] mail.szap.com:465 ["tls13"]
+[tls-version] [ssl] [info] mail.szap.com:993 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:9200 ["tls13"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szzgh.org:9010 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tls-version] [ssl] [info] www.szzgh.org:443 ["tls12"]
+[tls-version] [ssl] [info] oa.smartcitysz.com:443 ["tls12"]
 [tls-version] [ssl] [info] www.szsiq.com:443 ["tls12"]
-[tls-version] [ssl] [info] ftl.sutpc.com:7443 ["tls12"]
-[tls-version] [ssl] [info] bjfy.sutpc.com:7443 ["tls12"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.sutpc.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
-[tls-version] [ssl] [info] ones.sutpc.com:443 ["tls12"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.sutpc.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
-[http-missing-security-headers:strict-transport-security] [http] [info] https://egbpub.szsiq.com:443
-[http-missing-security-headers:content-security-policy] [http] [info] https://egbpub.szsiq.com:443
-[http-missing-security-headers:permissions-policy] [http] [info] https://egbpub.szsiq.com:443
-[http-missing-security-headers:clear-site-data] [http] [info] https://egbpub.szsiq.com:443
-[http-missing-security-headers:x-frame-options] [http] [info] https://egbpub.szsiq.com:443
-[http-missing-security-headers:x-content-type-options] [http] [info] https://egbpub.szsiq.com:443
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://egbpub.szsiq.com:443
-[http-missing-security-headers:referrer-policy] [http] [info] https://egbpub.szsiq.com:443
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://egbpub.szsiq.com:443
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://egbpub.szsiq.com:443
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://egbpub.szsiq.com:443
-[http-missing-security-headers:strict-transport-security] [http] [info] https://www.szsiq.com:443
-[http-missing-security-headers:content-security-policy] [http] [info] https://www.szsiq.com:443
-[http-missing-security-headers:x-content-type-options] [http] [info] https://www.szsiq.com:443
-[http-missing-security-headers:referrer-policy] [http] [info] https://www.szsiq.com:443
-[http-missing-security-headers:clear-site-data] [http] [info] https://www.szsiq.com:443
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.szsiq.com:443
-[http-missing-security-headers:permissions-policy] [http] [info] https://www.szsiq.com:443
-[http-missing-security-headers:x-frame-options] [http] [info] https://www.szsiq.com:443
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.szsiq.com:443
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.szsiq.com:443
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.szsiq.com:443
-[http-missing-security-headers:content-security-policy] [http] [info] https://ftl.sutpc.com:7443
-[http-missing-security-headers:permissions-policy] [http] [info] https://ftl.sutpc.com:7443
-[http-missing-security-headers:x-content-type-options] [http] [info] https://ftl.sutpc.com:7443
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://ftl.sutpc.com:7443
-[http-missing-security-headers:strict-transport-security] [http] [info] https://ftl.sutpc.com:7443
-[http-missing-security-headers:x-frame-options] [http] [info] https://ftl.sutpc.com:7443
-[http-missing-security-headers:referrer-policy] [http] [info] https://ftl.sutpc.com:7443
-[http-missing-security-headers:clear-site-data] [http] [info] https://ftl.sutpc.com:7443
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://ftl.sutpc.com:7443
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://ftl.sutpc.com:7443
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://ftl.sutpc.com:7443
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://bjfy.sutpc.com:7443
-[http-missing-security-headers:x-frame-options] [http] [info] https://bjfy.sutpc.com:7443
-[http-missing-security-headers:x-content-type-options] [http] [info] https://bjfy.sutpc.com:7443
-[http-missing-security-headers:clear-site-data] [http] [info] https://bjfy.sutpc.com:7443
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://bjfy.sutpc.com:7443
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://bjfy.sutpc.com:7443
-[http-missing-security-headers:strict-transport-security] [http] [info] https://bjfy.sutpc.com:7443
-[http-missing-security-headers:content-security-policy] [http] [info] https://bjfy.sutpc.com:7443
-[http-missing-security-headers:permissions-policy] [http] [info] https://bjfy.sutpc.com:7443
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://bjfy.sutpc.com:7443
-[http-missing-security-headers:referrer-policy] [http] [info] https://bjfy.sutpc.com:7443
-[http-missing-security-headers:clear-site-data] [http] [info] https://ones.sutpc.com/project/
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://ones.sutpc.com/project/
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://ones.sutpc.com/project/
-[http-missing-security-headers:missing-content-type] [http] [info] https://ones.sutpc.com/project/
-[http-missing-security-headers:permissions-policy] [http] [info] https://ones.sutpc.com/project/
-[http-missing-security-headers:x-frame-options] [http] [info] https://ones.sutpc.com/project/
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://ones.sutpc.com/project/
-[http-missing-security-headers:content-security-policy] [http] [info] https://ones.sutpc.com/project/
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://ones.sutpc.com/project/
-[http-missing-security-headers:referrer-policy] [http] [info] https://ones.sutpc.com/project/
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.sutpc.com:443/en/
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.sutpc.com:443/en/
-[http-missing-security-headers:content-security-policy] [http] [info] https://www.sutpc.com:443/en/
-[http-missing-security-headers:permissions-policy] [http] [info] https://www.sutpc.com:443/en/
-[http-missing-security-headers:x-content-type-options] [http] [info] https://www.sutpc.com:443/en/
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.sutpc.com:443/en/
-[http-missing-security-headers:referrer-policy] [http] [info] https://www.sutpc.com:443/en/
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.sutpc.com:443/en/
-[http-missing-security-headers:missing-content-type] [http] [info] https://www.sutpc.com:443/en/
-[http-missing-security-headers:strict-transport-security] [http] [info] https://www.sutpc.com:443/en/
-[http-missing-security-headers:x-frame-options] [http] [info] https://www.sutpc.com:443/en/
-[http-missing-security-headers:clear-site-data] [http] [info] https://www.sutpc.com:443/en/
-[openresty-detect] [http] [info] https://ones.sutpc.com:443
-[caa-fingerprint] [dns] [info] ftl.sutpc.com
-[caa-fingerprint] [dns] [info] bjfy.sutpc.com
-[caa-fingerprint] [dns] [info] ones.sutpc.com
-[caa-fingerprint] [dns] [info] www.sutpc.com
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:6b1:100:3:0:1:0:3008"]
-[aaaa-fingerprint] [dns] [info] egbpub.szsiq.com ["240e:6b1:100:3:0:1:0:3008"]
-[caa-fingerprint] [dns] [info] egbpub.szsiq.com
-[caa-fingerprint] [dns] [info] www.szsiq.com
-[ssl-issuer] [ssl] [info] bjfy.sutpc.com:7443 ["sangfor"]
-[mismatched-ssl-certificate] [ssl] [info] bjfy.sutpc.com:7443 ["CN: SANGFOR"]
-[ssl-issuer] [ssl] [info] ftl.sutpc.com:7443 ["sangfor"]
-[self-signed-ssl] [ssl] [low] bjfy.sutpc.com:7443
-[ssl-dns-names] [ssl] [info] bjfy.sutpc.com:7443 ["10.251.251.251"]
-[mismatched-ssl-certificate] [ssl] [info] ftl.sutpc.com:7443 ["CN: SANGFOR"]
-[self-signed-ssl] [ssl] [low] ftl.sutpc.com:7443
-[ssl-dns-names] [ssl] [info] ftl.sutpc.com:7443 ["10.251.251.251"]
-[ssl-issuer] [ssl] [info] www.sutpc.com:443 ["DigiCert, Inc."]
-[ssl-dns-names] [ssl] [info] www.sutpc.com:443 ["*.sutpc.com","sutpc.com"]
-[wildcard-tls] [ssl] [info] www.sutpc.com:443 ["CN: *.sutpc.com","SAN: [*.sutpc.com sutpc.com]"]
-[ssl-issuer] [ssl] [info] ones.sutpc.com:443 ["DigiCert, Inc."]
-[ssl-dns-names] [ssl] [info] ones.sutpc.com:443 ["*.sutpc.com","sutpc.com"]
-[wildcard-tls] [ssl] [info] ones.sutpc.com:443 ["SAN: [*.sutpc.com sutpc.com]","CN: *.sutpc.com"]
-[ssl-issuer] [ssl] [info] www.szsiq.com:443 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-dns-names] [ssl] [info] www.szsiq.com:443 ["*.szsiq.com","szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:443
-[wildcard-tls] [ssl] [info] www.szsiq.com:443 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[ssl-issuer] [ssl] [info] egbpub.szsiq.com:443 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-dns-names] [ssl] [info] egbpub.szsiq.com:443 ["*.szsiq.com","szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] egbpub.szsiq.com:443
-[wildcard-tls] [ssl] [info] egbpub.szsiq.com:443 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
+[tls-version] [ssl] [info] mail.szap.com:443 ["tls13"]
+[tls-version] [ssl] [info] oa.smartcitysz.com:443 ["tls13"]
+[tls-version] [ssl] [info] www.szzgh.org:9010 ["tls12"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mail.szap.com:995 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tls-version] [ssl] [info] www.smartcitysz.com:443 ["tls12"]
+[weak-cipher-suites:tls-1.2] [ssl] [low] mail.szap.com:443 ["[tls12 TLS_RSA_WITH_AES_256_GCM_SHA384]"]
+[tls-version] [ssl] [info] www.szzgh.org:443 ["tls13"]
+[tls-version] [ssl] [info] www.szzgh.org:9010 ["tls13"]
+[tls-version] [ssl] [info] www.smartcitysz.com:443 ["tls13"]
+[fingerprinthub-web-fingerprints:winmail-server] [http] [info] https://mail.szap.com:443
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:1080
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:10000
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:27000
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:2003
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:4003
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:2522
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:5222
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:3880
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:4443
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:1443
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:5200
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:6007
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:6003
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:8002
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:48080
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:7004
+[addeventlistener-detect] [http] [info] https://lsapp.szzgh.org:443
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:5225
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:8008
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:7443
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:6006
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:8001
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:443
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:58080
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:7002
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:8099
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:8181
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:6001
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:8086
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:8200
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:8300
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:85
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:8007
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:8701
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:9002
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:9091
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:9003
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:9200
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:8443
+[xss-deprecated-header] [http] [info] https://wpsyundoc.smartcitysz.com:8090 ["1; mode=block"]
+[openresty-detect] [http] [info] https://wpsyundoc.smartcitysz.com:8090
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:9999
+[weak-csp-detect:missing-script-src] [http] [info] https://mail.szap.com:443 ["frame-ancestors 'self';"]
+[weak-csp-detect:missing-object-src] [http] [info] https://mail.szap.com:443 ["frame-ancestors 'self';"]
+[xss-deprecated-header] [http] [info] https://mail.szap.com:443 ["1; mode=block"]
+[apache-detect] [http] [info] https://mail.szap.com:443 ["Apache"]
+[addeventlistener-detect] [http] [info] https://lsapp.szzgh.org:99
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:99
+[email-extractor] [http] [info] https://www.smartcitysz.com:443 ["S.city@smartcitysz.com"]
+[robots-txt] [http] [info] https://mail.szap.com:443/robots.txt
