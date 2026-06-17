@@ -1,107 +1,693 @@
-[wildcard-dns-detect] [dns] [info] 3FDwHZ4KKqT8isv80Azbd2E8NLu-3FDwHZ4KKqT8isv80Azbd2E8NLu.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3FDwHZ4KKqT8isv80Azbd2E8NLu-3FDwHZ4KKqT8isv80Azbd2E8NLu.kleinanzeigen.sztop.com ["18.192.252.23"]
-[dns-rebinding:IPv4] [dns] [unknown] civilos.sutpc.com ["10.10.180.137"]
-[dns-rebinding:IPv4] [dns] [unknown] www.szafi.com.cn ["127.0.0.1"]
-[dns-rebinding:IPv4] [dns] [unknown] en.szafi.com.cn ["127.0.0.1"]
-[cookies-without-secure] [javascript] [info] mail.sutpc.com ["sms_id","ssl_edition"]
-[waf-detect:nginxgeneric] [http] [info] https://www.sutpc.com
-[deprecated-tls:tls_1.1] [ssl] [info] mail.sutpc.com:443 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.sutpc.com:443 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] cdn.szsiq.com:443 ["tls11"]
-[deprecated-tls:tls_1.0] [ssl] [info] mail.sutpc.com:443 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.sutpc.com:443 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] cdn.szsiq.com:443 ["tls10"]
-[tls-version] [ssl] [info] mail.sutpc.com:443 ["tls10"]
-[tls-version] [ssl] [info] cdn.szsiq.com:443 ["tls10"]
-[tls-version] [ssl] [info] www.sutpc.com:443 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] mail.sutpc.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] cdn.szsiq.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.sutpc.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
-[tls-version] [ssl] [info] mail.sutpc.com:443 ["tls11"]
-[tls-version] [ssl] [info] cdn.szsiq.com:443 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] mail.sutpc.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] www.sutpc.com:443 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] cdn.szsiq.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.sutpc.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
-[tls-version] [ssl] [info] mail.sutpc.com:443 ["tls12"]
-[tls-version] [ssl] [info] cdn.szsiq.com:443 ["tls12"]
-[tls-version] [ssl] [info] www.sutpc.com:443 ["tls12"]
-[tls-version] [ssl] [info] www.szsiq.com:443 ["tls12"]
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.szsiq.com
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.szsiq.com
-[http-missing-security-headers:strict-transport-security] [http] [info] https://www.szsiq.com
-[http-missing-security-headers:content-security-policy] [http] [info] https://www.szsiq.com
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.szsiq.com
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.szsiq.com
-[http-missing-security-headers:permissions-policy] [http] [info] https://www.szsiq.com
-[http-missing-security-headers:x-frame-options] [http] [info] https://www.szsiq.com
-[http-missing-security-headers:x-content-type-options] [http] [info] https://www.szsiq.com
-[http-missing-security-headers:referrer-policy] [http] [info] https://www.szsiq.com
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://cdn.szsiq.com
-[http-missing-security-headers:strict-transport-security] [http] [info] https://cdn.szsiq.com
-[http-missing-security-headers:content-security-policy] [http] [info] https://cdn.szsiq.com
-[http-missing-security-headers:x-frame-options] [http] [info] https://cdn.szsiq.com
-[http-missing-security-headers:x-content-type-options] [http] [info] https://cdn.szsiq.com
-[http-missing-security-headers:referrer-policy] [http] [info] https://cdn.szsiq.com
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://cdn.szsiq.com
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://cdn.szsiq.com
-[http-missing-security-headers:permissions-policy] [http] [info] https://cdn.szsiq.com
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://cdn.szsiq.com
-[http-missing-security-headers:strict-transport-security] [http] [info] https://mail.sutpc.com
-[http-missing-security-headers:permissions-policy] [http] [info] https://mail.sutpc.com
-[http-missing-security-headers:x-content-type-options] [http] [info] https://mail.sutpc.com
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://mail.sutpc.com
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://mail.sutpc.com
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://mail.sutpc.com
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://mail.sutpc.com
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.sutpc.com/en/
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.sutpc.com/en/
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.sutpc.com/en/
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.sutpc.com/en/
-[http-missing-security-headers:x-frame-options] [http] [info] https://www.sutpc.com/en/
-[http-missing-security-headers:referrer-policy] [http] [info] https://www.sutpc.com/en/
-[http-missing-security-headers:strict-transport-security] [http] [info] https://www.sutpc.com/en/
-[http-missing-security-headers:content-security-policy] [http] [info] https://www.sutpc.com/en/
-[http-missing-security-headers:permissions-policy] [http] [info] https://www.sutpc.com/en/
-[http-missing-security-headers:x-content-type-options] [http] [info] https://www.sutpc.com/en/
-[robots-txt] [http] [info] https://mail.sutpc.com/robots.txt
-[missing-sri] [http] [info] https://mail.sutpc.com/ ["http://r99.res.qqmail.com/bizmail/zh_CN/htmledition/js_biz/lib/jquery/jquery-3.7.1.min6b6378.js","http://r99.res.qqmail.com/bizmail/zh_CN/htmledition/js_biz/home/new_index/lib/nano462fc5.js","http://r99.res.qqmail.com/bizmail/zh_CN/htmledition/js_biz/home/new_index/lib/dropdown/dropDownItemTpl527dd7.js","http://r99.res.qqmail.com/bizmail/zh_CN/htmledition/js_biz/home/new_index/lib/dropdown/countryCodeMap462fc5.js","http://r99.res.qqmail.com/bizmail/zh_CN/htmledition/js_biz/newlogin/add_deviceid5fca50.js","http://r99.res.qqmail.com/bizmail/zh_CN/htmledition/js_biz/home/new_index/lib/dropdown/countryCodeDropDown527dd7.js","http://r99.res.qqmail.com/bizmail/zh_CN/htmledition/js_biz/lib/promise/es6-promise462fc8.js","https://ssl.captcha.qq.com/TCaptcha.js","http://r99.res.qqmail.com/bizmail/zh_CN/htmledition/js_biz/home/new_index/lib/dropdown/dropdown5fcb24.js","http://r99.res.qqmail.com/bizmail/zh_CN/htmledition/js_biz/lib/fingerprintjs/iife.min5c9391.js","http://r99.res.qqmail.com/bizmail/zh_CN/htmledition/js_biz/global7e1bf3.js","http://r99.res.qqmail.com/bizmail/zh_CN/htmledition/js_biz/home/new_index/lib/jqueryplugin/throttle-debounce462fc5.js","http://r99.res.qqmail.com/bizmail/zh_CN/htmledition/js_biz/home/new_index/lib/dropdown/dropDownTpl462fc5.js","http://r99.res.qqmail.com/bizmail/zh_CN/htmledition/js_biz/newlogin/custom_login7abf8f.js","http://r99.res.qqmail.com/bizmail/zh_CN/htmledition/js_biz/3rd/bj-report-tryjs.min527dd7.js","http://r99.res.qqmail.com/bizmail/zh_CN/htmledition/js_biz/all7e1bf3.js","http://r99.res.qqmail.com/bizmail/zh_CN/htmledition/style/login_setting_portal787097.css","http://r99.res.qqmail.com/bizmail/zh_CN/htmledition/style/biz_v3_helper5fcb28.css","http://r99.res.qqmail.com/bizmail/zh_CN/htmledition/style/wwbiz/official_index7a7cec.css"]
-[missing-cookie-samesite-strict] [http] [info] https://mail.sutpc.com ["sms_id=BZApUJ0PHDuFAHhgryOcq5+2qAmPjm/hEUFE34r63Ec=; Domain=mail.sutpc.com; Path=/; HttpOnly ssl_edition=mail.qq.com; Domain=mail.sutpc.com; Path=/; HttpOnly sms_id=tcNigxDGl42+0X39cOrbxOkEEi7Un3FAkvZXWwXHdXI=; Domain=mail.sutpc.com; Path=/; HttpOnly"]
-[fingerprinthub-web-fingerprints:tencent-exmail] [http] [info] https://mail.sutpc.com
-[missing-cookie-samesite-strict] [http] [info] https://www.sutpc.com/en/ ["GDDISESSION=n0e5r2b8t22nk7gedts5safi06; path=/"]
-[tech-detect:animate.css] [http] [info] https://www.sutpc.com/en/
-[tech-detect:nginx] [http] [info] https://www.sutpc.com/en/
-[tech-detect:nginx] [http] [info] https://www.sutpc.com
-[addeventlistener-detect] [http] [info] https://mail.sutpc.com
-[csp-script-src-wildcard] [http] [info] https://mail.sutpc.com
-[weak-csp-detect:missing-object-src] [http] [info] https://mail.sutpc.com ["script-src 'self' https://tongji.baidu.com https://hm.baidu.com http://hm.baidu.com *.google-analytics.com http://mat1.gtimg.com https://mat1.gtimg.com http://*.soso.com https://*.soso.com http://*.qq.com https://*.qq.com http://*.qqmail.com  https://*.qqmail.com http://*.qmail.com https://*.qmail.com https://midas.gtimg.cn http://midas.gtimg.cn http://pub.idqqimg.com https://captcha.gtimg.com blob: 'unsafe-inline' 'unsafe-eval'; report-uri https://mail.qq.com/cgi-bin/report_cgi?r_subtype=csp&nocheck=false"]
-[weak-csp-detect:unsafe-script-src] [http] [info] https://mail.sutpc.com ["script-src 'self' https://tongji.baidu.com https://hm.baidu.com http://hm.baidu.com *.google-analytics.com http://mat1.gtimg.com https://mat1.gtimg.com http://*.soso.com https://*.soso.com http://*.qq.com https://*.qq.com http://*.qqmail.com  https://*.qqmail.com http://*.qmail.com https://*.qmail.com https://midas.gtimg.cn http://midas.gtimg.cn http://pub.idqqimg.com https://captcha.gtimg.com blob: 'unsafe-inline' 'unsafe-eval'; report-uri https://mail.qq.com/cgi-bin/report_cgi?r_subtype=csp&nocheck=false"]
-[robots-txt-endpoint:endpoints] [http] [info] https://mail.sutpc.com/robots.txt ["/cgi-bin/","/domain/"]
-[s3-detect] [http] [info] https://cdn.szsiq.com/%c0
-[caa-fingerprint] [dns] [info] bjfy.sutpc.com
-[caa-fingerprint] [dns] [info] ftl.sutpc.com
-[caa-fingerprint] [dns] [info] erp.sutpc.com
-[caa-fingerprint] [dns] [info] www.sutpc.com
-[caa-fingerprint] [dns] [info] its.sutpc.com
-[caa-fingerprint] [dns] [info] mail.sutpc.com
-[caa-fingerprint] [dns] [info] cdn.szsiq.com
-[caa-fingerprint] [dns] [info] www.szsiq.com
-[dns-saas-service-detection] [dns] [info] mail.sutpc.com ["tp.exmail.qq.com"]
-[dns-saas-service-detection] [dns] [info] cdn.szsiq.com ["szsiq-1305556842.cos.ap-guangzhou.myqcloud.com"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:6b1:100:3:0:1:0:3008"]
-[aaaa-fingerprint] [dns] [info] mail.sutpc.com ["2402:4e00:1620:1906:0:9a62:18a3:6528","2402:4e00:1620:1906:0:9a62:18a6:1904"]
-[ssl-issuer] [ssl] [info] mail.sutpc.com:443 ["DigiCert, Inc."]
-[mismatched-ssl-certificate] [ssl] [info] mail.sutpc.com:443 ["CN: *.exmail.qq.com"]
-[ssl-dns-names] [ssl] [info] mail.sutpc.com:443 ["boss.exmailgz.com","cloudmx.qq.com","exmail.qmail.com","exmail.work.weixin.qq.com","mxbiz1.qq.com","mxbiz2.qq.com","support.exmailgz.com","exmail.weixin.qq.com","m.exmail.qmail.com","exmail.qq.com","*.exmail.qq.com"]
-[wildcard-tls] [ssl] [info] mail.sutpc.com:443 ["CN: *.exmail.qq.com","SAN: [*.exmail.qq.com boss.exmailgz.com cloudmx.qq.com exmail.qmail.com exmail.weixin.qq.com exmail.work.weixin.qq.com m.exmail.qmail.com mxbiz1.qq.com mxbiz2.qq.com support.exmailgz.com exmail.qq.com]"]
-[ssl-issuer] [ssl] [info] www.sutpc.com:443 ["DigiCert, Inc."]
-[ssl-dns-names] [ssl] [info] www.sutpc.com:443 ["*.sutpc.com","sutpc.com"]
-[wildcard-tls] [ssl] [info] www.sutpc.com:443 ["CN: *.sutpc.com","SAN: [*.sutpc.com sutpc.com]"]
-[ssl-issuer] [ssl] [info] www.szsiq.com:443 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-dns-names] [ssl] [info] www.szsiq.com:443 ["szsiq.com","*.szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:443
-[wildcard-tls] [ssl] [info] www.szsiq.com:443 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[ssl-issuer] [ssl] [info] cdn.szsiq.com:443 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-dns-names] [ssl] [info] cdn.szsiq.com:443 ["*.szsiq.com","szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] cdn.szsiq.com:443
-[wildcard-tls] [ssl] [info] cdn.szsiq.com:443 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
+[wildcard-dns-detect] [dns] [info] 3FEZGw557TVmDB5gAIMB5mmQEV4-3FEZGw557TVmDB5gAIMB5mmQEV4.bd-wind.szzy.szaicpp.com ["202.105.101.8"]
+[wildcard-dns-detect] [dns] [info] 3FEZGw557TVmDB5gAIMB5mmQEV4-3FEZGw557TVmDB5gAIMB5mmQEV4.minio.szzy.szaicpp.com ["202.105.101.8"]
+[wildcard-dns-detect] [dns] [info] 3FEZGw557TVmDB5gAIMB5mmQEV4-3FEZGw557TVmDB5gAIMB5mmQEV4.szzy.szzy.szaicpp.com ["202.105.101.8"]
+[aspx-debug-mode] [http] [info] https://anju.szhome.com/Foobar-debug.aspx
+[aspx-debug-mode] [http] [info] https://img4.szhome.com/Foobar-debug.aspx
+[waf-detect:aspgeneric] [http] [info] https://anju.szhome.com
+[waf-detect:nginxgeneric] [http] [info] https://img5.bbs.szhome.com
+[waf-detect:aspgeneric] [http] [info] https://img4.szhome.com
+[waf-detect:aws] [http] [info] https://minio.szzy.szaicpp.com
+[cors-misconfig:arbitrary-origin] [http] [info] https://minio.szzy.szaicpp.com [cors_origin="null"]
+[deprecated-tls:tls_1.1] [ssl] [info] bd-wind.szzy.szaicpp.com:443 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] app.szzgh.org:443 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:443 ["tls11"]
+[deprecated-tls:tls_1.0] [ssl] [info] bd-wind.szzy.szaicpp.com:443 ["tls10"]
+[deprecated-tls:tls_1.0] [ssl] [info] app.szzgh.org:443 ["tls10"]
+[tls-version] [ssl] [info] bd-wind.szzy.szaicpp.com:443 ["tls10"]
+[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:443 ["tls10"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] bd-wind.szzy.szaicpp.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[tls-version] [ssl] [info] anju.szhome.com:443 ["tls10"]
+[tls-version] [ssl] [info] app.szzgh.org:443 ["tls10"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] app.szzgh.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[tls-version] [ssl] [info] bd-wind.szzy.szaicpp.com:443 ["tls11"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] bd-wind.szzy.szaicpp.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[tls-version] [ssl] [info] anju.szhome.com:443 ["tls11"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] app.szzgh.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tls-version] [ssl] [info] app.szzgh.org:443 ["tls11"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[deprecated-tls:tls_1.1] [ssl] [info] minio.szzy.szaicpp.com:443 ["tls11"]
+[tls-version] [ssl] [info] bd-wind.szzy.szaicpp.com:443 ["tls12"]
+[tls-version] [ssl] [info] app.szzgh.org:443 ["tls12"]
+[tls-version] [ssl] [info] anju.szhome.com:443 ["tls12"]
+[deprecated-tls:tls_1.0] [ssl] [info] minio.szzy.szaicpp.com:443 ["tls10"]
+[tls-version] [ssl] [info] bd-wind.szzy.szaicpp.com:443 ["tls13"]
+[tls-version] [ssl] [info] app.szzgh.org:443 ["tls13"]
+[tls-version] [ssl] [info] anju.szhome.com:443 ["tls13"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] minio.szzy.szaicpp.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[tls-version] [ssl] [info] minio.szzy.szaicpp.com:443 ["tls10"]
+[deprecated-tls:tls_1.1] [ssl] [info] szzy.szzy.szaicpp.com:443 ["tls11"]
+[tls-version] [ssl] [info] ddqk-webapi.szhome.com:443 ["tls12"]
+[deprecated-tls:tls_1.1] [ssl] [info] video.szzgh.org:443 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] www.szzgh.org:443 ["tls11"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] minio.szzy.szaicpp.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[tls-version] [ssl] [info] minio.szzy.szaicpp.com:443 ["tls11"]
+[tls-version] [ssl] [info] bol.dg.szhome.com:443 ["tls12"]
+[tls-version] [ssl] [info] adm-inside.szhome.com:443 ["tls12"]
+[tls-version] [ssl] [info] img.szhome.com:443 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:443 ["tls12"]
+[tls-version] [ssl] [info] bol.szhome.com:443 ["tls12"]
+[tls-version] [ssl] [info] img5.bbs.szhome.com:443 ["tls12"]
+[tls-version] [ssl] [info] ddqk-webapi.szhome.com:443 ["tls13"]
+[tls-version] [ssl] [info] app.szhome.com:443 ["tls12"]
+[tls-version] [ssl] [info] img3.bbs.szhome.com:443 ["tls12"]
+[tls-version] [ssl] [info] am.szhome.com:443 ["tls12"]
+[tls-version] [ssl] [info] ddzf-webapi.szhome.com:443 ["tls12"]
+[deprecated-tls:tls_1.0] [ssl] [info] szzy.szzy.szaicpp.com:443 ["tls10"]
+[tls-version] [ssl] [info] csgx.szhome.com:443 ["tls12"]
+[tls-version] [ssl] [info] img.bbs.szhome.com:443 ["tls12"]
+[tls-version] [ssl] [info] bbs.szhome.com:443 ["tls12"]
+[tls-version] [ssl] [info] bbsadmin.inside.szhome.com:443 ["tls12"]
+[tls-version] [ssl] [info] business.szhome.com:443 ["tls12"]
+[tls-version] [ssl] [info] cas.szhome.com:443 ["tls12"]
+[tls-version] [ssl] [info] dg.szhome.com:443 ["tls12"]
+[tls-version] [ssl] [info] dongdong.szhome.com:443 ["tls12"]
+[tls-version] [ssl] [info] dc2.inside.szhome.com:443 ["tls12"]
+[deprecated-tls:tls_1.0] [ssl] [info] video.szzgh.org:443 ["tls10"]
+[tls-version] [ssl] [info] adm-inside.szhome.com:443 ["tls13"]
+[tls-version] [ssl] [info] bol.dg.szhome.com:443 ["tls13"]
+[tls-version] [ssl] [info] 720.szhome.com:443 ["tls12"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.szzgh.org:443 ["tls10"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:443 ["tls13"]
+[tls-version] [ssl] [info] bol.szhome.com:443 ["tls13"]
+[tls-version] [ssl] [info] minio.szzy.szaicpp.com:443 ["tls12"]
+[tls-version] [ssl] [info] app.szhome.com:443 ["tls13"]
+[tls-version] [ssl] [info] am.szhome.com:443 ["tls13"]
+[tls-version] [ssl] [info] ddzf-webapi.szhome.com:443 ["tls13"]
+[tls-version] [ssl] [info] csgx.szhome.com:443 ["tls13"]
+[tls-version] [ssl] [info] cas.szhome.com:443 ["tls13"]
+[tls-version] [ssl] [info] bbsadmin.inside.szhome.com:443 ["tls13"]
+[tls-version] [ssl] [info] bbs.szhome.com:443 ["tls13"]
+[tls-version] [ssl] [info] business.szhome.com:443 ["tls13"]
+[tls-version] [ssl] [info] dg.szhome.com:443 ["tls13"]
+[tls-version] [ssl] [info] dongdong.szhome.com:443 ["tls13"]
+[tls-version] [ssl] [info] dc2.inside.szhome.com:443 ["tls13"]
+[tls-version] [ssl] [info] 720.szhome.com:443 ["tls13"]
+[tls-version] [ssl] [info] minio.szzy.szaicpp.com:443 ["tls13"]
+[deprecated-tls:ssl_3.0] [ssl] [info] video.szzgh.org:443 ["ssl30"]
+[tls-version] [ssl] [info] szzy.szzy.szaicpp.com:443 ["tls10"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] szzy.szzy.szaicpp.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] video.szzgh.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tls-version] [ssl] [info] video.szzgh.org:443 ["tls10"]
+[tls-version] [ssl] [info] www.szzgh.org:443 ["tls10"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szzgh.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tls-version] [ssl] [info] img4.szhome.com:443 ["tls12"]
+[tls-version] [ssl] [info] szzy.szzy.szaicpp.com:443 ["tls11"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] szzy.szzy.szaicpp.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[tls-version] [ssl] [info] m.szhome.com:443 ["tls12"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] video.szzgh.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tls-version] [ssl] [info] video.szzgh.org:443 ["tls11"]
+[tls-version] [ssl] [info] www.szzgh.org:443 ["tls11"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szzgh.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tls-version] [ssl] [info] news.szhome.com:443 ["tls12"]
+[tls-version] [ssl] [info] m.szhome.com:443 ["tls13"]
+[tls-version] [ssl] [info] szzy.szzy.szaicpp.com:443 ["tls12"]
+[tls-version] [ssl] [info] news.szhome.com:443 ["tls13"]
+[tls-version] [ssl] [info] video.szzgh.org:443 ["tls12"]
+[tls-version] [ssl] [info] www.szzgh.org:443 ["tls12"]
+[tls-version] [ssl] [info] szzy.szzy.szaicpp.com:443 ["tls13"]
+[tls-version] [ssl] [info] www.szzgh.org:443 ["tls13"]
+[tls-version] [ssl] [info] static.szhome.com:443 ["tls12"]
+[tls-version] [ssl] [info] open.szhome.com:443 ["tls12"]
+[tls-version] [ssl] [info] sso.szhome.com:443 ["tls12"]
+[tls-version] [ssl] [info] passport.szhome.com:443 ["tls12"]
+[tls-version] [ssl] [info] webapi.bbs.szhome.com:443 ["tls12"]
+[tls-version] [ssl] [info] toutiao.szhome.com:443 ["tls12"]
+[tls-version] [ssl] [info] open.szhome.com:443 ["tls13"]
+[tls-version] [ssl] [info] www.szhome.com:443 ["tls12"]
+[tls-version] [ssl] [info] sso.szhome.com:443 ["tls13"]
+[tls-version] [ssl] [info] passport.szhome.com:443 ["tls13"]
+[tls-version] [ssl] [info] static.szhome.com:443 ["tls13"]
+[tls-version] [ssl] [info] webapi.bbs.szhome.com:443 ["tls13"]
+[tls-version] [ssl] [info] www.szhome.com:443 ["tls13"]
+[tls-version] [ssl] [info] toutiao.szhome.com:443 ["tls13"]
+[tls-version] [ssl] [info] stats.szhome.com:443 ["tls12"]
+[tls-version] [ssl] [info] stats.szhome.com:443 ["tls13"]
+[s3-detect] [http] [info] https://minio.szzy.szaicpp.com/%c0
+[email-extractor] [http] [info] https://anju.szhome.com ["332989758@qq.com"]
+[openresty-detect] [http] [info] https://anju.szhome.com
+[xss-deprecated-header] [http] [info] https://minio.szzy.szaicpp.com ["1; mode=block"]
+[aws-bucket-service] [http] [info] https://minio.szzy.szaicpp.com
+[addeventlistener-detect] [http] [info] https://lsapp.szzgh.org
+[openresty-detect] [http] [info] https://lsapp.szzgh.org
+[aspnet-version-detect] [http] [info] https://img5.bbs.szhome.com/%3f ["4.0.30319"]
+[aspnet-version-detect] [http] [info] https://img4.szhome.com/%3f ["4.0.30319"]
+[janitza-umg-panel] [http] [info] https://lsapp.szzgh.org
+[tech-detect:owl-carousel] [http] [info] https://anju.szhome.com
+[janitza-umg-panel] [http] [info] https://video.szzgh.org
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://app.szhome.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://720.szhome.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://app.szhome.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://720.szhome.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://app.szhome.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://720.szhome.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://app.szhome.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://720.szhome.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://app.szhome.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://720.szhome.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://app.szhome.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://720.szhome.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://app.szhome.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://720.szhome.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://app.szhome.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://720.szhome.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://app.szhome.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://720.szhome.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://app.szhome.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://720.szhome.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://adm-inside.szhome.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://adm-inside.szhome.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://adm-inside.szhome.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://adm-inside.szhome.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://adm-inside.szhome.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://adm-inside.szhome.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://adm-inside.szhome.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://adm-inside.szhome.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://adm-inside.szhome.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://adm-inside.szhome.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://bbsadmin.inside.szhome.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://bbsadmin.inside.szhome.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://bbsadmin.inside.szhome.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://bbsadmin.inside.szhome.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://bbsadmin.inside.szhome.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://bbsadmin.inside.szhome.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://bbsadmin.inside.szhome.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://bbsadmin.inside.szhome.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://bbsadmin.inside.szhome.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://bbsadmin.inside.szhome.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://app.szzgh.org
+[http-missing-security-headers:x-content-type-options] [http] [info] https://app.szzgh.org
+[http-missing-security-headers:referrer-policy] [http] [info] https://app.szzgh.org
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://app.szzgh.org
+[http-missing-security-headers:content-security-policy] [http] [info] https://app.szzgh.org
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://app.szzgh.org
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://app.szzgh.org
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://app.szzgh.org
+[http-missing-security-headers:strict-transport-security] [http] [info] https://app.szzgh.org
+[http-missing-security-headers:permissions-policy] [http] [info] https://app.szzgh.org
+[http-missing-security-headers:strict-transport-security] [http] [info] https://ddzf-webapi.szhome.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://ddzf-webapi.szhome.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://ddzf-webapi.szhome.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://ddzf-webapi.szhome.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://ddzf-webapi.szhome.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://ddzf-webapi.szhome.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://ddzf-webapi.szhome.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://ddzf-webapi.szhome.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://ddzf-webapi.szhome.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://ddzf-webapi.szhome.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://bol.szhome.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://bol.szhome.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://bol.szhome.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://bol.szhome.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://bol.szhome.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://bol.szhome.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://bol.szhome.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://bol.szhome.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://bol.szhome.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://bol.szhome.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://business.szhome.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://business.szhome.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://business.szhome.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://business.szhome.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://business.szhome.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://business.szhome.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://business.szhome.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://business.szhome.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://business.szhome.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://business.szhome.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://dc2.inside.szhome.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://dc2.inside.szhome.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://dc2.inside.szhome.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://dc2.inside.szhome.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://dc2.inside.szhome.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://dc2.inside.szhome.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://dc2.inside.szhome.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://dc2.inside.szhome.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://dg.szhome.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://dc2.inside.szhome.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://dg.szhome.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://dc2.inside.szhome.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://dg.szhome.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://dg.szhome.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://dg.szhome.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://dg.szhome.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://dg.szhome.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://dg.szhome.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://dg.szhome.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://dg.szhome.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://am.szhome.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://am.szhome.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://am.szhome.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://am.szhome.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://am.szhome.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://am.szhome.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://am.szhome.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://am.szhome.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://am.szhome.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://am.szhome.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://ddqk-webapi.szhome.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://ddqk-webapi.szhome.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://ddqk-webapi.szhome.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://ddqk-webapi.szhome.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://ddqk-webapi.szhome.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://ddqk-webapi.szhome.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://ddqk-webapi.szhome.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://ddqk-webapi.szhome.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://ddqk-webapi.szhome.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://csgx.szhome.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://ddqk-webapi.szhome.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://csgx.szhome.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://csgx.szhome.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://csgx.szhome.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://csgx.szhome.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://csgx.szhome.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://csgx.szhome.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://csgx.szhome.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://csgx.szhome.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://csgx.szhome.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://cas.szhome.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://cas.szhome.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://cas.szhome.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://cas.szhome.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://cas.szhome.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://cas.szhome.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://cas.szhome.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://cas.szhome.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://cas.szhome.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://cas.szhome.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://dongdong.szhome.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://dongdong.szhome.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://dongdong.szhome.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://dongdong.szhome.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://dongdong.szhome.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://dongdong.szhome.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://dongdong.szhome.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://dongdong.szhome.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://dongdong.szhome.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://dongdong.szhome.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://bbs.szhome.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://bbs.szhome.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://bbs.szhome.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://bbs.szhome.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://bbs.szhome.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://bbs.szhome.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://bbs.szhome.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://bbs.szhome.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://bbs.szhome.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://bbs.szhome.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://bol.dg.szhome.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://bol.dg.szhome.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://bol.dg.szhome.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://bol.dg.szhome.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://bol.dg.szhome.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://bol.dg.szhome.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://bol.dg.szhome.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://bol.dg.szhome.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://bol.dg.szhome.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://bol.dg.szhome.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://anju.szhome.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://anju.szhome.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://anju.szhome.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://anju.szhome.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://anju.szhome.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://anju.szhome.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://anju.szhome.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://anju.szhome.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://anju.szhome.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://anju.szhome.com
+[mixed-passive-content:img] [http] [info] https://anju.szhome.com ["http://qrgenerator.qrcreator.net/create.php?data=http://bbs.szhome.com/500070-8-1-0-1.html","http://img4.szhome.com/2022/12/1229131216630.jpg","http://img4.szhome.com/2022/12/1229131526818.jpg","http://img4.szhome.com/2022/10/1025115736633.jpg","http://img4.szhome.com/2022/08/0824170327504.jpg","http://img4.szhome.com/2022/08/0823100105848.jpg","http://img4.szhome.com/2022/04/0408133543781.jpg","http://www.szhome.com/images/beian.png","http://szcert.ebs.org.cn/Images/govIcon.gif","http://img4.szhome.com/2022/12/1214165026166.jpg","http://img4.szhome.com/2022/10/1003164255021.jpg","http://img4.szhome.com/2022/10/1025115545242.jpg","http://img4.szhome.com/2022/08/0824170602067.jpg","http://img4.szhome.com/2022/04/0415105820807.jpg"]
+[http-missing-security-headers:x-frame-options] [http] [info] https://img.szhome.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://img.szhome.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://img.szhome.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://img.szhome.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://img.szhome.com
+[http-missing-security-headers:missing-content-type] [http] [info] https://img.szhome.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://img.szhome.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://img.szhome.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://img.szhome.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://img.szhome.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://img.szhome.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://img5.bbs.szhome.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://img5.bbs.szhome.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://img5.bbs.szhome.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://img5.bbs.szhome.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://img5.bbs.szhome.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://img5.bbs.szhome.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://img5.bbs.szhome.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://img5.bbs.szhome.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://img5.bbs.szhome.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://img5.bbs.szhome.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://img3.bbs.szhome.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://img3.bbs.szhome.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://img3.bbs.szhome.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://img3.bbs.szhome.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://img3.bbs.szhome.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://img3.bbs.szhome.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://img3.bbs.szhome.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://img3.bbs.szhome.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://img3.bbs.szhome.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://img3.bbs.szhome.com
+[http-missing-security-headers:missing-content-type] [http] [info] https://img3.bbs.szhome.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org
+[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org
+[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org
+[http-missing-security-headers:content-security-policy] [http] [info] https://m.szhome.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://m.szhome.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://m.szhome.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://m.szhome.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://m.szhome.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://m.szhome.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://m.szhome.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://m.szhome.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://m.szhome.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://m.szhome.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://img4.szhome.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://img4.szhome.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://img4.szhome.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://img4.szhome.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://img4.szhome.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://img4.szhome.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://img4.szhome.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://img4.szhome.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://img4.szhome.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://img4.szhome.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://news.szhome.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://news.szhome.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://news.szhome.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://news.szhome.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://static.szhome.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://static.szhome.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://news.szhome.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://static.szhome.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://static.szhome.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://static.szhome.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://news.szhome.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://static.szhome.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://static.szhome.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://static.szhome.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://static.szhome.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://static.szhome.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://news.szhome.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://news.szhome.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://news.szhome.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://news.szhome.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://open.szhome.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://open.szhome.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://open.szhome.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://open.szhome.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:permissions-policy] [http] [info] https://open.szhome.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:x-content-type-options] [http] [info] https://open.szhome.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:x-content-type-options] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:referrer-policy] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:content-security-policy] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://open.szhome.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://sso.szhome.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://sso.szhome.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://sso.szhome.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://open.szhome.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://sso.szhome.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://open.szhome.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://open.szhome.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://stats.szhome.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://stats.szhome.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://stats.szhome.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://stats.szhome.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://stats.szhome.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://stats.szhome.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://stats.szhome.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://stats.szhome.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://stats.szhome.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://stats.szhome.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://sso.szhome.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://sso.szhome.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://sso.szhome.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://sso.szhome.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://sso.szhome.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.szhome.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.szhome.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.szhome.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://www.szhome.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://www.szhome.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://www.szhome.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://www.szhome.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://www.szhome.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.szhome.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://www.szhome.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://sso.szhome.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://passport.szhome.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://passport.szhome.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://passport.szhome.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://passport.szhome.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://passport.szhome.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://passport.szhome.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://passport.szhome.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://passport.szhome.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://passport.szhome.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://passport.szhome.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://toutiao.szhome.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://toutiao.szhome.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://toutiao.szhome.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://toutiao.szhome.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://toutiao.szhome.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://toutiao.szhome.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://toutiao.szhome.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://toutiao.szhome.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://toutiao.szhome.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://toutiao.szhome.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://webapi.bbs.szhome.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://webapi.bbs.szhome.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://webapi.bbs.szhome.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://webapi.bbs.szhome.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://webapi.bbs.szhome.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://webapi.bbs.szhome.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://webapi.bbs.szhome.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://webapi.bbs.szhome.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://webapi.bbs.szhome.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://webapi.bbs.szhome.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://bd-wind.szzy.szaicpp.com/cps/portal/ui/#/home
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://bd-wind.szzy.szaicpp.com/cps/portal/ui/#/home
+[http-missing-security-headers:strict-transport-security] [http] [info] https://bd-wind.szzy.szaicpp.com/cps/portal/ui/#/home
+[http-missing-security-headers:content-security-policy] [http] [info] https://bd-wind.szzy.szaicpp.com/cps/portal/ui/#/home
+[http-missing-security-headers:permissions-policy] [http] [info] https://bd-wind.szzy.szaicpp.com/cps/portal/ui/#/home
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://bd-wind.szzy.szaicpp.com/cps/portal/ui/#/home
+[http-missing-security-headers:referrer-policy] [http] [info] https://bd-wind.szzy.szaicpp.com/cps/portal/ui/#/home
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://bd-wind.szzy.szaicpp.com/cps/portal/ui/#/home
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://szzy.szzy.szaicpp.com/cps/portal/ui/#/home
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://szzy.szzy.szaicpp.com/cps/portal/ui/#/home
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://szzy.szzy.szaicpp.com/cps/portal/ui/#/home
+[http-missing-security-headers:strict-transport-security] [http] [info] https://szzy.szzy.szaicpp.com/cps/portal/ui/#/home
+[http-missing-security-headers:content-security-policy] [http] [info] https://szzy.szzy.szaicpp.com/cps/portal/ui/#/home
+[http-missing-security-headers:permissions-policy] [http] [info] https://szzy.szzy.szaicpp.com/cps/portal/ui/#/home
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://szzy.szzy.szaicpp.com/cps/portal/ui/#/home
+[http-missing-security-headers:referrer-policy] [http] [info] https://szzy.szzy.szaicpp.com/cps/portal/ui/#/home
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://minio.szzy.szaicpp.com/console/
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://minio.szzy.szaicpp.com/console/
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://minio.szzy.szaicpp.com/console/
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://minio.szzy.szaicpp.com/console/
+[http-missing-security-headers:strict-transport-security] [http] [info] https://minio.szzy.szaicpp.com/console/
+[http-missing-security-headers:permissions-policy] [http] [info] https://minio.szzy.szaicpp.com/console/
+[http-missing-security-headers:x-frame-options] [http] [info] https://minio.szzy.szaicpp.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://minio.szzy.szaicpp.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://minio.szzy.szaicpp.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://minio.szzy.szaicpp.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://minio.szzy.szaicpp.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://minio.szzy.szaicpp.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://minio.szzy.szaicpp.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://minio.szzy.szaicpp.com
+[aws-detect:aws-service] [http] [info] https://minio.szzy.szaicpp.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://video.szzgh.org
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://video.szzgh.org
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://video.szzgh.org
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://video.szzgh.org
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://video.szzgh.org
+[http-missing-security-headers:content-security-policy] [http] [info] https://video.szzgh.org
+[http-missing-security-headers:permissions-policy] [http] [info] https://video.szzgh.org
+[http-missing-security-headers:x-frame-options] [http] [info] https://video.szzgh.org
+[aspnetmvc-version-disclosure] [http] [info] https://anju.szhome.com ["5.2"]
+[options-method] [http] [info] https://img.szhome.com ["OPTIONS, TRACE, GET, HEAD, POST"]
+[options-method] [http] [info] https://img5.bbs.szhome.com ["OPTIONS, TRACE, GET, HEAD, POST"]
+[options-method] [http] [info] https://img3.bbs.szhome.com ["OPTIONS, TRACE, GET, HEAD, POST"]
+[options-method] [http] [info] https://img4.szhome.com ["OPTIONS, TRACE, GET, HEAD, POST"]
+[robots-txt] [http] [info] https://anju.szhome.com/robots.txt
+[robots-txt] [http] [info] https://img3.bbs.szhome.com/robots.txt
+[robots-txt] [http] [info] https://img5.bbs.szhome.com/robots.txt
+[robots-txt] [http] [info] https://img.szhome.com/robots.txt
+[robots-txt-endpoint:endpoints] [http] [info] https://anju.szhome.com/robots.txt ["/Manage/","/content/","/bin/","/packages.config","/web.config","/Areas/"]
+[robots-txt-endpoint] [http] [info] https://img5.bbs.szhome.com/robots.txt
+[robots-txt-endpoint] [http] [info] https://img3.bbs.szhome.com/robots.txt
+[robots-txt-endpoint] [http] [info] https://img.szhome.com/robots.txt
+[dns-saas-service-detection] [dns] [info] anju.szhome.com ["anju.szhome.com.ctadns.cn"]
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[caa-fingerprint] [dns] [info] am.szhome.com
+[caa-fingerprint] [dns] [info] csgx.szhome.com
+[caa-fingerprint] [dns] [info] bol.szhome.com
+[caa-fingerprint] [dns] [info] business.szhome.com
+[caa-fingerprint] [dns] [info] img3.bbs.szhome.com
+[caa-fingerprint] [dns] [info] img.bbs.szhome.com
+[caa-fingerprint] [dns] [info] cas.szhome.com
+[caa-fingerprint] [dns] [info] adm-inside.szhome.com
+[caa-fingerprint] [dns] [info] img5.bbs.szhome.com
+[caa-fingerprint] [dns] [info] bol.dg.szhome.com
+[caa-fingerprint] [dns] [info] bd-wind.szzy.szaicpp.com
+[caa-fingerprint] [dns] [info] img.szhome.com
+[caa-fingerprint] [dns] [info] bbs.szhome.com
+[caa-fingerprint] [dns] [info] dc2.inside.szhome.com
+[caa-fingerprint] [dns] [info] ddzf-webapi.szhome.com
+[caa-fingerprint] [dns] [info] dg.szhome.com
+[caa-fingerprint] [dns] [info] 720.szhome.com
+[caa-fingerprint] [dns] [info] img4.szhome.com
+[caa-fingerprint] [dns] [info] app.szhome.com
+[caa-fingerprint] [dns] [info] app.szzgh.org
+[caa-fingerprint] [dns] [info] bbsadmin.inside.szhome.com
+[caa-fingerprint] [dns] [info] dongdong.szhome.com
+[caa-fingerprint] [dns] [info] ddqk-webapi.szhome.com
+[caa-fingerprint] [dns] [info] szzy.szzy.szaicpp.com
+[caa-fingerprint] [dns] [info] open.szhome.com
+[caa-fingerprint] [dns] [info] sso.szhome.com
+[caa-fingerprint] [dns] [info] m.szhome.com
+[caa-fingerprint] [dns] [info] passport.szhome.com
+[caa-fingerprint] [dns] [info] news.szhome.com
+[caa-fingerprint] [dns] [info] stats.szhome.com
+[caa-fingerprint] [dns] [info] video.szzgh.org
+[caa-fingerprint] [dns] [info] www.szzgh.org
+[caa-fingerprint] [dns] [info] lsapp.szzgh.org
+[caa-fingerprint] [dns] [info] anju.szhome.com
+[caa-fingerprint] [dns] [info] toutiao.szhome.com
+[caa-fingerprint] [dns] [info] webapi.bbs.szhome.com
+[caa-fingerprint] [dns] [info] www.szhome.com
+[caa-fingerprint] [dns] [info] static.szhome.com
+[caa-fingerprint] [dns] [info] www.smartcitytx.com
+[caa-fingerprint] [dns] [info] minio.szzy.szaicpp.com
+[ssl-issuer] [ssl] [info] bd-wind.szzy.szaicpp.com:443 ["Let's Encrypt"]
+[ssl-dns-names] [ssl] [info] bd-wind.szzy.szaicpp.com:443 ["bd-wind.szzy.szaicpp.com"]
+[ssl-issuer] [ssl] [info] app.szzgh.org:443 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] app.szzgh.org:443 ["*.szzgh.org","szzgh.org"]
+[wildcard-tls] [ssl] [info] app.szzgh.org:443 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[ssl-issuer] [ssl] [info] lsapp.szzgh.org:443 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:443 ["szzgh.org","*.szzgh.org"]
+[wildcard-tls] [ssl] [info] lsapp.szzgh.org:443 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[ssl-issuer] [ssl] [info] app.szhome.com:443 ["Asseco Data Systems S.A."]
+[ssl-dns-names] [ssl] [info] app.szhome.com:443 ["*.szhome.com","szhome.com"]
+[wildcard-tls] [ssl] [info] app.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
+[ssl-issuer] [ssl] [info] 720.szhome.com:443 ["Asseco Data Systems S.A."]
+[ssl-dns-names] [ssl] [info] 720.szhome.com:443 ["*.szhome.com","szhome.com"]
+[ssl-issuer] [ssl] [info] bbsadmin.inside.szhome.com:443 ["Asseco Data Systems S.A."]
+[wildcard-tls] [ssl] [info] 720.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
+[mismatched-ssl-certificate] [ssl] [info] bbsadmin.inside.szhome.com:443 ["CN: *.szhome.com"]
+[ssl-dns-names] [ssl] [info] bbsadmin.inside.szhome.com:443 ["*.szhome.com","szhome.com"]
+[wildcard-tls] [ssl] [info] bbsadmin.inside.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
+[ssl-issuer] [ssl] [info] bol.dg.szhome.com:443 ["Asseco Data Systems S.A."]
+[mismatched-ssl-certificate] [ssl] [info] bol.dg.szhome.com:443 ["CN: *.szhome.com"]
+[ssl-dns-names] [ssl] [info] bol.dg.szhome.com:443 ["*.szhome.com","szhome.com"]
+[wildcard-tls] [ssl] [info] bol.dg.szhome.com:443 ["SAN: [*.szhome.com szhome.com]","CN: *.szhome.com"]
+[ssl-issuer] [ssl] [info] bbs.szhome.com:443 ["Asseco Data Systems S.A."]
+[ssl-dns-names] [ssl] [info] bbs.szhome.com:443 ["*.szhome.com","szhome.com"]
+[wildcard-tls] [ssl] [info] bbs.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
+[ssl-issuer] [ssl] [info] dg.szhome.com:443 ["Asseco Data Systems S.A."]
+[ssl-dns-names] [ssl] [info] dg.szhome.com:443 ["szhome.com","*.szhome.com"]
+[wildcard-tls] [ssl] [info] dg.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
+[ssl-issuer] [ssl] [info] img.bbs.szhome.com:443 ["Asseco Data Systems S.A."]
+[mismatched-ssl-certificate] [ssl] [info] img.bbs.szhome.com:443 ["CN: *.szhome.com"]
+[ssl-dns-names] [ssl] [info] img.bbs.szhome.com:443 ["*.szhome.com","szhome.com"]
+[wildcard-tls] [ssl] [info] img.bbs.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
+[ssl-issuer] [ssl] [info] dc2.inside.szhome.com:443 ["Asseco Data Systems S.A."]
+[mismatched-ssl-certificate] [ssl] [info] dc2.inside.szhome.com:443 ["CN: *.szhome.com"]
+[ssl-dns-names] [ssl] [info] dc2.inside.szhome.com:443 ["*.szhome.com","szhome.com"]
+[wildcard-tls] [ssl] [info] dc2.inside.szhome.com:443 ["SAN: [*.szhome.com szhome.com]","CN: *.szhome.com"]
+[ssl-issuer] [ssl] [info] am.szhome.com:443 ["Asseco Data Systems S.A."]
+[ssl-dns-names] [ssl] [info] am.szhome.com:443 ["*.szhome.com","szhome.com"]
+[wildcard-tls] [ssl] [info] am.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
+[ssl-issuer] [ssl] [info] ddzf-webapi.szhome.com:443 ["Asseco Data Systems S.A."]
+[ssl-dns-names] [ssl] [info] ddzf-webapi.szhome.com:443 ["*.szhome.com","szhome.com"]
+[wildcard-tls] [ssl] [info] ddzf-webapi.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
+[ssl-issuer] [ssl] [info] anju.szhome.com:443 ["Asseco Data Systems S.A."]
+[ssl-dns-names] [ssl] [info] anju.szhome.com:443 ["*.szhome.com","szhome.com"]
+[wildcard-tls] [ssl] [info] anju.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
+[ssl-issuer] [ssl] [info] cas.szhome.com:443 ["Asseco Data Systems S.A."]
+[ssl-dns-names] [ssl] [info] cas.szhome.com:443 ["szhome.com","*.szhome.com"]
+[wildcard-tls] [ssl] [info] cas.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
+[ssl-issuer] [ssl] [info] business.szhome.com:443 ["Asseco Data Systems S.A."]
+[ssl-dns-names] [ssl] [info] business.szhome.com:443 ["*.szhome.com","szhome.com"]
+[wildcard-tls] [ssl] [info] business.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
+[ssl-issuer] [ssl] [info] bol.szhome.com:443 ["Asseco Data Systems S.A."]
+[ssl-dns-names] [ssl] [info] bol.szhome.com:443 ["*.szhome.com","szhome.com"]
+[wildcard-tls] [ssl] [info] bol.szhome.com:443 ["SAN: [*.szhome.com szhome.com]","CN: *.szhome.com"]
+[ssl-issuer] [ssl] [info] img5.bbs.szhome.com:443 ["Asseco Data Systems S.A."]
+[ssl-issuer] [ssl] [info] img3.bbs.szhome.com:443 ["Asseco Data Systems S.A."]
+[mismatched-ssl-certificate] [ssl] [info] img5.bbs.szhome.com:443 ["CN: *.szhome.com"]
+[ssl-dns-names] [ssl] [info] img5.bbs.szhome.com:443 ["*.szhome.com","szhome.com"]
+[mismatched-ssl-certificate] [ssl] [info] img3.bbs.szhome.com:443 ["CN: *.szhome.com"]
+[wildcard-tls] [ssl] [info] img5.bbs.szhome.com:443 ["SAN: [*.szhome.com szhome.com]","CN: *.szhome.com"]
+[ssl-dns-names] [ssl] [info] img3.bbs.szhome.com:443 ["*.szhome.com","szhome.com"]
+[wildcard-tls] [ssl] [info] img3.bbs.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
+[ssl-issuer] [ssl] [info] img.szhome.com:443 ["Asseco Data Systems S.A."]
+[ssl-dns-names] [ssl] [info] img.szhome.com:443 ["*.szhome.com","szhome.com"]
+[wildcard-tls] [ssl] [info] img.szhome.com:443 ["SAN: [*.szhome.com szhome.com]","CN: *.szhome.com"]
+[ssl-issuer] [ssl] [info] adm-inside.szhome.com:443 ["Asseco Data Systems S.A."]
+[ssl-dns-names] [ssl] [info] adm-inside.szhome.com:443 ["*.szhome.com","szhome.com"]
+[wildcard-tls] [ssl] [info] adm-inside.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
+[ssl-issuer] [ssl] [info] dongdong.szhome.com:443 ["Asseco Data Systems S.A."]
+[ssl-dns-names] [ssl] [info] dongdong.szhome.com:443 ["*.szhome.com","szhome.com"]
+[ssl-issuer] [ssl] [info] csgx.szhome.com:443 ["Asseco Data Systems S.A."]
+[wildcard-tls] [ssl] [info] dongdong.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
+[ssl-dns-names] [ssl] [info] csgx.szhome.com:443 ["*.szhome.com","szhome.com"]
+[wildcard-tls] [ssl] [info] csgx.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
+[ssl-issuer] [ssl] [info] ddqk-webapi.szhome.com:443 ["Asseco Data Systems S.A."]
+[ssl-dns-names] [ssl] [info] ddqk-webapi.szhome.com:443 ["*.szhome.com","szhome.com"]
+[wildcard-tls] [ssl] [info] ddqk-webapi.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
+[ssl-issuer] [ssl] [info] m.szhome.com:443 ["Asseco Data Systems S.A."]
+[ssl-dns-names] [ssl] [info] m.szhome.com:443 ["*.szhome.com","szhome.com"]
+[wildcard-tls] [ssl] [info] m.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
+[ssl-issuer] [ssl] [info] minio.szzy.szaicpp.com:443 ["Let's Encrypt"]
+[ssl-dns-names] [ssl] [info] minio.szzy.szaicpp.com:443 ["minio.szzy.szaicpp.com"]
+[ssl-issuer] [ssl] [info] news.szhome.com:443 ["Asseco Data Systems S.A."]
+[ssl-dns-names] [ssl] [info] news.szhome.com:443 ["*.szhome.com","szhome.com"]
+[wildcard-tls] [ssl] [info] news.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
+[ssl-issuer] [ssl] [info] img4.szhome.com:443 ["Asseco Data Systems S.A."]
+[ssl-dns-names] [ssl] [info] img4.szhome.com:443 ["szhome.com","*.szhome.com"]
+[wildcard-tls] [ssl] [info] img4.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
+[ssl-issuer] [ssl] [info] szzy.szzy.szaicpp.com:443 ["Let's Encrypt"]
+[ssl-dns-names] [ssl] [info] szzy.szzy.szaicpp.com:443 ["szzy.szzy.szaicpp.com"]
+[ssl-issuer] [ssl] [info] www.szzgh.org:443 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] www.szzgh.org:443 ["szzgh.org","*.szzgh.org"]
+[wildcard-tls] [ssl] [info] www.szzgh.org:443 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[ssl-issuer] [ssl] [info] sso.szhome.com:443 ["Asseco Data Systems S.A."]
+[ssl-dns-names] [ssl] [info] sso.szhome.com:443 ["*.szhome.com","szhome.com"]
+[wildcard-tls] [ssl] [info] sso.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
+[ssl-issuer] [ssl] [info] passport.szhome.com:443 ["Asseco Data Systems S.A."]
+[ssl-dns-names] [ssl] [info] passport.szhome.com:443 ["*.szhome.com","szhome.com"]
+[wildcard-tls] [ssl] [info] passport.szhome.com:443 ["SAN: [*.szhome.com szhome.com]","CN: *.szhome.com"]
+[ssl-issuer] [ssl] [info] static.szhome.com:443 ["Asseco Data Systems S.A."]
+[ssl-issuer] [ssl] [info] open.szhome.com:443 ["Asseco Data Systems S.A."]
+[ssl-dns-names] [ssl] [info] static.szhome.com:443 ["szhome.com","*.szhome.com"]
+[ssl-dns-names] [ssl] [info] open.szhome.com:443 ["szhome.com","*.szhome.com"]
+[wildcard-tls] [ssl] [info] static.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
+[wildcard-tls] [ssl] [info] open.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
+[ssl-issuer] [ssl] [info] stats.szhome.com:443 ["Asseco Data Systems S.A."]
+[ssl-dns-names] [ssl] [info] stats.szhome.com:443 ["*.szhome.com","szhome.com"]
+[wildcard-tls] [ssl] [info] stats.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
+[ssl-issuer] [ssl] [info] toutiao.szhome.com:443 ["Asseco Data Systems S.A."]
+[ssl-dns-names] [ssl] [info] toutiao.szhome.com:443 ["*.szhome.com","szhome.com"]
+[wildcard-tls] [ssl] [info] toutiao.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
+[ssl-issuer] [ssl] [info] www.szhome.com:443 ["Asseco Data Systems S.A."]
+[ssl-dns-names] [ssl] [info] www.szhome.com:443 ["*.szhome.com","szhome.com"]
+[wildcard-tls] [ssl] [info] www.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
+[ssl-issuer] [ssl] [info] webapi.bbs.szhome.com:443 ["Asseco Data Systems S.A."]
+[mismatched-ssl-certificate] [ssl] [info] webapi.bbs.szhome.com:443 ["CN: *.szhome.com"]
+[ssl-dns-names] [ssl] [info] webapi.bbs.szhome.com:443 ["*.szhome.com","szhome.com"]
+[wildcard-tls] [ssl] [info] webapi.bbs.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
+[ssl-issuer] [ssl] [info] video.szzgh.org:443 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] video.szzgh.org:443 ["szzgh.org","*.szzgh.org"]
+[wildcard-tls] [ssl] [info] video.szzgh.org:443 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
