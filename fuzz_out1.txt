@@ -1,52 +1,6 @@
-[wildcard-dns-detect] [dns] [info] 3FKNq0KrnCintPBqwpsqDbL0Jqg-3FKNq0KrnCintPBqwpsqDbL0Jqg.bd-wind.szzy.szaicpp.com ["202.105.101.8"]
-[wildcard-dns-detect] [dns] [info] 3FKNq0KrnCintPBqwpsqDbL0Jqg-3FKNq0KrnCintPBqwpsqDbL0Jqg.minio.szzy.szaicpp.com ["202.105.101.8"]
 [xff-403-bypass] [http] [info] https://video.szzgh.org:99
-[aspx-debug-mode] [http] [info] https://anju.szhome.com:443/Foobar-debug.aspx
-[aspx-debug-mode] [http] [info] https://img4.szhome.com:443/Foobar-debug.aspx
-[cookies-without-httponly] [javascript] [info] bbs.szhome.com:443 ["SameSite"]
-[cookies-without-secure] [javascript] [info] bbs.szhome.com:443 ["SameSite"]
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:10000
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:1080
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:2522
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:2003
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:1443
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:27000
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:3880
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:48080
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:4003
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:4443
-[waf-detect:aspgeneric] [http] [info] https://anju.szhome.com:443
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:5200
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:5225
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:5222
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:6001
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:6003
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:7002
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:58080
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:6006
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:7004
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:6007
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:7443
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:8007
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:8002
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:8008
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:8001
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:8086
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:8181
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:8099
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:8200
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:8300
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:8443
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:85
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:8701
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:9002
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:9003
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:9091
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:9200
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:99
-[waf-detect:apachegeneric] [http] [info] https://anju.szhome.com:9999
-[waf-detect:nginxgeneric] [http] [info] https://img.bbs.szhome.com:443
-[waf-detect:aspgeneric] [http] [info] https://img4.szhome.com:443
+[cookies-without-secure] [javascript] [info] mail.szap.com:443 ["magicwinmail_default_language","magicwinmail_login_domain","magicwinmail_client_id","magicwinmail_default_theme","magicwinmail_agent_type"]
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:1080
 [waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:1443
 [waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:2003
 [waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:27000
@@ -55,1282 +9,806 @@
 [waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:4003
 [waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:4443
 [waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:48080
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:5222
 [waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:5200
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:5222
 [waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:5225
 [waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:58080
 [waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:6001
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:6003
 [waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:6006
 [waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:6007
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:7002
 [waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:7004
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:7443
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:10000
 [waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8001
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8002
 [waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8007
 [waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8008
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8086
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:6003
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:7002
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:7443
 [waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8099
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8002
 [waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8181
 [waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8200
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8300
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8086
 [waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8443
 [waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:85
+[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8300
 [waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8701
 [waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:9002
 [waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:9003
 [waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:9091
 [waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:9200
 [waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:9999
-[waf-detect:aws] [http] [info] https://minio.szzy.szaicpp.com:443
-[cors-misconfig:arbitrary-origin] [http] [info] https://minio.szzy.szaicpp.com:443 [cors_origin="https://minio.szzy.szaicpp.com_.xdhaf.com"]
-[dameng-detect] [javascript] [info] anju.szhome.com:90
-[dameng-detect] [javascript] [info] lsapp.szzgh.org:1114
-[dameng-detect] [javascript] [info] lsapp.szzgh.org:1443
+[waf-detect:apachegeneric] [http] [info] https://mail.szap.com:443
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:1100
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:1102
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:1935
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:2003
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:2522
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:27000
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:3000
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:3880
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:4003
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:15000
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:5001
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:5200
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:5222
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:5225
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:58080
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:6001
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:6007
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:6969
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:7001
 [dameng-detect] [javascript] [info] lsapp.szzgh.org:7002
-[dameng-detect] [javascript] [info] lsapp.szzgh.org:7004
-[dameng-detect] [javascript] [info] lsapp.szzgh.org:7070
-[dameng-detect] [javascript] [info] lsapp.szzgh.org:7443
-[dameng-detect] [javascript] [info] lsapp.szzgh.org:8099
-[dameng-detect] [javascript] [info] lsapp.szzgh.org:81
-[dameng-detect] [javascript] [info] lsapp.szzgh.org:82
 [dameng-detect] [javascript] [info] lsapp.szzgh.org:8200
-[havoc-c2-jarm] [tcp] [info] minio.szzy.szaicpp.com:443
-[havoc-c2-jarm] [tcp] [info] minio.szzy.szaicpp.com:80
-[havoc-c2-jarm] [tcp] [info] szzy.szzy.szaicpp.com:443
-[havoc-c2-jarm] [tcp] [info] szzy.szzy.szaicpp.com:80
-[tls-version] [ssl] [info] anju.szhome.com:10000 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:10000 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:10000 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:1080 ["tls11"]
-[tls-version] [ssl] [info] anju.szhome.com:1080 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:1080 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:1080 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:10000 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:1080 ["tls10"]
-[tls-version] [ssl] [info] anju.szhome.com:1080 ["tls11"]
-[tls-version] [ssl] [info] anju.szhome.com:10000 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:10000 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:10000 ["tls12"]
-[tls-version] [ssl] [info] anju.szhome.com:1080 ["tls12"]
-[tls-version] [ssl] [info] anju.szhome.com:10000 ["tls13"]
-[tls-version] [ssl] [info] anju.szhome.com:1080 ["tls13"]
-[tls-version] [ssl] [info] adm-inside.szhome.com:443 ["tls12"]
-[tls-version] [ssl] [info] 720.szhome.com:443 ["tls12"]
-[tls-version] [ssl] [info] adm-inside.szhome.com:443 ["tls13"]
-[tls-version] [ssl] [info] am.szhome.com:443 ["tls12"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:1443 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:2003 ["tls11"]
-[tls-version] [ssl] [info] am.szhome.com:443 ["tls13"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:2522 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:27000 ["tls11"]
-[tls-version] [ssl] [info] 720.szhome.com:443 ["tls13"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:443 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:3880 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:4003 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:4443 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:48080 ["tls11"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:1443 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:2003 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:27000 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:2522 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:443 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:3880 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:4003 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:4443 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:48080 ["tls10"]
-[tls-version] [ssl] [info] anju.szhome.com:1443 ["tls10"]
-[tls-version] [ssl] [info] anju.szhome.com:2003 ["tls10"]
-[tls-version] [ssl] [info] anju.szhome.com:2522 ["tls10"]
-[tls-version] [ssl] [info] anju.szhome.com:27000 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:1443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:2003 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:2522 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:3880 ["tls10"]
-[tls-version] [ssl] [info] anju.szhome.com:4003 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:27000 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:443 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:3880 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:4003 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:4443 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:4443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:5200 ["tls11"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:48080 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:48080 ["tls10"]
-[tls-version] [ssl] [info] anju.szhome.com:1443 ["tls11"]
-[tls-version] [ssl] [info] anju.szhome.com:2003 ["tls11"]
-[tls-version] [ssl] [info] anju.szhome.com:27000 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:1443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:2522 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:2003 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:3880 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:2522 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:4003 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:27000 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:5222 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:6001 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:5225 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:58080 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:6006 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:6007 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:4003 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:443 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:3880 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:6003 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:4443 ["tls11"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:5200 ["tls10"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:4443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:48080 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:48080 ["tls11"]
-[tls-version] [ssl] [info] anju.szhome.com:1443 ["tls12"]
-[tls-version] [ssl] [info] anju.szhome.com:2003 ["tls12"]
-[tls-version] [ssl] [info] anju.szhome.com:27000 ["tls12"]
-[tls-version] [ssl] [info] anju.szhome.com:2522 ["tls12"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:7002 ["tls11"]
-[tls-version] [ssl] [info] anju.szhome.com:3880 ["tls12"]
-[tls-version] [ssl] [info] anju.szhome.com:4003 ["tls12"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:5222 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:58080 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:6007 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:5225 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:6001 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:6006 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:6003 ["tls10"]
-[tls-version] [ssl] [info] anju.szhome.com:443 ["tls12"]
-[tls-version] [ssl] [info] anju.szhome.com:4443 ["tls12"]
-[tls-version] [ssl] [info] anju.szhome.com:1443 ["tls13"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:7004 ["tls11"]
-[tls-version] [ssl] [info] anju.szhome.com:48080 ["tls12"]
-[tls-version] [ssl] [info] anju.szhome.com:2003 ["tls13"]
-[tls-version] [ssl] [info] anju.szhome.com:27000 ["tls13"]
-[tls-version] [ssl] [info] anju.szhome.com:2522 ["tls13"]
-[tls-version] [ssl] [info] anju.szhome.com:3880 ["tls13"]
-[tls-version] [ssl] [info] anju.szhome.com:4003 ["tls13"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:7443 ["tls11"]
-[tls-version] [ssl] [info] anju.szhome.com:443 ["tls13"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:7002 ["tls10"]
-[tls-version] [ssl] [info] anju.szhome.com:4443 ["tls13"]
-[tls-version] [ssl] [info] anju.szhome.com:48080 ["tls13"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:7004 ["tls10"]
-[tls-version] [ssl] [info] anju.szhome.com:5225 ["tls10"]
-[tls-version] [ssl] [info] anju.szhome.com:5222 ["tls10"]
-[tls-version] [ssl] [info] anju.szhome.com:58080 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:5200 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:5200 ["tls10"]
-[tls-version] [ssl] [info] anju.szhome.com:6001 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:5222 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:6003 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:5225 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:7443 ["tls10"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:8001 ["tls11"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:58080 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:6007 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:6001 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:6006 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:6003 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:8008 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:8002 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:8007 ["tls11"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:6006 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:6007 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:8086 ["tls11"]
-[tls-version] [ssl] [info] anju.szhome.com:5225 ["tls11"]
-[tls-version] [ssl] [info] anju.szhome.com:5222 ["tls11"]
-[tls-version] [ssl] [info] anju.szhome.com:58080 ["tls11"]
-[tls-version] [ssl] [info] anju.szhome.com:5200 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:5222 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:5200 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:6001 ["tls11"]
-[tls-version] [ssl] [info] anju.szhome.com:6003 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:5225 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:58080 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:6001 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:6007 ["tls11"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:8001 ["tls10"]
-[tls-version] [ssl] [info] anju.szhome.com:6006 ["tls11"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:8002 ["tls10"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:6003 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:8008 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:8007 ["tls10"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:6006 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:6007 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:8086 ["tls10"]
-[tls-version] [ssl] [info] anju.szhome.com:5222 ["tls12"]
-[tls-version] [ssl] [info] anju.szhome.com:5225 ["tls12"]
-[tls-version] [ssl] [info] anju.szhome.com:58080 ["tls12"]
-[tls-version] [ssl] [info] anju.szhome.com:5200 ["tls12"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:8099 ["tls11"]
-[tls-version] [ssl] [info] anju.szhome.com:6001 ["tls12"]
-[tls-version] [ssl] [info] anju.szhome.com:6003 ["tls12"]
-[tls-version] [ssl] [info] anju.szhome.com:6007 ["tls12"]
-[tls-version] [ssl] [info] anju.szhome.com:6006 ["tls12"]
-[tls-version] [ssl] [info] anju.szhome.com:5222 ["tls13"]
-[tls-version] [ssl] [info] anju.szhome.com:5225 ["tls13"]
-[tls-version] [ssl] [info] anju.szhome.com:58080 ["tls13"]
-[tls-version] [ssl] [info] anju.szhome.com:6003 ["tls13"]
-[tls-version] [ssl] [info] anju.szhome.com:6001 ["tls13"]
-[tls-version] [ssl] [info] anju.szhome.com:5200 ["tls13"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:8099 ["tls10"]
-[tls-version] [ssl] [info] anju.szhome.com:7002 ["tls10"]
-[tls-version] [ssl] [info] anju.szhome.com:6006 ["tls13"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:8181 ["tls11"]
-[tls-version] [ssl] [info] anju.szhome.com:6007 ["tls13"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:8200 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:8300 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:8443 ["tls11"]
-[tls-version] [ssl] [info] anju.szhome.com:7004 ["tls10"]
-[tls-version] [ssl] [info] anju.szhome.com:8001 ["tls10"]
-[tls-version] [ssl] [info] anju.szhome.com:7443 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:7004 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:7443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:8002 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:7002 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:85 ["tls11"]
-[tls-version] [ssl] [info] anju.szhome.com:7002 ["tls11"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:8181 ["tls10"]
-[tls-version] [ssl] [info] anju.szhome.com:8007 ["tls10"]
-[tls-version] [ssl] [info] anju.szhome.com:8008 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:8001 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:8002 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:8007 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:8008 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:8300 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:8200 ["tls10"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:8701 ["tls11"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:8443 ["tls10"]
-[tls-version] [ssl] [info] anju.szhome.com:7004 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:7443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:7004 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:7443 ["tls11"]
-[tls-version] [ssl] [info] anju.szhome.com:8002 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:7002 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:8001 ["tls11"]
-[tls-version] [ssl] [info] anju.szhome.com:8086 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:85 ["tls10"]
-[tls-version] [ssl] [info] anju.szhome.com:7002 ["tls12"]
-[tls-version] [ssl] [info] anju.szhome.com:8007 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:8001 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:8008 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:8002 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:8007 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:8008 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:8086 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:8701 ["tls10"]
-[tls-version] [ssl] [info] anju.szhome.com:7004 ["tls12"]
-[tls-version] [ssl] [info] anju.szhome.com:7002 ["tls13"]
-[tls-version] [ssl] [info] anju.szhome.com:7443 ["tls12"]
-[tls-version] [ssl] [info] anju.szhome.com:8001 ["tls12"]
-[tls-version] [ssl] [info] anju.szhome.com:8002 ["tls12"]
-[tls-version] [ssl] [info] anju.szhome.com:8086 ["tls11"]
-[tls-version] [ssl] [info] anju.szhome.com:8007 ["tls12"]
-[tls-version] [ssl] [info] anju.szhome.com:8008 ["tls12"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:9003 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:9002 ["tls11"]
-[tls-version] [ssl] [info] anju.szhome.com:7004 ["tls13"]
-[tls-version] [ssl] [info] anju.szhome.com:8001 ["tls13"]
-[tls-version] [ssl] [info] anju.szhome.com:8002 ["tls13"]
-[tls-version] [ssl] [info] anju.szhome.com:7443 ["tls13"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:8086 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:9091 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:9200 ["tls11"]
-[tls-version] [ssl] [info] anju.szhome.com:8007 ["tls13"]
-[tls-version] [ssl] [info] anju.szhome.com:8008 ["tls13"]
-[tls-version] [ssl] [info] anju.szhome.com:8086 ["tls12"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:99 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] anju.szhome.com:9999 ["tls11"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:9002 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:9003 ["tls10"]
-[tls-version] [ssl] [info] anju.szhome.com:8099 ["tls10"]
-[tls-version] [ssl] [info] anju.szhome.com:8086 ["tls13"]
-[tls-version] [ssl] [info] anju.szhome.com:8181 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:8099 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:9200 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:9091 ["tls10"]
-[tls-version] [ssl] [info] anju.szhome.com:8200 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:8181 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:8300 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:8200 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:99 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] anju.szhome.com:9999 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:8300 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:8099 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:8099 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:8181 ["tls11"]
-[tls-version] [ssl] [info] anju.szhome.com:8200 ["tls11"]
-[tls-version] [ssl] [info] anju.szhome.com:8443 ["tls10"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:8181 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:8300 ["tls11"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:8443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:8200 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:85 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:85 ["tls10"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:8300 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:8099 ["tls12"]
-[tls-version] [ssl] [info] anju.szhome.com:8181 ["tls12"]
-[tls-version] [ssl] [info] anju.szhome.com:8200 ["tls12"]
-[tls-version] [ssl] [info] anju.szhome.com:8443 ["tls11"]
-[tls-version] [ssl] [info] anju.szhome.com:8300 ["tls12"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:8443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:8099 ["tls13"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:85 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:8181 ["tls13"]
-[tls-version] [ssl] [info] anju.szhome.com:85 ["tls11"]
-[tls-version] [ssl] [info] anju.szhome.com:8200 ["tls13"]
-[tls-version] [ssl] [info] anju.szhome.com:8300 ["tls13"]
-[tls-version] [ssl] [info] anju.szhome.com:8443 ["tls12"]
-[tls-version] [ssl] [info] anju.szhome.com:8701 ["tls10"]
-[tls-version] [ssl] [info] anju.szhome.com:85 ["tls12"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:8701 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:8443 ["tls13"]
-[tls-version] [ssl] [info] anju.szhome.com:85 ["tls13"]
-[tls-version] [ssl] [info] anju.szhome.com:8701 ["tls11"]
-[tls-version] [ssl] [info] anju.szhome.com:9002 ["tls10"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:8701 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:9002 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:9003 ["tls10"]
-[tls-version] [ssl] [info] anju.szhome.com:8701 ["tls12"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:9003 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:9091 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:9091 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:9200 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:9200 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:99 ["tls10"]
-[tls-version] [ssl] [info] anju.szhome.com:9999 ["tls10"]
-[tls-version] [ssl] [info] anju.szhome.com:9002 ["tls11"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:99 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:8701 ["tls13"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:9002 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:9003 ["tls11"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] anju.szhome.com:9999 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:9003 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:9091 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:9091 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:9200 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:9200 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:99 ["tls11"]
-[tls-version] [ssl] [info] anju.szhome.com:9999 ["tls11"]
-[tls-version] [ssl] [info] anju.szhome.com:9002 ["tls12"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:99 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:9003 ["tls12"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] anju.szhome.com:9999 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] anju.szhome.com:9002 ["tls13"]
-[tls-version] [ssl] [info] anju.szhome.com:9200 ["tls12"]
-[tls-version] [ssl] [info] anju.szhome.com:9091 ["tls12"]
-[tls-version] [ssl] [info] anju.szhome.com:99 ["tls12"]
-[tls-version] [ssl] [info] anju.szhome.com:9999 ["tls12"]
-[tls-version] [ssl] [info] anju.szhome.com:9003 ["tls13"]
-[tls-version] [ssl] [info] anju.szhome.com:9200 ["tls13"]
-[tls-version] [ssl] [info] anju.szhome.com:9091 ["tls13"]
-[tls-version] [ssl] [info] anju.szhome.com:99 ["tls13"]
-[tls-version] [ssl] [info] anju.szhome.com:9999 ["tls13"]
-[tls-version] [ssl] [info] app.szhome.com:443 ["tls12"]
-[tls-version] [ssl] [info] app.szhome.com:443 ["tls13"]
-[tls-version] [ssl] [info] bbs.szhome.com:443 ["tls12"]
-[tls-version] [ssl] [info] bol.dg.szhome.com:443 ["tls12"]
-[tls-version] [ssl] [info] cas.szhome.com:443 ["tls12"]
-[tls-version] [ssl] [info] csgx.szhome.com:443 ["tls12"]
-[tls-version] [ssl] [info] bbs.szhome.com:443 ["tls13"]
-[tls-version] [ssl] [info] cas.szhome.com:443 ["tls13"]
-[tls-version] [ssl] [info] bol.dg.szhome.com:443 ["tls13"]
-[tls-version] [ssl] [info] ddqk-webapi.szhome.com:443 ["tls12"]
-[tls-version] [ssl] [info] csgx.szhome.com:443 ["tls13"]
-[tls-version] [ssl] [info] ddzf-webapi.szhome.com:443 ["tls12"]
-[tls-version] [ssl] [info] ddqk-webapi.szhome.com:443 ["tls13"]
-[tls-version] [ssl] [info] ddzf-webapi.szhome.com:443 ["tls13"]
-[tls-version] [ssl] [info] dongdong.szhome.com:443 ["tls12"]
-[tls-version] [ssl] [info] dg.szhome.com:443 ["tls12"]
-[tls-version] [ssl] [info] dongdong.szhome.com:443 ["tls13"]
-[tls-version] [ssl] [info] img.bbs.szhome.com:443 ["tls12"]
-[tls-version] [ssl] [info] dg.szhome.com:443 ["tls13"]
-[tls-version] [ssl] [info] img4.szhome.com:443 ["tls12"]
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:8701
+[dameng-detect] [javascript] [info] lsapp.szzgh.org:88
+[dameng-detect] [javascript] [info] wpsyundoc.smartcitysz.com:8090
+[CVE-2026-23829] [tcp] [medium] mail.szap.com:25
+[smtp-detect] [tcp] [info] mail.szap.com:25
+[smtp-detect] [tcp] [info] mailx.szap.com:25
+[smtp-detect] [tcp] [info] mail.szap.com:25
+[smtp-detect] [tcp] [info] mail.szap.com:25
+[smtp-commands-enum:ehlo] [tcp] [info] mail.szap.com:25 ["H","AUTH LOGIN PLAIN","AUTH","8BITMIME"]
+[smtp-commands-enum:ehlo] [tcp] [info] mailx.szap.com:25 ["8BITMIME","H","AUTH LOGIN PLAIN","AUTH"]
+[deprecated-tls:tls_1.1] [ssl] [info] app.szzgh.org:443 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] cdn.szsiq.com:443 ["tls11"]
+[tls-version] [ssl] [info] cdn.szsiq.com:443 ["tls10"]
+[tls-version] [ssl] [info] app.szzgh.org:443 ["tls10"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] app.szzgh.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cdn.szsiq.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[deprecated-tls:tls_1.0] [ssl] [info] cdn.szsiq.com:443 ["tls10"]
+[deprecated-tls:tls_1.0] [ssl] [info] app.szzgh.org:443 ["tls10"]
+[tls-version] [ssl] [info] cdn.szsiq.com:443 ["tls11"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] app.szzgh.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tls-version] [ssl] [info] app.szzgh.org:443 ["tls11"]
+[tls-version] [ssl] [info] cdn.szsiq.com:443 ["tls12"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cdn.szsiq.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[tls-version] [ssl] [info] app.szzgh.org:443 ["tls12"]
+[tls-version] [ssl] [info] app.szzgh.org:443 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:1080 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:10000 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:1080 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:10000 ["tls13"]
 [tls-version] [ssl] [info] lsapp.szzgh.org:1443 ["tls12"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:1443 ["tls13"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:2522 ["tls12"]
 [tls-version] [ssl] [info] lsapp.szzgh.org:2003 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:2522 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:1443 ["tls13"]
 [tls-version] [ssl] [info] lsapp.szzgh.org:2003 ["tls13"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:2522 ["tls13"]
 [tls-version] [ssl] [info] lsapp.szzgh.org:27000 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:2522 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:27000 ["tls13"]
 [tls-version] [ssl] [info] lsapp.szzgh.org:3880 ["tls12"]
 [tls-version] [ssl] [info] lsapp.szzgh.org:4003 ["tls12"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:27000 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:443 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:5200 ["tls12"]
 [tls-version] [ssl] [info] lsapp.szzgh.org:3880 ["tls13"]
 [tls-version] [ssl] [info] lsapp.szzgh.org:4003 ["tls13"]
-[deprecated-tls:tls_1.1] [ssl] [info] minio.szzy.szaicpp.com:443 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] minio.szzy.szaicpp.com:80 ["tls11"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:4443 ["tls12"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:443 ["tls12"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:48080 ["tls12"]
-[deprecated-tls:tls_1.1] [ssl] [info] szzy.szzy.szaicpp.com:443 ["tls11"]
-[deprecated-tls:tls_1.0] [ssl] [info] minio.szzy.szaicpp.com:443 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] minio.szzy.szaicpp.com:80 ["tls10"]
-[deprecated-tls:tls_1.1] [ssl] [info] szzy.szzy.szaicpp.com:80 ["tls11"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:4443 ["tls13"]
 [tls-version] [ssl] [info] lsapp.szzgh.org:443 ["tls13"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:48080 ["tls13"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:5200 ["tls12"]
-[deprecated-tls:tls_1.0] [ssl] [info] szzy.szzy.szaicpp.com:443 ["tls10"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:5222 ["tls12"]
-[deprecated-tls:tls_1.0] [ssl] [info] szzy.szzy.szaicpp.com:80 ["tls10"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:48080 ["tls12"]
 [tls-version] [ssl] [info] lsapp.szzgh.org:5200 ["tls13"]
-[deprecated-tls:tls_1.1] [ssl] [info] video.szzgh.org:443 ["tls11"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:5222 ["tls13"]
-[deprecated-tls:tls_1.1] [ssl] [info] video.szzgh.org:99 ["tls11"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:6001 ["tls12"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.szzgh.org:443 ["tls11"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:5225 ["tls12"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:6007 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:48080 ["tls13"]
+[smtp-commands-enum:ehlo] [tcp] [info] mail.szap.com:25 ["H","AUTH LOGIN PLAIN","AUTH","8BITMIME"]
 [tls-version] [ssl] [info] lsapp.szzgh.org:58080 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:4443 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:6001 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:6003 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:58080 ["tls13"]
+[smtp-commands-enum:ehlo] [tcp] [info] mail.szap.com:25 ["H","AUTH LOGIN PLAIN","AUTH","8BITMIME"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:5225 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:4443 ["tls13"]
 [tls-version] [ssl] [info] lsapp.szzgh.org:6006 ["tls12"]
 [tls-version] [ssl] [info] lsapp.szzgh.org:6001 ["tls13"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:7004 ["tls12"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:6003 ["tls12"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:7002 ["tls12"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:5225 ["tls13"]
-[deprecated-tls:tls_1.0] [ssl] [info] video.szzgh.org:443 ["tls10"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.szzgh.org:9010 ["tls11"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:6007 ["tls13"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:58080 ["tls13"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:6006 ["tls13"]
-[deprecated-tls:tls_1.0] [ssl] [info] video.szzgh.org:99 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.szzgh.org:443 ["tls10"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:7004 ["tls13"]
 [tls-version] [ssl] [info] lsapp.szzgh.org:6003 ["tls13"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:7002 ["tls13"]
-[deprecated-tls:ssl_3.0] [ssl] [info] video.szzgh.org:443 ["ssl30"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.szzgh.org:9010 ["tls10"]
-[deprecated-tls:ssl_3.0] [ssl] [info] video.szzgh.org:99 ["ssl30"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:7443 ["tls12"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:8001 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:6007 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:5222 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:5225 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:6006 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:6007 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:7004 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:5222 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:7004 ["tls13"]
 [tls-version] [ssl] [info] lsapp.szzgh.org:8007 ["tls12"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:8002 ["tls12"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:7443 ["tls13"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:8001 ["tls13"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:8002 ["tls13"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:8007 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:8001 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:7443 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:7002 ["tls12"]
 [tls-version] [ssl] [info] lsapp.szzgh.org:8008 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:8001 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:8007 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:7443 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:7002 ["tls13"]
 [tls-version] [ssl] [info] lsapp.szzgh.org:8008 ["tls13"]
+[deprecated-tls:tls_1.1] [ssl] [info] mail.szap.com:993 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] mail.szap.com:995 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] video.szzgh.org:443 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] mail.szap.com:465 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] video.szzgh.org:99 ["tls11"]
 [tls-version] [ssl] [info] lsapp.szzgh.org:8086 ["tls12"]
 [tls-version] [ssl] [info] lsapp.szzgh.org:8086 ["tls13"]
+[deprecated-tls:tls_1.0] [ssl] [info] video.szzgh.org:443 ["tls10"]
+[deprecated-tls:tls_1.0] [ssl] [info] video.szzgh.org:99 ["tls10"]
+[deprecated-tls:tls_1.1] [ssl] [info] wpsyundoc.smartcitysz.com:8090 ["tls11"]
+[deprecated-tls:ssl_3.0] [ssl] [info] video.szzgh.org:443 ["ssl30"]
+[deprecated-tls:ssl_3.0] [ssl] [info] video.szzgh.org:99 ["ssl30"]
+[deprecated-tls:tls_1.0] [ssl] [info] wpsyundoc.smartcitysz.com:8090 ["tls10"]
 [tls-version] [ssl] [info] lsapp.szzgh.org:8099 ["tls12"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:8099 ["tls13"]
 [tls-version] [ssl] [info] lsapp.szzgh.org:8181 ["tls12"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:8200 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:8002 ["tls12"]
+[deprecated-tls:tls_1.1] [ssl] [info] www.szzgh.org:443 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] www.szzgh.org:9010 ["tls11"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:8099 ["tls13"]
 [tls-version] [ssl] [info] lsapp.szzgh.org:8181 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:8002 ["tls13"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.szzgh.org:443 ["tls10"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.szzgh.org:9010 ["tls10"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:8200 ["tls12"]
 [tls-version] [ssl] [info] lsapp.szzgh.org:8200 ["tls13"]
 [tls-version] [ssl] [info] lsapp.szzgh.org:8300 ["tls12"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:8443 ["tls12"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:85 ["tls12"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:8701 ["tls12"]
 [tls-version] [ssl] [info] lsapp.szzgh.org:8300 ["tls13"]
-[tls-version] [ssl] [info] minio.szzy.szaicpp.com:443 ["tls10"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:8443 ["tls12"]
 [tls-version] [ssl] [info] lsapp.szzgh.org:8443 ["tls13"]
-[tls-version] [ssl] [info] minio.szzy.szaicpp.com:80 ["tls10"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:85 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:8701 ["tls12"]
 [tls-version] [ssl] [info] lsapp.szzgh.org:8701 ["tls13"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] minio.szzy.szaicpp.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] minio.szzy.szaicpp.com:80 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] minio.szzy.szaicpp.com:443 ["tls11"]
-[tls-version] [ssl] [info] minio.szzy.szaicpp.com:80 ["tls11"]
-[tls-version] [ssl] [info] szzy.szzy.szaicpp.com:443 ["tls10"]
-[tls-version] [ssl] [info] szzy.szzy.szaicpp.com:80 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] szzy.szzy.szaicpp.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] minio.szzy.szaicpp.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] szzy.szzy.szaicpp.com:80 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] minio.szzy.szaicpp.com:80 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] minio.szzy.szaicpp.com:443 ["tls12"]
-[tls-version] [ssl] [info] minio.szzy.szaicpp.com:80 ["tls12"]
-[tls-version] [ssl] [info] szzy.szzy.szaicpp.com:443 ["tls11"]
-[tls-version] [ssl] [info] szzy.szzy.szaicpp.com:80 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] szzy.szzy.szaicpp.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] video.szzgh.org:443 ["tls10"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] szzy.szzy.szaicpp.com:80 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] minio.szzy.szaicpp.com:443 ["tls13"]
-[tls-version] [ssl] [info] minio.szzy.szaicpp.com:80 ["tls13"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:9003 ["tls12"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] video.szzgh.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
 [tls-version] [ssl] [info] lsapp.szzgh.org:9002 ["tls12"]
-[tls-version] [ssl] [info] szzy.szzy.szaicpp.com:443 ["tls12"]
-[tls-version] [ssl] [info] szzy.szzy.szaicpp.com:80 ["tls12"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:9003 ["tls13"]
-[tls-version] [ssl] [info] video.szzgh.org:443 ["tls11"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:85 ["tls12"]
+[tls-version] [ssl] [info] mail.szap.com:465 ["tls11"]
+[tls-version] [ssl] [info] mail.szap.com:993 ["tls11"]
+[tls-version] [ssl] [info] mail.szap.com:995 ["tls11"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:9002 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:85 ["tls13"]
+[tls-version] [ssl] [info] mail.szap.com:465 ["tls12"]
+[tls-version] [ssl] [info] mail.szap.com:993 ["tls12"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] video.szzgh.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tls-version] [ssl] [info] mail.szap.com:995 ["tls12"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mail.szap.com:465 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tls-version] [ssl] [info] video.szzgh.org:443 ["tls10"]
 [tls-version] [ssl] [info] video.szzgh.org:99 ["tls10"]
 [tls-version] [ssl] [info] lsapp.szzgh.org:9091 ["tls12"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:9002 ["tls13"]
-[tls-version] [ssl] [info] www.szzgh.org:443 ["tls10"]
-[tls-version] [ssl] [info] szzy.szzy.szaicpp.com:443 ["tls13"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:9200 ["tls12"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] video.szzgh.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
-[tls-version] [ssl] [info] szzy.szzy.szaicpp.com:80 ["tls13"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:99 ["tls12"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mail.szap.com:993 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tls-version] [ssl] [info] mail.szap.com:465 ["tls13"]
 [tls-version] [ssl] [info] lsapp.szzgh.org:9999 ["tls12"]
+[tls-version] [ssl] [info] mail.szap.com:993 ["tls13"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] video.szzgh.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tls-version] [ssl] [info] mail.szap.com:995 ["tls13"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] wpsyundoc.smartcitysz.com:8090 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
 [weak-cipher-suites:tls-1.0] [ssl] [low] video.szzgh.org:99 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szzgh.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tls-version] [ssl] [info] video.szzgh.org:443 ["tls11"]
 [tls-version] [ssl] [info] lsapp.szzgh.org:9091 ["tls13"]
-[tls-version] [ssl] [info] video.szzgh.org:443 ["tls12"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:9200 ["tls13"]
-[tls-version] [ssl] [info] video.szzgh.org:99 ["tls11"]
-[tls-version] [ssl] [info] www.szzgh.org:443 ["tls11"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:99 ["tls13"]
-[tls-version] [ssl] [info] www.szzgh.org:9010 ["tls10"]
 [tls-version] [ssl] [info] lsapp.szzgh.org:9999 ["tls13"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szzgh.org:9010 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tls-version] [ssl] [info] video.szzgh.org:99 ["tls11"]
+[tls-version] [ssl] [info] wpsyundoc.smartcitysz.com:8090 ["tls10"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:9003 ["tls12"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] wpsyundoc.smartcitysz.com:8090 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[tls-version] [ssl] [info] mail.szap.com:443 ["tls12"]
 [weak-cipher-suites:tls-1.1] [ssl] [low] video.szzgh.org:99 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
-[tls-version] [ssl] [info] stats.szhome.com:443 ["tls12"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szzgh.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tls-version] [ssl] [info] video.szzgh.org:443 ["tls12"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:9200 ["tls12"]
+[tls-version] [ssl] [info] www.szzgh.org:443 ["tls10"]
 [tls-version] [ssl] [info] video.szzgh.org:99 ["tls12"]
-[tls-version] [ssl] [info] www.szzgh.org:443 ["tls12"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szzgh.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:9003 ["tls13"]
+[tls-version] [ssl] [info] www.szzgh.org:9010 ["tls10"]
+[tls-version] [ssl] [info] wpsyundoc.smartcitysz.com:8090 ["tls11"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:99 ["tls12"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mail.szap.com:995 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:9200 ["tls13"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szzgh.org:9010 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.2] [ssl] [low] mail.szap.com:443 ["[tls12 TLS_RSA_WITH_AES_256_GCM_SHA384]"]
+[tls-version] [ssl] [info] www.szzgh.org:443 ["tls11"]
+[tls-version] [ssl] [info] mail.szap.com:443 ["tls13"]
+[tls-version] [ssl] [info] lsapp.szzgh.org:99 ["tls13"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szzgh.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
 [tls-version] [ssl] [info] www.szzgh.org:9010 ["tls11"]
-[tls-version] [ssl] [info] news.szhome.com:443 ["tls12"]
-[tls-version] [ssl] [info] stats.szhome.com:443 ["tls13"]
-[tls-version] [ssl] [info] passport.szhome.com:443 ["tls12"]
 [weak-cipher-suites:tls-1.1] [ssl] [low] www.szzgh.org:9010 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
-[tls-version] [ssl] [info] toutiao.szhome.com:443 ["tls12"]
-[tls-version] [ssl] [info] www.szzgh.org:443 ["tls13"]
-[tls-version] [ssl] [info] news.szhome.com:443 ["tls13"]
-[tls-version] [ssl] [info] passport.szhome.com:443 ["tls13"]
+[tls-version] [ssl] [info] www.szzgh.org:443 ["tls12"]
+[tls-version] [ssl] [info] oa.smartcitysz.com:443 ["tls12"]
 [tls-version] [ssl] [info] www.szzgh.org:9010 ["tls12"]
-[tls-version] [ssl] [info] toutiao.szhome.com:443 ["tls13"]
+[tls-version] [ssl] [info] www.szzgh.org:443 ["tls13"]
+[tls-version] [ssl] [info] oa.smartcitysz.com:443 ["tls13"]
+[tls-version] [ssl] [info] wpsyundoc.smartcitysz.com:8090 ["tls12"]
 [tls-version] [ssl] [info] www.szzgh.org:9010 ["tls13"]
-[aspnet-version-detect] [http] [info] https://720.szhome.com:443/%3f ["4.0.30319"]
-[aspnet-version-detect] [http] [info] https://cas.szhome.com:443 ["4.0.30319"]
-[aspnet-version-detect] [http] [info] https://app.szhome.com:443/%3f ["4.0.30319"]
-[aspnet-version-detect] [http] [info] https://ddqk-webapi.szhome.com:443 ["4.0.30319"]
-[aspnet-version-detect] [http] [info] https://ddzf-webapi.szhome.com:443 ["4.0.30319"]
-[aspnet-version-detect] [http] [info] https://csgx.szhome.com:443 ["4.0.30319"]
-[aspnet-version-detect] [http] [info] https://dongdong.szhome.com:443/entryNew/nineYuanPc ["4.0.30319"]
-[aspnet-version-detect] [http] [info] https://img4.szhome.com:443/%3f ["4.0.30319"]
-[aspnet-version-detect] [http] [info] https://stats.szhome.com:443 ["4.0.30319"]
-[robots-txt] [http] [info] https://720.szhome.com:443/robots.txt
-[robots-txt] [http] [info] https://anju.szhome.com:443/robots.txt
-[robots-txt] [http] [info] https://bbs.szhome.com:443/robots.txt
-[robots-txt] [http] [info] https://ddqk-webapi.szhome.com:443/robots.txt
-[robots-txt] [http] [info] https://ddzf-webapi.szhome.com:443/robots.txt
-[robots-txt] [http] [info] https://news.szhome.com:443/robots.txt
-[robots-txt] [http] [info] https://toutiao.szhome.com:443/robots.txt
-[options-method] [http] [info] https://720.szhome.com:443 ["OPTIONS, TRACE, GET, HEAD, POST"]
-[options-method] [http] [info] https://app.szhome.com:443 ["OPTIONS, TRACE, GET, HEAD, POST"]
-[options-method] [http] [info] https://bbs.szhome.com:443 ["OPTIONS, TRACE, GET, HEAD, POST"]
-[options-method] [http] [info] https://img4.szhome.com:443 ["OPTIONS, TRACE, GET, HEAD, POST"]
-[openresty-detect] [http] [info] https://anju.szhome.com:1080
-[openresty-detect] [http] [info] https://anju.szhome.com:10000
-[openresty-detect] [http] [info] https://anju.szhome.com:1443
-[openresty-detect] [http] [info] https://anju.szhome.com:2522
-[openresty-detect] [http] [info] https://anju.szhome.com:3880
-[openresty-detect] [http] [info] https://anju.szhome.com:48080
-[openresty-detect] [http] [info] https://anju.szhome.com:4003
-[openresty-detect] [http] [info] https://anju.szhome.com:2003
-[openresty-detect] [http] [info] https://anju.szhome.com:27000
-[openresty-detect] [http] [info] https://anju.szhome.com:4443
-[openresty-detect] [http] [info] https://anju.szhome.com:5200
-[openresty-detect] [http] [info] https://anju.szhome.com:5225
-[openresty-detect] [http] [info] https://anju.szhome.com:6003
-[openresty-detect] [http] [info] https://anju.szhome.com:5222
-[openresty-detect] [http] [info] https://anju.szhome.com:58080
-[openresty-detect] [http] [info] https://anju.szhome.com:7002
-[openresty-detect] [http] [info] https://anju.szhome.com:6007
-[openresty-detect] [http] [info] https://anju.szhome.com:6001
-[openresty-detect] [http] [info] https://anju.szhome.com:6006
-[email-extractor] [http] [info] https://anju.szhome.com:443 ["332989758@qq.com"]
-[openresty-detect] [http] [info] https://anju.szhome.com:7004
-[openresty-detect] [http] [info] https://anju.szhome.com:443
-[openresty-detect] [http] [info] https://anju.szhome.com:7443
-[openresty-detect] [http] [info] https://anju.szhome.com:8001
-[openresty-detect] [http] [info] https://anju.szhome.com:8008
-[openresty-detect] [http] [info] https://anju.szhome.com:8007
-[openresty-detect] [http] [info] https://anju.szhome.com:8002
-[openresty-detect] [http] [info] https://anju.szhome.com:8086
-[openresty-detect] [http] [info] https://anju.szhome.com:8099
-[openresty-detect] [http] [info] https://anju.szhome.com:8200
-[openresty-detect] [http] [info] https://anju.szhome.com:8181
-[openresty-detect] [http] [info] https://anju.szhome.com:8300
-[openresty-detect] [http] [info] https://anju.szhome.com:8443
-[openresty-detect] [http] [info] https://anju.szhome.com:85
-[openresty-detect] [http] [info] https://anju.szhome.com:8701
-[openresty-detect] [http] [info] https://anju.szhome.com:9002
-[openresty-detect] [http] [info] https://anju.szhome.com:9003
-[openresty-detect] [http] [info] https://anju.szhome.com:9091
-[openresty-detect] [http] [info] https://anju.szhome.com:9200
-[openresty-detect] [http] [info] https://anju.szhome.com:99
-[openresty-detect] [http] [info] https://anju.szhome.com:9999
-[xss-deprecated-header] [http] [info] https://bbs.szhome.com:443 ["1;mode=block"]
-[openresty-detect] [http] [info] https://lsapp.szzgh.org:1443
-[openresty-detect] [http] [info] https://lsapp.szzgh.org:2003
-[openresty-detect] [http] [info] https://lsapp.szzgh.org:2522
-[openresty-detect] [http] [info] https://lsapp.szzgh.org:27000
-[openresty-detect] [http] [info] https://lsapp.szzgh.org:3880
+[tls-version] [ssl] [info] www.szsiq.com:443 ["tls12"]
+[tls-version] [ssl] [info] www.smartcitysz.com:443 ["tls12"]
+[tls-version] [ssl] [info] www.smartcitysz.com:443 ["tls13"]
+[spring-detect] [http] [info] https://www.smartcitysz.com:443/error
 [openresty-detect] [http] [info] https://lsapp.szzgh.org:4003
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:2522
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:6007
 [openresty-detect] [http] [info] https://lsapp.szzgh.org:4443
-[openresty-detect] [http] [info] https://lsapp.szzgh.org:48080
-[openresty-detect] [http] [info] https://lsapp.szzgh.org:5200
-[openresty-detect] [http] [info] https://lsapp.szzgh.org:5222
-[openresty-detect] [http] [info] https://lsapp.szzgh.org:5225
 [openresty-detect] [http] [info] https://lsapp.szzgh.org:58080
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:8002
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:5200
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:5225
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:1443
 [openresty-detect] [http] [info] https://lsapp.szzgh.org:6001
 [openresty-detect] [http] [info] https://lsapp.szzgh.org:6003
-[openresty-detect] [http] [info] https://lsapp.szzgh.org:6006
-[openresty-detect] [http] [info] https://lsapp.szzgh.org:6007
-[openresty-detect] [http] [info] https://lsapp.szzgh.org:7004
-[openresty-detect] [http] [info] https://lsapp.szzgh.org:7002
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:3880
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:27000
 [openresty-detect] [http] [info] https://lsapp.szzgh.org:7443
-[openresty-detect] [http] [info] https://lsapp.szzgh.org:8002
-[openresty-detect] [http] [info] https://lsapp.szzgh.org:8007
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:48080
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:7002
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:2003
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:5222
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:6006
 [openresty-detect] [http] [info] https://lsapp.szzgh.org:8001
-[openresty-detect] [http] [info] https://lsapp.szzgh.org:8008
 [openresty-detect] [http] [info] https://lsapp.szzgh.org:8086
 [openresty-detect] [http] [info] https://lsapp.szzgh.org:8099
 [openresty-detect] [http] [info] https://lsapp.szzgh.org:8181
-[openresty-detect] [http] [info] https://lsapp.szzgh.org:8200
-[openresty-detect] [http] [info] https://lsapp.szzgh.org:8300
-[openresty-detect] [http] [info] https://lsapp.szzgh.org:8443
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:9002
 [openresty-detect] [http] [info] https://lsapp.szzgh.org:85
 [openresty-detect] [http] [info] https://lsapp.szzgh.org:8701
-[addeventlistener-detect] [http] [info] https://lsapp.szzgh.org:443
-[openresty-detect] [http] [info] https://lsapp.szzgh.org:9002
 [openresty-detect] [http] [info] https://lsapp.szzgh.org:9003
-[openresty-detect] [http] [info] https://lsapp.szzgh.org:9091
-[openresty-detect] [http] [info] https://lsapp.szzgh.org:9200
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:8200
 [openresty-detect] [http] [info] https://lsapp.szzgh.org:9999
-[xss-deprecated-header] [http] [info] https://minio.szzy.szaicpp.com:443 ["1; mode=block"]
-[aws-bucket-service] [http] [info] https://minio.szzy.szaicpp.com:443
+[openresty-detect] [http] [info] https://lsapp.szzgh.org:8443
+[xss-deprecated-header] [http] [info] https://wpsyundoc.smartcitysz.com:8090 ["1; mode=block"]
+[openresty-detect] [http] [info] https://wpsyundoc.smartcitysz.com:8090
+[addeventlistener-detect] [http] [info] https://lsapp.szzgh.org:443
 [openresty-detect] [http] [info] https://lsapp.szzgh.org:443
-[email-extractor] [http] [info] https://news.szhome.com:443 ["yituzx@163.com"]
-[weak-csp-detect:unsafe-default-src] [http] [info] https://news.szhome.com:443 ["default-src 'self' 'unsafe-inline' 'unsafe-eval' *.baidu.com *.pstatp.com *.szhome.com *.qq.com data:;img-src 'self' http: *.bdimg.com *.baidu.com *.qrcreator.net *.org.cn *.szhomeimg.com *.szhome.com data:;"]
-[xss-deprecated-header] [http] [info] https://news.szhome.com:443 ["1;mode=block"]
 [addeventlistener-detect] [http] [info] https://lsapp.szzgh.org:99
 [openresty-detect] [http] [info] https://lsapp.szzgh.org:99
-[favicon-detect:asp.net-favicon] [http] [info] https://stats.szhome.com:443/favicon.ico ["1772087922"]
-[form-detection] [http] [info] https://cas.szhome.com:443
-[form-detection] [http] [info] https://dongdong.szhome.com:443/entryNew/nineYuanPc
-[aspnetmvc-version-disclosure] [http] [info] https://anju.szhome.com:443 ["5.2"]
-[aspnetmvc-version-disclosure] [http] [info] https://cas.szhome.com:443 ["5.2"]
-[aspnetmvc-version-disclosure] [http] [info] https://ddzf-webapi.szhome.com:443 ["5.0"]
-[aspnetmvc-version-disclosure] [http] [info] https://ddqk-webapi.szhome.com:443 ["5.0"]
-[aspnetmvc-version-disclosure] [http] [info] https://csgx.szhome.com:443 ["5.2"]
-[aspnetmvc-version-disclosure] [http] [info] https://dongdong.szhome.com:443/entryNew/nineYuanPc ["5.0"]
-[aspnetmvc-version-disclosure] [http] [info] https://news.szhome.com:443 ["5.2"]
-[aspnetmvc-version-disclosure] [http] [info] https://toutiao.szhome.com:443 ["5.2"]
-[missing-sri] [http] [info] https://bbs.szhome.com:443/ ["http://stats.szhome.com/hi.js","https://static.szhome.com/bbs_v2/lib/liMarquee/jquery.liMarquee.js?v=20250114160003","https://static.szhome.com/bbs_v2/lib/carousel/owl.carousel.min.js?v=20250114160003","https://static.szhome.com/bbs_v2/js/module/Commons.js?v=20250114160003","https://static.szhome.com/bbs_v2/js/lib/layer/layer.js","https://cas.szhome.com/content/js/cas.js?v=20250114160003","https://static.szhome.com/bbs_v2/lib/jquery/jquery-1.11.3.min.js?v=20250114160003","https://static.szhome.com/bbs_v2/js/module/Ad/AdShow.js?v=20250114160003","https://static.szhome.com/bbs_v2/js/module/index.js?v=20250114160003","https://static.szhome.com/bbs_v2/css/base.css?v=20250114160003","https://static.szhome.com/bbs_v2/css/owl.carousel.css?v=20250114160003","https://static.szhome.com/bbs_v2/css/home.css?v=20250114160003"]
-[robots-txt-endpoint:endpoints] [http] [info] https://anju.szhome.com:443/robots.txt ["/content/","/bin/","/packages.config","/web.config","/Areas/","/Manage/"]
-[robots-txt-endpoint] [http] [info] https://ddqk-webapi.szhome.com:443/robots.txt
-[robots-txt-endpoint] [http] [info] https://toutiao.szhome.com:443/robots.txt
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://anju.szhome.com:48080
-[http-missing-security-headers:strict-transport-security] [http] [info] https://anju.szhome.com:48080
-[http-missing-security-headers:x-frame-options] [http] [info] https://anju.szhome.com:48080
-[http-missing-security-headers:strict-transport-security] [http] [info] https://anju.szhome.com:5225
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://anju.szhome.com:48080
-[http-missing-security-headers:x-content-type-options] [http] [info] https://anju.szhome.com:5225
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://anju.szhome.com:48080
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://anju.szhome.com:5225
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://anju.szhome.com:48080
-[http-missing-security-headers:referrer-policy] [http] [info] https://anju.szhome.com:5225
-[http-missing-security-headers:content-security-policy] [http] [info] https://anju.szhome.com:48080
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://anju.szhome.com:5225
-[http-missing-security-headers:permissions-policy] [http] [info] https://anju.szhome.com:48080
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://anju.szhome.com:5225
-[http-missing-security-headers:x-content-type-options] [http] [info] https://anju.szhome.com:48080
-[http-missing-security-headers:content-security-policy] [http] [info] https://anju.szhome.com:5225
-[http-missing-security-headers:referrer-policy] [http] [info] https://anju.szhome.com:48080
-[http-missing-security-headers:permissions-policy] [http] [info] https://anju.szhome.com:5225
-[http-missing-security-headers:x-frame-options] [http] [info] https://anju.szhome.com:5225
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://anju.szhome.com:5225
-[http-missing-security-headers:permissions-policy] [http] [info] https://anju.szhome.com:3880
-[http-missing-security-headers:x-frame-options] [http] [info] https://anju.szhome.com:3880
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://anju.szhome.com:3880
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://anju.szhome.com:3880
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://anju.szhome.com:3880
-[http-missing-security-headers:strict-transport-security] [http] [info] https://anju.szhome.com:3880
-[http-missing-security-headers:content-security-policy] [http] [info] https://anju.szhome.com:3880
-[http-missing-security-headers:x-content-type-options] [http] [info] https://anju.szhome.com:3880
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://anju.szhome.com:3880
-[http-missing-security-headers:referrer-policy] [http] [info] https://anju.szhome.com:3880
-[http-missing-security-headers:content-security-policy] [http] [info] https://anju.szhome.com:8443
-[http-missing-security-headers:x-content-type-options] [http] [info] https://anju.szhome.com:8443
-[http-missing-security-headers:referrer-policy] [http] [info] https://anju.szhome.com:8443
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://anju.szhome.com:8443
-[http-missing-security-headers:strict-transport-security] [http] [info] https://anju.szhome.com:8443
-[http-missing-security-headers:permissions-policy] [http] [info] https://anju.szhome.com:8443
-[http-missing-security-headers:x-frame-options] [http] [info] https://anju.szhome.com:8443
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://anju.szhome.com:8443
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://anju.szhome.com:8443
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://anju.szhome.com:8443
-[http-missing-security-headers:strict-transport-security] [http] [info] https://anju.szhome.com:4443
-[http-missing-security-headers:content-security-policy] [http] [info] https://anju.szhome.com:4443
-[http-missing-security-headers:x-frame-options] [http] [info] https://anju.szhome.com:4443
-[http-missing-security-headers:x-content-type-options] [http] [info] https://anju.szhome.com:4443
-[http-missing-security-headers:referrer-policy] [http] [info] https://anju.szhome.com:4443
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://anju.szhome.com:4443
-[http-missing-security-headers:permissions-policy] [http] [info] https://anju.szhome.com:4443
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://anju.szhome.com:4443
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://anju.szhome.com:4443
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://anju.szhome.com:4443
-[http-missing-security-headers:x-frame-options] [http] [info] https://anju.szhome.com:8181
-[http-missing-security-headers:x-content-type-options] [http] [info] https://anju.szhome.com:8181
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://anju.szhome.com:8181
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://anju.szhome.com:8181
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://anju.szhome.com:8181
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://anju.szhome.com:8181
-[http-missing-security-headers:content-security-policy] [http] [info] https://anju.szhome.com:8181
-[http-missing-security-headers:referrer-policy] [http] [info] https://anju.szhome.com:8181
-[http-missing-security-headers:strict-transport-security] [http] [info] https://anju.szhome.com:8181
-[http-missing-security-headers:permissions-policy] [http] [info] https://anju.szhome.com:8181
-[http-missing-security-headers:content-security-policy] [http] [info] https://anju.szhome.com:27000
-[http-missing-security-headers:permissions-policy] [http] [info] https://anju.szhome.com:27000
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://anju.szhome.com:27000
-[http-missing-security-headers:referrer-policy] [http] [info] https://anju.szhome.com:27000
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://anju.szhome.com:27000
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://anju.szhome.com:27000
-[http-missing-security-headers:strict-transport-security] [http] [info] https://anju.szhome.com:27000
-[http-missing-security-headers:x-frame-options] [http] [info] https://anju.szhome.com:27000
-[http-missing-security-headers:x-content-type-options] [http] [info] https://anju.szhome.com:27000
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://anju.szhome.com:27000
-[http-missing-security-headers:strict-transport-security] [http] [info] https://anju.szhome.com:2003
-[http-missing-security-headers:permissions-policy] [http] [info] https://anju.szhome.com:2003
-[http-missing-security-headers:x-content-type-options] [http] [info] https://anju.szhome.com:2003
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://anju.szhome.com:2003
-[http-missing-security-headers:referrer-policy] [http] [info] https://anju.szhome.com:2003
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://anju.szhome.com:2003
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://anju.szhome.com:2003
-[http-missing-security-headers:content-security-policy] [http] [info] https://anju.szhome.com:2003
-[http-missing-security-headers:x-frame-options] [http] [info] https://anju.szhome.com:2003
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://anju.szhome.com:2003
-[http-missing-security-headers:strict-transport-security] [http] [info] https://anju.szhome.com:2522
-[http-missing-security-headers:x-frame-options] [http] [info] https://anju.szhome.com:2522
-[http-missing-security-headers:x-content-type-options] [http] [info] https://anju.szhome.com:2522
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://anju.szhome.com:2522
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://anju.szhome.com:2522
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://anju.szhome.com:2522
-[http-missing-security-headers:content-security-policy] [http] [info] https://anju.szhome.com:2522
-[http-missing-security-headers:permissions-policy] [http] [info] https://anju.szhome.com:2522
-[http-missing-security-headers:referrer-policy] [http] [info] https://anju.szhome.com:2522
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://anju.szhome.com:2522
-[http-missing-security-headers:content-security-policy] [http] [info] https://anju.szhome.com:58080
-[http-missing-security-headers:x-frame-options] [http] [info] https://anju.szhome.com:58080
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://anju.szhome.com:58080
-[http-missing-security-headers:referrer-policy] [http] [info] https://anju.szhome.com:58080
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://anju.szhome.com:58080
-[http-missing-security-headers:strict-transport-security] [http] [info] https://anju.szhome.com:58080
-[http-missing-security-headers:permissions-policy] [http] [info] https://anju.szhome.com:58080
-[http-missing-security-headers:x-content-type-options] [http] [info] https://anju.szhome.com:58080
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://anju.szhome.com:58080
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://anju.szhome.com:58080
-[http-missing-security-headers:content-security-policy] [http] [info] https://anju.szhome.com:8008
-[http-missing-security-headers:permissions-policy] [http] [info] https://anju.szhome.com:8008
-[http-missing-security-headers:x-frame-options] [http] [info] https://anju.szhome.com:8008
-[http-missing-security-headers:x-content-type-options] [http] [info] https://anju.szhome.com:8008
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://anju.szhome.com:8008
-[http-missing-security-headers:referrer-policy] [http] [info] https://anju.szhome.com:8008
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://anju.szhome.com:8008
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://anju.szhome.com:8008
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://anju.szhome.com:8008
-[http-missing-security-headers:strict-transport-security] [http] [info] https://anju.szhome.com:8008
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://anju.szhome.com:1443
-[http-missing-security-headers:strict-transport-security] [http] [info] https://anju.szhome.com:1443
-[http-missing-security-headers:strict-transport-security] [http] [info] https://anju.szhome.com:4003
-[http-missing-security-headers:content-security-policy] [http] [info] https://anju.szhome.com:4003
-[http-missing-security-headers:x-content-type-options] [http] [info] https://anju.szhome.com:4003
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://anju.szhome.com:4003
-[http-missing-security-headers:permissions-policy] [http] [info] https://anju.szhome.com:8701
-[http-missing-security-headers:x-content-type-options] [http] [info] https://anju.szhome.com:8701
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://anju.szhome.com:4003
-[http-missing-security-headers:permissions-policy] [http] [info] https://anju.szhome.com:4003
-[http-missing-security-headers:x-frame-options] [http] [info] https://anju.szhome.com:4003
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://anju.szhome.com:4003
-[http-missing-security-headers:referrer-policy] [http] [info] https://anju.szhome.com:4003
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://anju.szhome.com:4003
-[http-missing-security-headers:content-security-policy] [http] [info] https://anju.szhome.com:1443
-[http-missing-security-headers:x-content-type-options] [http] [info] https://anju.szhome.com:1443
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://anju.szhome.com:1443
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://anju.szhome.com:1443
-[http-missing-security-headers:referrer-policy] [http] [info] https://anju.szhome.com:8701
-[http-missing-security-headers:permissions-policy] [http] [info] https://anju.szhome.com:1443
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://anju.szhome.com:8701
-[http-missing-security-headers:x-frame-options] [http] [info] https://anju.szhome.com:1443
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://anju.szhome.com:8701
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://anju.szhome.com:1443
-[http-missing-security-headers:referrer-policy] [http] [info] https://anju.szhome.com:1443
-[http-missing-security-headers:strict-transport-security] [http] [info] https://anju.szhome.com:8701
-[http-missing-security-headers:content-security-policy] [http] [info] https://anju.szhome.com:8701
-[http-missing-security-headers:x-frame-options] [http] [info] https://anju.szhome.com:8701
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://anju.szhome.com:8701
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://anju.szhome.com:8701
-[http-missing-security-headers:x-content-type-options] [http] [info] https://bol.dg.szhome.com:443
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://bol.dg.szhome.com:443
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://bol.dg.szhome.com:443
-[http-missing-security-headers:x-frame-options] [http] [info] https://bol.dg.szhome.com:443
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://bol.dg.szhome.com:443
-[http-missing-security-headers:referrer-policy] [http] [info] https://bol.dg.szhome.com:443
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://bol.dg.szhome.com:443
-[http-missing-security-headers:strict-transport-security] [http] [info] https://bol.dg.szhome.com:443
-[http-missing-security-headers:content-security-policy] [http] [info] https://bol.dg.szhome.com:443
-[http-missing-security-headers:permissions-policy] [http] [info] https://bol.dg.szhome.com:443
-[http-missing-security-headers:content-security-policy] [http] [info] https://dg.szhome.com:443
-[http-missing-security-headers:permissions-policy] [http] [info] https://dg.szhome.com:443
-[http-missing-security-headers:x-content-type-options] [http] [info] https://dg.szhome.com:443
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://dg.szhome.com:443
-[http-missing-security-headers:strict-transport-security] [http] [info] https://dg.szhome.com:443
-[http-missing-security-headers:strict-transport-security] [http] [info] https://ddqk-webapi.szhome.com:443
-[http-missing-security-headers:x-frame-options] [http] [info] https://dg.szhome.com:443
-[http-missing-security-headers:permissions-policy] [http] [info] https://ddqk-webapi.szhome.com:443
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://dg.szhome.com:443
-[http-missing-security-headers:x-content-type-options] [http] [info] https://ddqk-webapi.szhome.com:443
-[http-missing-security-headers:referrer-policy] [http] [info] https://dg.szhome.com:443
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://ddqk-webapi.szhome.com:443
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://dg.szhome.com:443
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://dg.szhome.com:443
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://ddqk-webapi.szhome.com:443
-[http-missing-security-headers:content-security-policy] [http] [info] https://ddqk-webapi.szhome.com:443
-[http-missing-security-headers:x-frame-options] [http] [info] https://ddqk-webapi.szhome.com:443
-[http-missing-security-headers:referrer-policy] [http] [info] https://ddqk-webapi.szhome.com:443
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://ddqk-webapi.szhome.com:443
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://ddqk-webapi.szhome.com:443
-[http-missing-security-headers:content-security-policy] [http] [info] https://csgx.szhome.com:443
-[http-missing-security-headers:permissions-policy] [http] [info] https://csgx.szhome.com:443
-[http-missing-security-headers:x-frame-options] [http] [info] https://csgx.szhome.com:443
-[http-missing-security-headers:x-content-type-options] [http] [info] https://csgx.szhome.com:443
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://csgx.szhome.com:443
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://csgx.szhome.com:443
-[http-missing-security-headers:strict-transport-security] [http] [info] https://csgx.szhome.com:443
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://csgx.szhome.com:443
-[http-missing-security-headers:referrer-policy] [http] [info] https://csgx.szhome.com:443
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://csgx.szhome.com:443
-[mixed-passive-content:img] [http] [info] https://csgx.szhome.com:443 ["http://img.szhome.com/adm_uploadimages/2026/05/20260511171447190.JPG","http://www.szhome.com/images/beian.png"]
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://anju.szhome.com:443
-[http-missing-security-headers:permissions-policy] [http] [info] https://anju.szhome.com:443
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://anju.szhome.com:443
-[http-missing-security-headers:referrer-policy] [http] [info] https://anju.szhome.com:443
-[http-missing-security-headers:strict-transport-security] [http] [info] https://anju.szhome.com:443
-[http-missing-security-headers:content-security-policy] [http] [info] https://anju.szhome.com:443
-[http-missing-security-headers:x-frame-options] [http] [info] https://anju.szhome.com:443
-[http-missing-security-headers:x-content-type-options] [http] [info] https://anju.szhome.com:443
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://anju.szhome.com:443
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://anju.szhome.com:443
-[mixed-passive-content:img] [http] [info] https://anju.szhome.com:443 ["http://img4.szhome.com/2022/08/0824170602067.jpg","http://img4.szhome.com/2022/08/0823100105848.jpg","http://www.szhome.com/images/beian.png","http://szcert.ebs.org.cn/Images/govIcon.gif","http://img4.szhome.com/2022/12/1214165026166.jpg","http://img4.szhome.com/2022/12/1229131216630.jpg","http://img4.szhome.com/2022/10/1025115736633.jpg","http://img4.szhome.com/2022/08/0824170327504.jpg","http://img4.szhome.com/2022/04/0415105820807.jpg","http://img4.szhome.com/2022/04/0408133543781.jpg","http://qrgenerator.qrcreator.net/create.php?data=http://bbs.szhome.com/500070-8-1-0-1.html","http://img4.szhome.com/2022/10/1003164255021.jpg","http://img4.szhome.com/2022/12/1229131526818.jpg","http://img4.szhome.com/2022/10/1025115545242.jpg"]
-[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:2522
-[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:2522
-[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:2522
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:2522
-[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:2522
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:2522
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:2522
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:2522
-[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:2522
-[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:2522
-[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:2003
-[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:2003
-[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:2003
-[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:2003
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:2003
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:2003
-[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:2003
-[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:2003
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:2003
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:2003
-[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:4003
-[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:4003
-[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:4003
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:4003
-[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:4003
-[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:4003
-[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:4003
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:4003
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:4003
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:4003
-[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:1443
-[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:1443
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:1443
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:1443
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:1443
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:1443
-[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:1443
-[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:1443
-[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:1443
-[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:1443
-[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:3880
-[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:3880
-[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:3880
-[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:3880
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:3880
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:3880
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:3880
-[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:3880
-[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:3880
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:3880
-[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:8181
-[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:8181
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:8181
-[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:27000
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:8181
-[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:27000
-[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:8181
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:27000
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:8181
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:27000
-[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:8181
-[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:27000
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:8181
-[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:27000
-[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:8181
-[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:8181
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:27000
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:27000
-[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:27000
-[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:27000
-[http-missing-security-headers:strict-transport-security] [http] [info] https://img4.szhome.com:443
-[http-missing-security-headers:content-security-policy] [http] [info] https://img4.szhome.com:443
-[http-missing-security-headers:x-content-type-options] [http] [info] https://img4.szhome.com:443
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://img4.szhome.com:443
-[http-missing-security-headers:referrer-policy] [http] [info] https://img4.szhome.com:443
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://img4.szhome.com:443
-[http-missing-security-headers:permissions-policy] [http] [info] https://img4.szhome.com:443
-[http-missing-security-headers:x-frame-options] [http] [info] https://img4.szhome.com:443
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://img4.szhome.com:443
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://img4.szhome.com:443
-[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:7004
-[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:7004
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:7004
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:7004
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:7004
-[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:7004
-[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:7004
-[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:7004
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:7004
-[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:7004
-[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:8008
-[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:8008
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:8008
-[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:8008
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:8008
-[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:8008
-[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:8008
-[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:8008
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:8008
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:8008
-[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:58080
-[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:58080
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:58080
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:58080
-[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:58080
-[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:58080
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:58080
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:58080
-[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:58080
-[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:58080
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:6006
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:6006
-[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:6006
-[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:6006
+[addeventlistener-detect] [http] [info] https://video.szzgh.org:443
+[addeventlistener-detect] [http] [info] https://video.szzgh.org:99
+[janitza-umg-panel] [http] [info] https://lsapp.szzgh.org:443
+[janitza-umg-panel] [http] [info] https://lsapp.szzgh.org:99
+[janitza-umg-panel] [http] [info] https://video.szzgh.org:443
+[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:4443
+[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:4443
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:4443
+[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:4443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:4443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:4443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:4443
+[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:4443
+[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:4443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:4443
+[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:6006
 [http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:6006
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:6006
 [http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:6006
-[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:6006
-[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:6006
 [http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:6006
-[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:4443
-[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:4443
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:4443
-[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:4443
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:4443
-[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:4443
-[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:4443
-[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:4443
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:4443
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:4443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:6006
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:6006
+[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:6006
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:6006
+[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:6006
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:8086
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:8086
+[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:8086
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:8086
+[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:8086
+[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:8086
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:8086
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:8086
+[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:8086
+[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:8086
+[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:4003
+[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:4003
+[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:4003
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:4003
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:4003
+[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:4003
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:4003
+[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:4003
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:4003
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:4003
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:6003
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:6003
+[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:6003
+[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:6003
+[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:6003
+[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:6003
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:6003
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:6003
+[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:6003
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:6003
+[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:1443
+[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:1443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:1443
+[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:1443
+[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:1443
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:1443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:1443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:1443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:1443
+[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:1443
+[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:3880
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:3880
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:3880
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:3880
+[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:3880
+[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:3880
+[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:3880
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:3880
+[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:3880
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:3880
+[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:48080
+[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:48080
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:48080
+[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:48080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:48080
+[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:48080
+[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:48080
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:48080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:48080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:48080
+[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:7443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:7443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:7443
+[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:7443
+[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:7443
+[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:7443
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:7443
+[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:7443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:7443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:7443
+[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:2522
+[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:2522
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:2522
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:2522
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:2522
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:2522
+[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:2522
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:7002
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:7002
+[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:7002
+[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:7002
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:7002
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:7002
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:7002
+[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:7002
+[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:7002
+[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:7002
+[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:5225
+[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:5225
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:5225
+[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:5225
+[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:5200
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:5225
+[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:5200
+[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:5225
+[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:5200
+[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:5225
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:5200
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:5225
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:5200
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:5225
+[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:5200
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:5225
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:5200
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:5200
+[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:5200
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:5200
+[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:5222
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:5222
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:5222
+[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:5222
+[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:5222
+[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:5222
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:5222
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:5222
+[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:6007
+[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:6007
+[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:6007
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:6007
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:6007
+[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:6007
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:6007
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:6007
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:6007
+[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:6007
+[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:8002
+[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:8002
+[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:8002
+[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:8002
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:8002
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:8002
+[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:8002
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:8002
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:8002
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:8002
+[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:5222
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:5222
+[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:2522
+[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:2522
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:2522
+[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:58080
+[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:58080
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:58080
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:58080
+[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:58080
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:58080
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:58080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:58080
+[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:58080
+[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:58080
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:27000
+[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:27000
+[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:27000
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:27000
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:27000
+[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:27000
+[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:27000
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:27000
+[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:27000
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:27000
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:8001
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:8001
+[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:8001
+[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:2003
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:8001
+[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:2003
+[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:8001
+[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:2003
+[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:8001
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:2003
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:8001
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:2003
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:2003
+[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:2003
+[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:2003
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:2003
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:2003
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:8001
+[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:8001
+[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:8001
+[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:8181
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:8181
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:8181
+[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:8181
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:8181
+[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:8181
+[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:8181
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:8181
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:8181
+[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:8181
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:8443
+[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:8443
+[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:8443
+[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:8443
+[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:8443
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:8443
+[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:8099
+[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:8099
+[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:8099
+[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:8099
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:8099
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:8099
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:8099
+[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:8099
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:8099
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:8099
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:8200
 [http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:8200
 [http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:8200
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:8200
-[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:8200
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:8200
-[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:8200
 [http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:8200
 [http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:8200
+[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:8200
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:8200
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:8200
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:8200
-[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:8300
-[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:8300
-[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:8300
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:8300
-[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:8300
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:8300
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:8300
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:8300
-[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:8300
-[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:8300
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://dongdong.szhome.com:443/entryNew/nineYuanPc
-[http-missing-security-headers:strict-transport-security] [http] [info] https://dongdong.szhome.com:443/entryNew/nineYuanPc
-[http-missing-security-headers:x-frame-options] [http] [info] https://dongdong.szhome.com:443/entryNew/nineYuanPc
-[http-missing-security-headers:x-content-type-options] [http] [info] https://dongdong.szhome.com:443/entryNew/nineYuanPc
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://dongdong.szhome.com:443/entryNew/nineYuanPc
-[http-missing-security-headers:referrer-policy] [http] [info] https://dongdong.szhome.com:443/entryNew/nineYuanPc
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://dongdong.szhome.com:443/entryNew/nineYuanPc
-[http-missing-security-headers:content-security-policy] [http] [info] https://dongdong.szhome.com:443/entryNew/nineYuanPc
-[http-missing-security-headers:permissions-policy] [http] [info] https://dongdong.szhome.com:443/entryNew/nineYuanPc
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://dongdong.szhome.com:443/entryNew/nineYuanPc
-[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:9091
-[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:9091
-[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:9091
-[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:9091
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:9091
-[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:9091
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:9091
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:9091
-[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:9091
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:9091
-[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:9200
-[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:9200
-[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:9200
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:9200
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:9200
-[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:9200
-[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:9200
-[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:9200
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:9200
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:9200
-[http-missing-security-headers:strict-transport-security] [http] [info] https://www.szzgh.org:443
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.szzgh.org:443
-[http-missing-security-headers:referrer-policy] [http] [info] https://www.szzgh.org:443
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.szzgh.org:443
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.szzgh.org:443
-[http-missing-security-headers:content-security-policy] [http] [info] https://www.szzgh.org:443
-[http-missing-security-headers:permissions-policy] [http] [info] https://www.szzgh.org:443
-[http-missing-security-headers:x-frame-options] [http] [info] https://www.szzgh.org:443
-[http-missing-security-headers:x-content-type-options] [http] [info] https://www.szzgh.org:443
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.szzgh.org:443
-[http-missing-security-headers:strict-transport-security] [http] [info] https://minio.szzy.szaicpp.com:80
-[http-missing-security-headers:content-security-policy] [http] [info] https://minio.szzy.szaicpp.com:80
-[http-missing-security-headers:x-frame-options] [http] [info] https://minio.szzy.szaicpp.com:80
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://minio.szzy.szaicpp.com:80
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://minio.szzy.szaicpp.com:80
-[http-missing-security-headers:permissions-policy] [http] [info] https://minio.szzy.szaicpp.com:80
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://minio.szzy.szaicpp.com:80
-[http-missing-security-headers:referrer-policy] [http] [info] https://minio.szzy.szaicpp.com:80
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://minio.szzy.szaicpp.com:80
-[http-missing-security-headers:strict-transport-security] [http] [info] https://szzy.szzy.szaicpp.com:80
-[http-missing-security-headers:content-security-policy] [http] [info] https://szzy.szzy.szaicpp.com:80
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://szzy.szzy.szaicpp.com:80
-[http-missing-security-headers:permissions-policy] [http] [info] https://szzy.szzy.szaicpp.com:80
-[http-missing-security-headers:x-frame-options] [http] [info] https://szzy.szzy.szaicpp.com:80
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://szzy.szzy.szaicpp.com:80
-[http-missing-security-headers:referrer-policy] [http] [info] https://szzy.szzy.szaicpp.com:80
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://szzy.szzy.szaicpp.com:80
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://szzy.szzy.szaicpp.com:80
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://toutiao.szhome.com:443
-[http-missing-security-headers:content-security-policy] [http] [info] https://toutiao.szhome.com:443
-[http-missing-security-headers:x-frame-options] [http] [info] https://toutiao.szhome.com:443
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://toutiao.szhome.com:443
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://toutiao.szhome.com:443
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://toutiao.szhome.com:443
-[http-missing-security-headers:strict-transport-security] [http] [info] https://toutiao.szhome.com:443
-[http-missing-security-headers:permissions-policy] [http] [info] https://toutiao.szhome.com:443
-[http-missing-security-headers:x-content-type-options] [http] [info] https://toutiao.szhome.com:443
-[http-missing-security-headers:referrer-policy] [http] [info] https://toutiao.szhome.com:443
-[mixed-passive-content:img] [http] [info] https://toutiao.szhome.com:443 ["http://dongdong.szhomeimg.com/Article/Thumb/2026/06/06181121149521905_299x224.jpg","http://dongdong.szhomeimg.com/Article/Thumb/2026/06/06181118550634313_299x224.jpg","http://dongdong.szhomeimg.com/Article/Thumb/2026/06/0618102917124727_299x224.jpg","http://dongdong.szhomeimg.com/Article/Thumb/2026/06/06171808292784321_299x224.jpg","http://dongdong.szhomeimg.com/Article/Thumb/2026/06/06171157419841809_299x224.jpg","http://dongdong.szhomeimg.com/Article/Thumb/2026/06/06170943463071519_299x224.jpg","http://dongdong.szhomeimg.com/Article/Thumb/2026/06/06170912265903870_299x224.jpg","http://dongdong.szhomeimg.com/Article/Thumb/2026/06/06181121246303208_299x224.jpg","http://dongdong.szhomeimg.com/Article/Thumb/2026/06/06181025418483167_299x224.jpg","http://dongdong.szhomeimg.com/Article/Thumb/2026/06/06171151597836906_299x224.jpg","http://dongdong.szhomeimg.com/Article/Thumb/2026/06/06181649301362339_299x224.jpg","http://dongdong.szhomeimg.com/Article/Thumb/2026/06/06181137181083098_299x224.jpg","http://dongdong.szhomeimg.com/Article/Thumb/2026/06/06181000276897091_299x224.jpg","http://dongdong.szhomeimg.com/Article/Thumb/2026/06/0618112106274217_299x224.jpg","http://dongdong.szhomeimg.com/Article/Thumb/2026/06/06171106447663871_299x224.jpg","http://dongdong.szhomeimg.com/Article/Thumb/2026/06/06171424331136503_299x224.jpg","http://dongdong.szhomeimg.com/Article/Thumb/2026/06/06171118196101285_299x224.jpg"]
-[http-missing-security-headers:referrer-policy] [http] [info] https://szzy.szzy.szaicpp.com:443/cps/portal/ui/#/home
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://szzy.szzy.szaicpp.com:443/cps/portal/ui/#/home
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://szzy.szzy.szaicpp.com:443/cps/portal/ui/#/home
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://szzy.szzy.szaicpp.com:443/cps/portal/ui/#/home
-[http-missing-security-headers:strict-transport-security] [http] [info] https://szzy.szzy.szaicpp.com:443/cps/portal/ui/#/home
-[http-missing-security-headers:content-security-policy] [http] [info] https://szzy.szzy.szaicpp.com:443/cps/portal/ui/#/home
-[http-missing-security-headers:permissions-policy] [http] [info] https://szzy.szzy.szaicpp.com:443/cps/portal/ui/#/home
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://szzy.szzy.szaicpp.com:443/cps/portal/ui/#/home
-[http-missing-security-headers:x-content-type-options] [http] [info] https://video.szzgh.org:99
+[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:8200
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:8200
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:8701
+[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:8701
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:8701
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:8701
+[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:8701
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:8701
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:8701
+[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:8701
+[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:8701
+[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:8701
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:85
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:85
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:85
+[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:85
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:85
+[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:85
+[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:85
+[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:85
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:85
+[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:85
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:9002
+[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:9002
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:9002
+[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:9002
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:9002
+[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:9002
+[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:9002
+[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:9002
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:9002
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:9002
+[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:9003
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:9003
+[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:9003
+[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:9003
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:9003
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:9003
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:9003
+[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:9003
+[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:9003
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:9003
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:9999
+[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:9999
+[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:9999
+[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:9999
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:9999
+[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:9999
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:9999
+[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:9999
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:9999
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:9999
+[http-missing-security-headers:content-security-policy] [http] [info] https://wpsyundoc.smartcitysz.com:8090
+[http-missing-security-headers:permissions-policy] [http] [info] https://wpsyundoc.smartcitysz.com:8090
+[http-missing-security-headers:referrer-policy] [http] [info] https://wpsyundoc.smartcitysz.com:8090
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://wpsyundoc.smartcitysz.com:8090
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://wpsyundoc.smartcitysz.com:8090
+[http-missing-security-headers:strict-transport-security] [http] [info] https://wpsyundoc.smartcitysz.com:8090
+[http-missing-security-headers:x-frame-options] [http] [info] https://wpsyundoc.smartcitysz.com:8090
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://wpsyundoc.smartcitysz.com:8090
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://wpsyundoc.smartcitysz.com:8090
+[http-missing-security-headers:permissions-policy] [http] [info] https://video.szzgh.org:99
+[http-missing-security-headers:x-frame-options] [http] [info] https://video.szzgh.org:99
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://video.szzgh.org:99
+[http-missing-security-headers:referrer-policy] [http] [info] https://video.szzgh.org:99
+[http-missing-security-headers:content-security-policy] [http] [info] https://video.szzgh.org:99
+[http-missing-security-headers:x-content-type-options] [http] [info] https://video.szzgh.org:99
 [http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://video.szzgh.org:99
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://video.szzgh.org:99
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://video.szzgh.org:99
-[http-missing-security-headers:content-security-policy] [http] [info] https://video.szzgh.org:99
-[http-missing-security-headers:permissions-policy] [http] [info] https://video.szzgh.org:99
-[http-missing-security-headers:x-frame-options] [http] [info] https://video.szzgh.org:99
+[http-missing-security-headers:strict-transport-security] [http] [info] https://video.szzgh.org:99
+[http-missing-security-headers:content-security-policy] [http] [info] https://www.szsiq.com:443
+[http-missing-security-headers:permissions-policy] [http] [info] https://www.szsiq.com:443
+[http-missing-security-headers:x-frame-options] [http] [info] https://www.szsiq.com:443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.szsiq.com:443
+[http-missing-security-headers:referrer-policy] [http] [info] https://www.szsiq.com:443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.szsiq.com:443
+[http-missing-security-headers:strict-transport-security] [http] [info] https://www.szsiq.com:443
+[http-missing-security-headers:x-content-type-options] [http] [info] https://www.szsiq.com:443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.szsiq.com:443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.szsiq.com:443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:99
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:99
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:99
+[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:99
+[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:99
+[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:99
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:99
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:99
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:6001
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:6001
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:6001
+[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:6001
+[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:6001
+[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org:6001
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:6001
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:6001
+[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org:6001
+[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:6001
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org:443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org:443
+[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org:443
+[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org:443
+[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org:443
+[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org:443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org:443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org:443
+[http-missing-security-headers:permissions-policy] [http] [info] https://video.szzgh.org:443
+[http-missing-security-headers:x-frame-options] [http] [info] https://video.szzgh.org:443
 [http-missing-security-headers:x-content-type-options] [http] [info] https://video.szzgh.org:443
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://video.szzgh.org:443
 [http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://video.szzgh.org:443
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://video.szzgh.org:443
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://video.szzgh.org:443
 [http-missing-security-headers:content-security-policy] [http] [info] https://video.szzgh.org:443
-[http-missing-security-headers:permissions-policy] [http] [info] https://video.szzgh.org:443
-[http-missing-security-headers:x-frame-options] [http] [info] https://video.szzgh.org:443
-[tech-detect:owl-carousel] [http] [info] https://csgx.szhome.com:443
-[tech-detect:owl-carousel] [http] [info] https://anju.szhome.com:443
-[caa-fingerprint] [dns] [info] img.bbs.szhome.com
-[caa-fingerprint] [dns] [info] bol.dg.szhome.com
-[caa-fingerprint] [dns] [info] img.bbs.szhome.com
-[caa-fingerprint] [dns] [info] dg.szhome.com
-[caa-fingerprint] [dns] [info] dongdong.szhome.com
-[caa-fingerprint] [dns] [info] csgx.szhome.com
-[caa-fingerprint] [dns] [info] anju.szhome.com
-[caa-fingerprint] [dns] [info] img4.szhome.com
-[caa-fingerprint] [dns] [info] anju.szhome.com
-[caa-fingerprint] [dns] [info] ddqk-webapi.szhome.com
-[caa-fingerprint] [dns] [info] anju.szhome.com
-[caa-fingerprint] [dns] [info] anju.szhome.com
-[caa-fingerprint] [dns] [info] anju.szhome.com
-[caa-fingerprint] [dns] [info] anju.szhome.com
-[caa-fingerprint] [dns] [info] anju.szhome.com
-[caa-fingerprint] [dns] [info] anju.szhome.com
-[caa-fingerprint] [dns] [info] anju.szhome.com
 [caa-fingerprint] [dns] [info] lsapp.szzgh.org
 [caa-fingerprint] [dns] [info] lsapp.szzgh.org
 [caa-fingerprint] [dns] [info] lsapp.szzgh.org
 [caa-fingerprint] [dns] [info] lsapp.szzgh.org
-[caa-fingerprint] [dns] [info] anju.szhome.com
-[caa-fingerprint] [dns] [info] anju.szhome.com
-[caa-fingerprint] [dns] [info] anju.szhome.com
-[caa-fingerprint] [dns] [info] lsapp.szzgh.org
-[caa-fingerprint] [dns] [info] anju.szhome.com
-[caa-fingerprint] [dns] [info] anju.szhome.com
-[caa-fingerprint] [dns] [info] anju.szhome.com
-[caa-fingerprint] [dns] [info] lsapp.szzgh.org
-[caa-fingerprint] [dns] [info] anju.szhome.com
 [caa-fingerprint] [dns] [info] lsapp.szzgh.org
 [caa-fingerprint] [dns] [info] lsapp.szzgh.org
 [caa-fingerprint] [dns] [info] lsapp.szzgh.org
 [caa-fingerprint] [dns] [info] lsapp.szzgh.org
-[caa-fingerprint] [dns] [info] anju.szhome.com
 [caa-fingerprint] [dns] [info] lsapp.szzgh.org
 [caa-fingerprint] [dns] [info] lsapp.szzgh.org
 [caa-fingerprint] [dns] [info] lsapp.szzgh.org
-[dns-saas-service-detection] [dns] [info] anju.szhome.com ["anju.szhome.com.ctadns.cn"]
-[ssl-issuer] [ssl] [info] dg.szhome.com:443 ["Asseco Data Systems S.A."]
-[ssl-dns-names] [ssl] [info] dg.szhome.com:443 ["*.szhome.com","szhome.com"]
-[wildcard-tls] [ssl] [info] dg.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
-[ssl-issuer] [ssl] [info] anju.szhome.com:58080 ["Asseco Data Systems S.A."]
-[ssl-dns-names] [ssl] [info] anju.szhome.com:58080 ["*.szhome.com","szhome.com"]
-[wildcard-tls] [ssl] [info] anju.szhome.com:58080 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
-[ssl-issuer] [ssl] [info] anju.szhome.com:5225 ["Asseco Data Systems S.A."]
-[ssl-dns-names] [ssl] [info] anju.szhome.com:5225 ["*.szhome.com","szhome.com"]
-[wildcard-tls] [ssl] [info] anju.szhome.com:5225 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
-[ssl-issuer] [ssl] [info] anju.szhome.com:8181 ["Asseco Data Systems S.A."]
-[ssl-dns-names] [ssl] [info] anju.szhome.com:8181 ["*.szhome.com","szhome.com"]
-[wildcard-tls] [ssl] [info] anju.szhome.com:8181 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
-[ssl-issuer] [ssl] [info] anju.szhome.com:8008 ["Asseco Data Systems S.A."]
-[ssl-dns-names] [ssl] [info] anju.szhome.com:8008 ["*.szhome.com","szhome.com"]
-[wildcard-tls] [ssl] [info] anju.szhome.com:8008 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
-[ssl-issuer] [ssl] [info] anju.szhome.com:4003 ["Asseco Data Systems S.A."]
-[ssl-dns-names] [ssl] [info] anju.szhome.com:4003 ["*.szhome.com","szhome.com"]
-[wildcard-tls] [ssl] [info] anju.szhome.com:4003 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
-[ssl-issuer] [ssl] [info] anju.szhome.com:1443 ["Asseco Data Systems S.A."]
-[ssl-dns-names] [ssl] [info] anju.szhome.com:1443 ["szhome.com","*.szhome.com"]
-[wildcard-tls] [ssl] [info] anju.szhome.com:1443 ["SAN: [*.szhome.com szhome.com]","CN: *.szhome.com"]
-[ssl-issuer] [ssl] [info] anju.szhome.com:2522 ["Asseco Data Systems S.A."]
-[ssl-dns-names] [ssl] [info] anju.szhome.com:2522 ["*.szhome.com","szhome.com"]
-[wildcard-tls] [ssl] [info] anju.szhome.com:2522 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
-[ssl-issuer] [ssl] [info] csgx.szhome.com:443 ["Asseco Data Systems S.A."]
-[ssl-dns-names] [ssl] [info] csgx.szhome.com:443 ["*.szhome.com","szhome.com"]
-[wildcard-tls] [ssl] [info] csgx.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
-[ssl-issuer] [ssl] [info] img.bbs.szhome.com:443 ["Asseco Data Systems S.A."]
-[mismatched-ssl-certificate] [ssl] [info] img.bbs.szhome.com:443 ["CN: *.szhome.com"]
-[ssl-dns-names] [ssl] [info] img.bbs.szhome.com:443 ["szhome.com","*.szhome.com"]
-[wildcard-tls] [ssl] [info] img.bbs.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
-[ssl-issuer] [ssl] [info] anju.szhome.com:48080 ["Asseco Data Systems S.A."]
-[ssl-dns-names] [ssl] [info] anju.szhome.com:48080 ["*.szhome.com","szhome.com"]
-[wildcard-tls] [ssl] [info] anju.szhome.com:48080 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
-[ssl-issuer] [ssl] [info] anju.szhome.com:8443 ["Asseco Data Systems S.A."]
-[ssl-dns-names] [ssl] [info] anju.szhome.com:8443 ["*.szhome.com","szhome.com"]
-[wildcard-tls] [ssl] [info] anju.szhome.com:8443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
-[ssl-issuer] [ssl] [info] anju.szhome.com:443 ["Asseco Data Systems S.A."]
-[ssl-dns-names] [ssl] [info] anju.szhome.com:443 ["*.szhome.com","szhome.com"]
-[wildcard-tls] [ssl] [info] anju.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
-[ssl-issuer] [ssl] [info] anju.szhome.com:8701 ["Asseco Data Systems S.A."]
-[ssl-dns-names] [ssl] [info] anju.szhome.com:8701 ["*.szhome.com","szhome.com"]
-[wildcard-tls] [ssl] [info] anju.szhome.com:8701 ["SAN: [*.szhome.com szhome.com]","CN: *.szhome.com"]
-[ssl-issuer] [ssl] [info] anju.szhome.com:4443 ["Asseco Data Systems S.A."]
-[ssl-dns-names] [ssl] [info] anju.szhome.com:4443 ["*.szhome.com","szhome.com"]
-[wildcard-tls] [ssl] [info] anju.szhome.com:4443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
-[ssl-issuer] [ssl] [info] anju.szhome.com:2003 ["Asseco Data Systems S.A."]
-[ssl-dns-names] [ssl] [info] anju.szhome.com:2003 ["*.szhome.com","szhome.com"]
-[wildcard-tls] [ssl] [info] anju.szhome.com:2003 ["SAN: [*.szhome.com szhome.com]","CN: *.szhome.com"]
-[ssl-issuer] [ssl] [info] ddqk-webapi.szhome.com:443 ["Asseco Data Systems S.A."]
-[ssl-dns-names] [ssl] [info] ddqk-webapi.szhome.com:443 ["*.szhome.com","szhome.com"]
-[wildcard-tls] [ssl] [info] ddqk-webapi.szhome.com:443 ["SAN: [*.szhome.com szhome.com]","CN: *.szhome.com"]
-[ssl-issuer] [ssl] [info] dongdong.szhome.com:443 ["Asseco Data Systems S.A."]
-[ssl-dns-names] [ssl] [info] dongdong.szhome.com:443 ["*.szhome.com","szhome.com"]
-[wildcard-tls] [ssl] [info] dongdong.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
-[ssl-issuer] [ssl] [info] anju.szhome.com:3880 ["Asseco Data Systems S.A."]
-[ssl-dns-names] [ssl] [info] anju.szhome.com:3880 ["*.szhome.com","szhome.com"]
-[wildcard-tls] [ssl] [info] anju.szhome.com:3880 ["SAN: [*.szhome.com szhome.com]","CN: *.szhome.com"]
-[ssl-issuer] [ssl] [info] bol.dg.szhome.com:443 ["Asseco Data Systems S.A."]
-[mismatched-ssl-certificate] [ssl] [info] bol.dg.szhome.com:443 ["CN: *.szhome.com"]
-[ssl-issuer] [ssl] [info] anju.szhome.com:27000 ["Asseco Data Systems S.A."]
-[ssl-dns-names] [ssl] [info] bol.dg.szhome.com:443 ["*.szhome.com","szhome.com"]
-[wildcard-tls] [ssl] [info] bol.dg.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
-[ssl-dns-names] [ssl] [info] anju.szhome.com:27000 ["*.szhome.com","szhome.com"]
-[wildcard-tls] [ssl] [info] anju.szhome.com:27000 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
-[ssl-issuer] [ssl] [info] img4.szhome.com:443 ["Asseco Data Systems S.A."]
-[ssl-dns-names] [ssl] [info] img4.szhome.com:443 ["*.szhome.com","szhome.com"]
-[wildcard-tls] [ssl] [info] img4.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
-[ssl-issuer] [ssl] [info] minio.szzy.szaicpp.com:80 ["Let's Encrypt"]
-[ssl-dns-names] [ssl] [info] minio.szzy.szaicpp.com:80 ["minio.szzy.szaicpp.com"]
-[ssl-issuer] [ssl] [info] szzy.szzy.szaicpp.com:443 ["Let's Encrypt"]
-[ssl-dns-names] [ssl] [info] szzy.szzy.szaicpp.com:443 ["szzy.szzy.szaicpp.com"]
-[ssl-issuer] [ssl] [info] lsapp.szzgh.org:3880 ["Sectigo Limited"]
-[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:3880 ["*.szzgh.org","szzgh.org"]
-[wildcard-tls] [ssl] [info] lsapp.szzgh.org:3880 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
-[ssl-issuer] [ssl] [info] lsapp.szzgh.org:58080 ["Sectigo Limited"]
-[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:58080 ["*.szzgh.org","szzgh.org"]
-[wildcard-tls] [ssl] [info] lsapp.szzgh.org:58080 ["SAN: [*.szzgh.org szzgh.org]","CN: *.szzgh.org"]
-[ssl-issuer] [ssl] [info] lsapp.szzgh.org:4443 ["Sectigo Limited"]
-[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:4443 ["*.szzgh.org","szzgh.org"]
-[wildcard-tls] [ssl] [info] lsapp.szzgh.org:4443 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
-[ssl-issuer] [ssl] [info] lsapp.szzgh.org:7004 ["Sectigo Limited"]
-[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:7004 ["*.szzgh.org","szzgh.org"]
-[wildcard-tls] [ssl] [info] lsapp.szzgh.org:7004 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
-[ssl-issuer] [ssl] [info] lsapp.szzgh.org:4003 ["Sectigo Limited"]
-[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:4003 ["*.szzgh.org","szzgh.org"]
-[wildcard-tls] [ssl] [info] lsapp.szzgh.org:4003 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
-[ssl-issuer] [ssl] [info] lsapp.szzgh.org:8300 ["Sectigo Limited"]
-[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:8300 ["*.szzgh.org","szzgh.org"]
-[wildcard-tls] [ssl] [info] lsapp.szzgh.org:8300 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
-[ssl-issuer] [ssl] [info] lsapp.szzgh.org:8181 ["Sectigo Limited"]
-[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:8181 ["*.szzgh.org","szzgh.org"]
-[wildcard-tls] [ssl] [info] lsapp.szzgh.org:8181 ["SAN: [*.szzgh.org szzgh.org]","CN: *.szzgh.org"]
-[ssl-issuer] [ssl] [info] lsapp.szzgh.org:8200 ["Sectigo Limited"]
-[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:8200 ["*.szzgh.org","szzgh.org"]
-[wildcard-tls] [ssl] [info] lsapp.szzgh.org:8200 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
-[ssl-issuer] [ssl] [info] lsapp.szzgh.org:9200 ["Sectigo Limited"]
-[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:9200 ["*.szzgh.org","szzgh.org"]
-[wildcard-tls] [ssl] [info] lsapp.szzgh.org:9200 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[caa-fingerprint] [dns] [info] lsapp.szzgh.org
+[caa-fingerprint] [dns] [info] lsapp.szzgh.org
+[caa-fingerprint] [dns] [info] lsapp.szzgh.org
+[caa-fingerprint] [dns] [info] lsapp.szzgh.org
+[caa-fingerprint] [dns] [info] lsapp.szzgh.org
+[caa-fingerprint] [dns] [info] lsapp.szzgh.org
+[caa-fingerprint] [dns] [info] lsapp.szzgh.org
+[caa-fingerprint] [dns] [info] video.szzgh.org
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[caa-fingerprint] [dns] [info] lsapp.szzgh.org
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[caa-fingerprint] [dns] [info] www.szsiq.com
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[caa-fingerprint] [dns] [info] lsapp.szzgh.org
+[caa-fingerprint] [dns] [info] lsapp.szzgh.org
+[caa-fingerprint] [dns] [info] lsapp.szzgh.org
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[caa-fingerprint] [dns] [info] wpsyundoc.smartcitysz.com
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[caa-fingerprint] [dns] [info] lsapp.szzgh.org
+[caa-fingerprint] [dns] [info] lsapp.szzgh.org
+[caa-fingerprint] [dns] [info] lsapp.szzgh.org
+[caa-fingerprint] [dns] [info] lsapp.szzgh.org
+[caa-fingerprint] [dns] [info] lsapp.szzgh.org
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[caa-fingerprint] [dns] [info] video.szzgh.org
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[caa-fingerprint] [dns] [info] lsapp.szzgh.org
+[caa-fingerprint] [dns] [info] lsapp.szzgh.org
+[caa-fingerprint] [dns] [info] lsapp.szzgh.org
+[caa-fingerprint] [dns] [info] lsapp.szzgh.org
+[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[caa-fingerprint] [dns] [info] lsapp.szzgh.org
+[caa-fingerprint] [dns] [info] lsapp.szzgh.org
+[caa-fingerprint] [dns] [info] lsapp.szzgh.org
+[caa-fingerprint] [dns] [info] lsapp.szzgh.org
+[caa-fingerprint] [dns] [info] lsapp.szzgh.org
+[caa-fingerprint] [dns] [info] lsapp.szzgh.org
+[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:6b1:100:3:0:1:0:3008"]
+[ssl-issuer] [ssl] [info] lsapp.szzgh.org:48080 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:48080 ["*.szzgh.org","szzgh.org"]
+[wildcard-tls] [ssl] [info] lsapp.szzgh.org:48080 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[ssl-issuer] [ssl] [info] lsapp.szzgh.org:443 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:443 ["szzgh.org","*.szzgh.org"]
+[wildcard-tls] [ssl] [info] lsapp.szzgh.org:443 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
 [ssl-issuer] [ssl] [info] lsapp.szzgh.org:6006 ["Sectigo Limited"]
-[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:6006 ["szzgh.org","*.szzgh.org"]
+[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:6006 ["*.szzgh.org","szzgh.org"]
 [wildcard-tls] [ssl] [info] lsapp.szzgh.org:6006 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
-[ssl-issuer] [ssl] [info] lsapp.szzgh.org:2003 ["Sectigo Limited"]
-[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:2003 ["*.szzgh.org","szzgh.org"]
-[wildcard-tls] [ssl] [info] lsapp.szzgh.org:2003 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
-[ssl-issuer] [ssl] [info] lsapp.szzgh.org:2522 ["Sectigo Limited"]
-[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:2522 ["*.szzgh.org","szzgh.org"]
-[wildcard-tls] [ssl] [info] lsapp.szzgh.org:2522 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
-[ssl-issuer] [ssl] [info] lsapp.szzgh.org:8008 ["Sectigo Limited"]
-[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:8008 ["*.szzgh.org","szzgh.org"]
-[wildcard-tls] [ssl] [info] lsapp.szzgh.org:8008 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
-[ssl-issuer] [ssl] [info] lsapp.szzgh.org:1443 ["Sectigo Limited"]
-[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:1443 ["*.szzgh.org","szzgh.org"]
-[wildcard-tls] [ssl] [info] lsapp.szzgh.org:1443 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[ssl-issuer] [ssl] [info] lsapp.szzgh.org:3880 ["Sectigo Limited"]
 [ssl-issuer] [ssl] [info] lsapp.szzgh.org:27000 ["Sectigo Limited"]
 [ssl-dns-names] [ssl] [info] lsapp.szzgh.org:27000 ["*.szzgh.org","szzgh.org"]
 [wildcard-tls] [ssl] [info] lsapp.szzgh.org:27000 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
-[ssl-issuer] [ssl] [info] lsapp.szzgh.org:9091 ["Sectigo Limited"]
-[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:9091 ["*.szzgh.org","szzgh.org"]
-[wildcard-tls] [ssl] [info] lsapp.szzgh.org:9091 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
-[caa-fingerprint] [dns] [info] video.szzgh.org
-[ssl-issuer] [ssl] [info] szzy.szzy.szaicpp.com:80 ["Let's Encrypt"]
-[ssl-dns-names] [ssl] [info] szzy.szzy.szaicpp.com:80 ["szzy.szzy.szaicpp.com"]
-[ssl-issuer] [ssl] [info] toutiao.szhome.com:443 ["Asseco Data Systems S.A."]
-[ssl-dns-names] [ssl] [info] toutiao.szhome.com:443 ["*.szhome.com","szhome.com"]
-[wildcard-tls] [ssl] [info] toutiao.szhome.com:443 ["CN: *.szhome.com","SAN: [*.szhome.com szhome.com]"]
-[ssl-issuer] [ssl] [info] www.szzgh.org:443 ["Sectigo Limited"]
-[ssl-dns-names] [ssl] [info] www.szzgh.org:443 ["*.szzgh.org","szzgh.org"]
-[wildcard-tls] [ssl] [info] www.szzgh.org:443 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[ssl-issuer] [ssl] [info] lsapp.szzgh.org:7443 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:7443 ["*.szzgh.org","szzgh.org"]
+[wildcard-tls] [ssl] [info] lsapp.szzgh.org:7443 ["SAN: [*.szzgh.org szzgh.org]","CN: *.szzgh.org"]
+[ssl-issuer] [ssl] [info] lsapp.szzgh.org:58080 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:58080 ["*.szzgh.org","szzgh.org"]
+[wildcard-tls] [ssl] [info] lsapp.szzgh.org:58080 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[ssl-issuer] [ssl] [info] lsapp.szzgh.org:7002 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:7002 ["*.szzgh.org","szzgh.org"]
+[wildcard-tls] [ssl] [info] lsapp.szzgh.org:7002 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[ssl-issuer] [ssl] [info] lsapp.szzgh.org:2522 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:2522 ["*.szzgh.org","szzgh.org"]
+[wildcard-tls] [ssl] [info] lsapp.szzgh.org:2522 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[ssl-issuer] [ssl] [info] lsapp.szzgh.org:5222 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:5222 ["*.szzgh.org","szzgh.org"]
+[wildcard-tls] [ssl] [info] lsapp.szzgh.org:5222 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:3880 ["szzgh.org","*.szzgh.org"]
+[wildcard-tls] [ssl] [info] lsapp.szzgh.org:3880 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[ssl-issuer] [ssl] [info] lsapp.szzgh.org:4003 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:4003 ["*.szzgh.org","szzgh.org"]
+[wildcard-tls] [ssl] [info] lsapp.szzgh.org:4003 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[ssl-issuer] [ssl] [info] lsapp.szzgh.org:6007 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:6007 ["*.szzgh.org","szzgh.org"]
+[wildcard-tls] [ssl] [info] lsapp.szzgh.org:6007 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[ssl-issuer] [ssl] [info] lsapp.szzgh.org:1443 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:1443 ["*.szzgh.org","szzgh.org"]
+[wildcard-tls] [ssl] [info] lsapp.szzgh.org:1443 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[ssl-issuer] [ssl] [info] lsapp.szzgh.org:5225 ["Sectigo Limited"]
+[ssl-issuer] [ssl] [info] lsapp.szzgh.org:8001 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:8001 ["szzgh.org","*.szzgh.org"]
+[wildcard-tls] [ssl] [info] lsapp.szzgh.org:8001 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[ssl-issuer] [ssl] [info] lsapp.szzgh.org:5200 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:5200 ["*.szzgh.org","szzgh.org"]
+[wildcard-tls] [ssl] [info] lsapp.szzgh.org:5200 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[ssl-issuer] [ssl] [info] lsapp.szzgh.org:4443 ["Sectigo Limited"]
+[ssl-issuer] [ssl] [info] lsapp.szzgh.org:2003 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:4443 ["*.szzgh.org","szzgh.org"]
+[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:2003 ["*.szzgh.org","szzgh.org"]
+[wildcard-tls] [ssl] [info] lsapp.szzgh.org:2003 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[wildcard-tls] [ssl] [info] lsapp.szzgh.org:4443 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:5225 ["*.szzgh.org","szzgh.org"]
+[wildcard-tls] [ssl] [info] lsapp.szzgh.org:5225 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[ssl-issuer] [ssl] [info] lsapp.szzgh.org:6001 ["Sectigo Limited"]
+[ssl-issuer] [ssl] [info] lsapp.szzgh.org:8002 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:6001 ["*.szzgh.org","szzgh.org"]
+[wildcard-tls] [ssl] [info] lsapp.szzgh.org:6001 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:8002 ["*.szzgh.org","szzgh.org"]
+[wildcard-tls] [ssl] [info] lsapp.szzgh.org:8002 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[ssl-issuer] [ssl] [info] lsapp.szzgh.org:6003 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:6003 ["*.szzgh.org","szzgh.org"]
+[wildcard-tls] [ssl] [info] lsapp.szzgh.org:6003 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[ssl-issuer] [ssl] [info] lsapp.szzgh.org:8099 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:8099 ["szzgh.org","*.szzgh.org"]
+[wildcard-tls] [ssl] [info] lsapp.szzgh.org:8099 ["SAN: [*.szzgh.org szzgh.org]","CN: *.szzgh.org"]
+[ssl-issuer] [ssl] [info] lsapp.szzgh.org:8200 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:8200 ["*.szzgh.org","szzgh.org"]
+[wildcard-tls] [ssl] [info] lsapp.szzgh.org:8200 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[ssl-issuer] [ssl] [info] lsapp.szzgh.org:8701 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:8701 ["*.szzgh.org","szzgh.org"]
+[wildcard-tls] [ssl] [info] lsapp.szzgh.org:8701 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[ssl-issuer] [ssl] [info] lsapp.szzgh.org:9002 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:9002 ["*.szzgh.org","szzgh.org"]
+[wildcard-tls] [ssl] [info] lsapp.szzgh.org:9002 ["SAN: [*.szzgh.org szzgh.org]","CN: *.szzgh.org"]
+[ssl-issuer] [ssl] [info] lsapp.szzgh.org:99 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:99 ["*.szzgh.org","szzgh.org"]
+[wildcard-tls] [ssl] [info] lsapp.szzgh.org:99 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[ssl-issuer] [ssl] [info] lsapp.szzgh.org:85 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:85 ["*.szzgh.org","szzgh.org"]
+[wildcard-tls] [ssl] [info] lsapp.szzgh.org:85 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[ssl-issuer] [ssl] [info] lsapp.szzgh.org:8181 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:8181 ["*.szzgh.org","szzgh.org"]
+[wildcard-tls] [ssl] [info] lsapp.szzgh.org:8181 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[ssl-issuer] [ssl] [info] lsapp.szzgh.org:9003 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:9003 ["*.szzgh.org","szzgh.org"]
+[wildcard-tls] [ssl] [info] lsapp.szzgh.org:9003 ["SAN: [*.szzgh.org szzgh.org]","CN: *.szzgh.org"]
+[ssl-issuer] [ssl] [info] lsapp.szzgh.org:9999 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:9999 ["*.szzgh.org","szzgh.org"]
+[wildcard-tls] [ssl] [info] lsapp.szzgh.org:9999 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[ssl-issuer] [ssl] [info] lsapp.szzgh.org:8443 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:8443 ["*.szzgh.org","szzgh.org"]
+[wildcard-tls] [ssl] [info] lsapp.szzgh.org:8443 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
 [ssl-issuer] [ssl] [info] video.szzgh.org:99 ["Sectigo Limited"]
 [ssl-dns-names] [ssl] [info] video.szzgh.org:99 ["*.szzgh.org","szzgh.org"]
-[wildcard-tls] [ssl] [info] video.szzgh.org:99 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[wildcard-tls] [ssl] [info] video.szzgh.org:99 ["SAN: [*.szzgh.org szzgh.org]","CN: *.szzgh.org"]
 [ssl-issuer] [ssl] [info] video.szzgh.org:443 ["Sectigo Limited"]
 [mismatched-ssl-certificate] [ssl] [info] video.szzgh.org:443 ["CN: szgrwhg.com"]
 [ssl-dns-names] [ssl] [info] video.szzgh.org:443 ["szgrwhg.com","www.szgrwhg.com"]
-[dns-saas-service-detection] [dns] [info] anju.szhome.com ["anju.szhome.com.ctadns.cn"]
-[caa-fingerprint] [dns] [info] lsapp.szzgh.org
-[caa-fingerprint] [dns] [info] lsapp.szzgh.org
-[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
-[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
-[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
-[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
+[ssl-issuer] [ssl] [info] wpsyundoc.smartcitysz.com:8090 ["DigiCert Inc"]
+[ssl-dns-names] [ssl] [info] wpsyundoc.smartcitysz.com:8090 ["*.smartcitysz.com","smartcitysz.com"]
+[wildcard-tls] [ssl] [info] wpsyundoc.smartcitysz.com:8090 ["CN: *.smartcitysz.com","SAN: [*.smartcitysz.com smartcitysz.com]"]
+[ssl-issuer] [ssl] [info] www.szsiq.com:443 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
+[ssl-dns-names] [ssl] [info] www.szsiq.com:443 ["*.szsiq.com","szsiq.com"]
+[untrusted-root-certificate] [ssl] [low] www.szsiq.com:443
+[wildcard-tls] [ssl] [info] www.szsiq.com:443 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
+[ssl-issuer] [ssl] [info] lsapp.szzgh.org:8086 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:8086 ["*.szzgh.org","szzgh.org"]
+[wildcard-tls] [ssl] [info] lsapp.szzgh.org:8086 ["SAN: [*.szzgh.org szzgh.org]","CN: *.szzgh.org"]
