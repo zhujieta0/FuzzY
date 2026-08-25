@@ -6,7 +6,7 @@ Afrog/3.5.6 | Security Toolkit | The Magic Is in the Work
 [✓] Cur:   0/pocs https://t.zsxq.com/lV66x 
 [✓] OOB:   Not required (no OOB PoCs) 
 ════════════════════════════════════════════════════════
-001 08-25 22:04:20 smtp-detect INFO mx.szap.com:25 
-002 08-25 22:04:26 smtp-detect INFO mailx.szap.com:25 
-003 08-25 22:08:20 shiro-detect INFO https://www.smartcitysz.com:443/ 
-004 08-25 22:08:22 shiro-detect INFO http://www.smartcitysz.com:80/ 
+001 08-26 03:19:56 ssh-detect INFO www.szafi.com.cn:22 [ssh="SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.18"]
+002 08-26 03:19:56 ssh-detect INFO en.szafi.com.cn:22 [ssh="SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.18"]
+003 08-26 03:20:07 telnet-detect INFO www.szafi.com.cn:22 
+004 08-26 03:20:08 telnet-detect INFO en.szafi.com.cn:22 
