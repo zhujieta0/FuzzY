@@ -6,3 +6,5 @@ Afrog/3.5.6 | Security Toolkit | The Magic Is in the Work
 [✓] Cur:   0/pocs https://t.zsxq.com/lV66x 
 [✖] OOB:   ceyeio (Not configured) 
 ════════════════════════════════════════════════════════
+001 09-03 01:38:45 shiro-detect INFO https://www.smartcitysz.com/ 
+002 09-03 01:40:11 spring-detect INFO https://www.smartcitysz.com/error 
