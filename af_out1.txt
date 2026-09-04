@@ -1,12 +1,0 @@
-
-Afrog/3.5.6 | Security Toolkit | The Magic Is in the Work
-════════════════════════════════════════════════════════
-[✓] Core:  3.5.6              
-[✓] POC:   0.5.29             
-[✓] Cur:   0/pocs https://t.zsxq.com/lV66x 
-[✓] OOB:   Not required (no OOB PoCs) 
-════════════════════════════════════════════════════════
-001 09-05 02:14:32 ssh-detect INFO en.szafi.com.cn:22 [ssh="SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.18"]
-002 09-05 02:14:32 ssh-detect INFO www.szafi.com.cn:22 [ssh="SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.18"]
-003 09-05 02:14:44 telnet-detect INFO www.szafi.com.cn:22 
-004 09-05 02:14:44 telnet-detect INFO en.szafi.com.cn:22 
