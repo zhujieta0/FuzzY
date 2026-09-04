@@ -6,9 +6,3 @@ Afrog/3.5.6 | Security Toolkit | The Magic Is in the Work
 [✓] Cur:   0/pocs https://t.zsxq.com/lV66x 
 [✓] OOB:   Not required (no OOB PoCs) 
 ════════════════════════════════════════════════════════
-001 09-04 02:17:26 imap-detect INFO mail.szap.com:993 
-002 09-04 02:18:53 smtp-detect INFO mx.szap.com:25 
-003 09-04 02:18:55 smtp-detect INFO mail.szap.com:25 
-004 09-04 02:18:56 smtp-detect INFO mailx.szap.com:25 
-005 09-04 02:21:47 shiro-detect INFO http://www.smartcitysz.com:80/ 
-006 09-04 02:21:48 shiro-detect INFO https://www.smartcitysz.com:443/ 
